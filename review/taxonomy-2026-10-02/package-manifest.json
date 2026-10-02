@@ -1,0 +1,49 @@
+{
+  "source_commit": "aa0555c5e1595571ac185bb9870cf493226eae1e",
+  "source_atom_sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+  "files": {
+    "decisions.json": {
+      "bytes": 13435,
+      "sha256": "ff1f4a79cc175e68c96feaf73ba625ccef7079555fa2b8081f4e17da633ad7e0"
+    },
+    "README.md": {
+      "bytes": 5135,
+      "sha256": "25e5c606378a4cf5685da4be654d136a5be3c69ea2c855e38b8bc0c52a31ab31"
+    },
+    "build_review.py": {
+      "bytes": 35983,
+      "sha256": "39f534a1279c04bbac921f368ed0cd3ddfd5e58ad79fd458ac54ca9c7f81a978"
+    },
+    "issues-and-notices.json": {
+      "bytes": 28753,
+      "sha256": "7ac60ca224ae4b49c698943aaebea7ccebb6bdb2ea0b6ed52aaae4cd138a0c0e"
+    },
+    "lineage-register.json": {
+      "bytes": 298101,
+      "sha256": "f236460591804790488dd3f0055946fc30552f2bd9c6ee0e1ec7c41fdcfa1f8d"
+    },
+    "evidence.json": {
+      "bytes": 56822,
+      "sha256": "383b827e1eded1d4a8edae750d65a41786fa87c6b8fe3fbb08e13d98e154abe7"
+    },
+    "review.html": {
+      "bytes": 159578,
+      "sha256": "5dece6051238ffaa6219ba4281eefa84eef91b900d131415b95080b6da17d149"
+    },
+    "normalization-map.json": {
+      "bytes": 222809,
+      "sha256": "d0a47b9d18e7b6af058022156de4ec9341baeff55b2494d38316cfcd1f0749ed"
+    },
+    "coverage.json": {
+      "bytes": 1949,
+      "sha256": "cd2b341fd792e50b391ede3035aae391c13c93a61ea3aed2321109c7136c2948"
+    },
+    "post-change-preview.json": {
+      "bytes": 222656,
+      "sha256": "045d3e35341203aa2e2d9619ef89e21869798ea3fd53b4dd5615a1cde7d33782"
+    }
+  },
+  "source_unchanged": true,
+  "all_excerpts_verified": true,
+  "all_label_mappings_covered": true
+}

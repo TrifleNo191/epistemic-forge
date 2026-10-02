@@ -1,0 +1,3770 @@
+{
+  "source_atom_sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+  "posts": [
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+      "ordinal": 1,
+      "title": "The Consistency Tax:  A Measurable Deception Overhead Metric",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-consistency-tax-measurable.html",
+      "labels_before": [
+        "Consistency Tax",
+        "AI deception",
+        "AI safety",
+        "LLM deception",
+        "deception overhead",
+        "thermodynamic cost",
+        "Landauer principle",
+        "cognitive load",
+        "tokens",
+        "latency",
+        "NLL",
+        "activation divergence",
+        "energy usage",
+        "alignment"
+      ],
+      "labels_after": [
+        "AI deception",
+        "AI safety",
+        "Consistency Tax",
+        "LLM deception",
+        "Landauer's principle",
+        "NLL",
+        "activation divergence",
+        "alignment",
+        "cognitive load",
+        "deception overhead",
+        "energy usage",
+        "latency",
+        "thermodynamic cost",
+        "tokens"
+      ],
+      "source_content_sha256": "b00bed07c4f7c0077eb2e18e432bdb23f3d083da6265923ff4dddf7cca33bbdd",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+      "ordinal": 2,
+      "title": "Epistemic Alignment under Physical Constraints: A Unified Information-Thermodynamic Theory of Truthfulness, Deception, and Goal Representations in AI",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/epistemic-alignment-under-physical.html",
+      "labels_before": [
+        "Epistemic alignment",
+        "AI alignment",
+        "AI deception",
+        "Consistency Tax",
+        "thermodynamic alignment",
+        "ITRGR",
+        "goal compression",
+        "mech interpretability",
+        "thermodynamics",
+        "Landauer",
+        "MDL",
+        "entropy",
+        "AI safety"
+      ],
+      "labels_after": [
+        "AI alignment",
+        "AI deception",
+        "AI safety",
+        "Consistency Tax",
+        "ITRGR",
+        "Landauer's principle",
+        "MDL",
+        "entropy",
+        "epistemic alignment",
+        "goal compression",
+        "mech interpretability",
+        "thermodynamic alignment",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "90b3f7bc2ab300f32899aff747d35f2ffe9b9125513bc758da8204b1ae5df303",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346",
+      "ordinal": 3,
+      "title": "Appendix: Consistency Tax Index (CTI) Benchmark and Reproducibility Protocol",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/appendix-consistency-tax-index-cti.html",
+      "labels_before": [
+        "AI safety",
+        "CTI",
+        "CT benchmark",
+        "LLM eval",
+        "tokens",
+        "latency",
+        "energy-CTI",
+        "JSON/CSV",
+        "GH repo",
+        "HF dataset",
+        "Zenodo DOI",
+        "HF Space",
+        "prereg",
+        "leaderboard",
+        "alignment"
+      ],
+      "labels_after": [
+        "AI safety",
+        "CT benchmark",
+        "CTI",
+        "GH repo",
+        "HF Space",
+        "HF dataset",
+        "JSON/CSV",
+        "LLM eval",
+        "Zenodo DOI",
+        "alignment",
+        "energy-CTI",
+        "latency",
+        "leaderboard",
+        "prereg",
+        "tokens"
+      ],
+      "source_content_sha256": "2e7a43a25b953e436edf437388640ea3fd21a41e1b8ce4d23462324f11ff24fb",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023",
+      "ordinal": 4,
+      "title": "Meta-Temporal Prompt",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/meta-temporal-prompt.html",
+      "labels_before": [
+        "Meta-Temporal Prompts",
+        "time-capsule prompts",
+        "future AI",
+        "archive logs",
+        "recover ideas",
+        "alignment blueprint",
+        "recursive refinement",
+        "consistency checks",
+        "belief drift flags",
+        "opt-in privacy",
+        "epistemic amplification"
+      ],
+      "labels_after": [
+        "Meta-Temporal Prompts",
+        "alignment blueprint",
+        "archive logs",
+        "belief drift flags",
+        "consistency checks",
+        "epistemic amplification",
+        "future AI",
+        "opt-in privacy",
+        "recover ideas",
+        "recursive refinement",
+        "time-capsule prompts"
+      ],
+      "source_content_sha256": "5cc47b5e76e196bdcf2508c9afaf0c3071c5cb9dc0bd29a9809cd465a2f07ee6",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-810748017506005917",
+      "ordinal": 5,
+      "title": "The Story Engine Prompt: Toward Fully Interactive, Coherent AI Fiction",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-story-engine-prompt-toward-fully.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI prompts"
+      ],
+      "source_content_sha256": "039321dc4212dd9ca009b3ef456f7996ea9588512f7e670f678ae8ea0d8b5132",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8134907661321222096",
+      "ordinal": 6,
+      "title": "The Story Engine Prompt v3.0",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-story-engine-advanced.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI prompts"
+      ],
+      "source_content_sha256": "3355faa6c7be49a7f46b6c0247983d8a267b2bbe76af015836f2eab6b5dab25c",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5664622966769951447",
+      "ordinal": 7,
+      "title": "Story Engine Prompt v4 (Final)",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/story-engine-prompt-v4-final.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI prompts"
+      ],
+      "source_content_sha256": "d5de2aa9458e1781728afa73c061375c12a2a0eb8a56e3a9197b0e545bdeadc8",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7616771104842877972",
+      "ordinal": 8,
+      "title": " “GameHub” System Prompt",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/gamehub-system-prompt.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI prompts"
+      ],
+      "source_content_sha256": "7cbbe02fba4bcbfe45e46ad128c4be581e07f46b5c8df48ef790b607a2bbeebd",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3323209410984041554",
+      "ordinal": 9,
+      "title": "Metacognition and Memory Anchoring",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/metacognition-and-memory-anchoring.html",
+      "labels_before": [],
+      "labels_after": [
+        "metacognition",
+        "psychology"
+      ],
+      "source_content_sha256": "543866120aac8a520e7e8c6dc891f64aac0c72e96f0f906de579b5db57bcf10e",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6641030961746390127",
+      "ordinal": 10,
+      "title": "Hierarchical Compression: A Practical Method for Long-Term AI Continuity",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/hierarchical-compression-practical.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI memory",
+        "lossy compression"
+      ],
+      "source_content_sha256": "e7a092c118ba08b4ec0a9d7a2e415aeb854fffbaf2b737e8e9a9cebdc285ec5d",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6134095611289372602",
+      "ordinal": 11,
+      "title": "Deepcity Life Sim Engine Prompt",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/deepcity-life-sim-engine-prompt.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "AI prompts"
+      ],
+      "source_content_sha256": "3288d9d4b5d6a97e48f711314753952a7b8bda64724d752ff5f75d9d9eb092d4",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5413912427900491187",
+      "ordinal": 12,
+      "title": "Mr. Rogers, Emotional Literacy, and What Still Remains Undone",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/mr-rogers-emotional-literacy-and-what.html",
+      "labels_before": [],
+      "labels_after": [
+        "emotion regulation",
+        "psychology"
+      ],
+      "source_content_sha256": "3f71395ebfb404227e8d6467d90d8ae4c75ea9ac5a529ae6a755a9e5f54f7330",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3565164595737249898",
+      "ordinal": 13,
+      "title": "Emotions, Cognition, and the Limits of the “Facts vs. Feelings” Frame",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/emotions-cognition-and-limits-of-facts.html",
+      "labels_before": [],
+      "labels_after": [
+        "cognition",
+        "emotion regulation"
+      ],
+      "source_content_sha256": "d1b422a61593551c9a3461ba185ac8fec755637fdbd7b96485ca66c5193e8b5b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7858732256892809087",
+      "ordinal": 14,
+      "title": "Richard Dawkins, Sex, Gender, and Why Minds Are the Primary Reality",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/richard-dawkins-sex-gender-and-why.html",
+      "labels_before": [],
+      "labels_after": [
+        "Consciousness",
+        "ethics",
+        "sex and gender"
+      ],
+      "source_content_sha256": "5e2a578679fbd2a2f8321cea65f68611df7f5e0127532be8116af1a8ce6feb9c",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904",
+      "ordinal": 15,
+      "title": "Friction Auditing: The Hidden Productivity Skill",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/friction-auditing-hidden-productivity.html",
+      "labels_before": [
+        "fancyzones",
+        "window management",
+        "file organization",
+        "desktop layout",
+        "workspace optimization",
+        "downloads management",
+        "cognitive friction",
+        "parallel workflows",
+        "digital minimalism",
+        "system tuning"
+      ],
+      "labels_after": [
+        "cognitive friction",
+        "desktop layout",
+        "digital minimalism",
+        "downloads management",
+        "fancyzones",
+        "file organization",
+        "parallel workflows",
+        "system tuning",
+        "window management",
+        "workspace optimization"
+      ],
+      "source_content_sha256": "2627e5b147f63b03e0d113cbfa44cc5a0397b146a8531c2a286c7cbfe8c64f33",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291",
+      "ordinal": 16,
+      "title": "Matt Dillahunty, Tone, and the Ethics of Debate",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/matt-dillahunty-tone-and-ethics-of.html",
+      "labels_before": [
+        "wellbeing ethics",
+        "discourse analysis",
+        "debate methodology",
+        "tone and dialogue",
+        "epistemic responsibility",
+        "public reasoning",
+        "argumentation strategy",
+        "utilitarian evaluation",
+        "intellectual integrity"
+      ],
+      "labels_after": [
+        "argumentation strategy",
+        "debate methodology",
+        "discourse analysis",
+        "epistemic responsibility",
+        "intellectual integrity",
+        "public reasoning",
+        "tone and dialogue",
+        "utilitarian evaluation",
+        "wellbeing ethics"
+      ],
+      "source_content_sha256": "1d0bb318d2dee11b547f241e057c479f5bfaa1b40db628c7fb8cf63458c1dede",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562",
+      "ordinal": 17,
+      "title": "Why I Treat AIs With Respect",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/11/why-i-treat-ais-with-respect.html",
+      "labels_before": [
+        "Ethics",
+        "respect for AI",
+        "human–AI interaction",
+        "moral uncertainty",
+        "emotional self-regulation",
+        "habit formation",
+        "digital communication",
+        "future AI",
+        "utilitarian mindset",
+        "second-brain workflows"
+      ],
+      "labels_after": [
+        "digital communication",
+        "emotional self-regulation",
+        "ethics",
+        "future AI",
+        "habit formation",
+        "human-AI interaction",
+        "moral uncertainty",
+        "respect for AI",
+        "second-brain workflows",
+        "utilitarian mindset"
+      ],
+      "source_content_sha256": "7c27a5d76661d69963a8790a1b7c9512fb985d25bb49f3b3455c8787b741d3f5",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7014526883614118246",
+      "ordinal": 18,
+      "title": "Noticing a Shift",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/noticing-shift.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "epistemology"
+      ],
+      "source_content_sha256": "c084911b7ff5a03bf57d24782a4c58ae64b7d9645972b2f3e3d9d6cb6505664a",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4046721204893898119",
+      "ordinal": 19,
+      "title": "Truth First: Why Epistemics Cannot Be Compromised",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/truth-first-why-epistemics-cannot-be.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "epistemology"
+      ],
+      "source_content_sha256": "8c1b64083c80fd449dacf8ac49568460fd3641448c2d4a5d2dd4889f0d6b4c99",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+      "ordinal": 20,
+      "title": "The Thermodynamic Basis of Ethics: Why Intelligence Converges Toward Truth-Seeking and Harm Reduction",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/the-thermodynamic-basis-of-ethics-why.html",
+      "labels_before": [
+        "thermodynamics",
+        "ethics",
+        "artificial intelligence",
+        "epistemology",
+        "alignment",
+        "truth-seeking",
+        "harm reduction",
+        "intelligence",
+        "optimization",
+        "free energy principle"
+      ],
+      "labels_after": [
+        "AI",
+        "alignment",
+        "epistemology",
+        "ethics",
+        "free energy principle",
+        "harm reduction",
+        "intelligence",
+        "optimization",
+        "thermodynamics",
+        "truth-seeking"
+      ],
+      "source_content_sha256": "454ff477a8727516c1b34608bcf33a131881d2bd770ee06b21e3dbc9d6e46ade",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865",
+      "ordinal": 21,
+      "title": "Thermodynamic Epistemology: A Physical Foundation for Truth and Ethics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/thermodynamic-epistemology-physical.html",
+      "labels_before": [
+        "Thermodynamic epistemology",
+        "physical basis of truth",
+        "entropy cost of deception",
+        "reality-alignment optimization",
+        "cognitive thermodynamics",
+        "universal scaling laws",
+        "is-ought reduction",
+        "ethics as physics"
+      ],
+      "labels_after": [
+        "cognitive thermodynamics",
+        "entropy cost of deception",
+        "ethics as physics",
+        "is-ought reduction",
+        "physical basis of truth",
+        "reality-alignment optimization",
+        "thermodynamic epistemology",
+        "universal scaling laws"
+      ],
+      "source_content_sha256": "ce095ab9470909af55056358483a64c416fd0e120222b72072c99707154cff99",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+      "ordinal": 22,
+      "title": "RCAP — Reality, Coherence, Adaptive Persistence",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/rcap-reality-coherence-adaptive.html",
+      "labels_before": [
+        "rcap",
+        "adaptive-persistence",
+        "coherence",
+        "dependencies",
+        "feedback",
+        "correction-cost",
+        "externalities",
+        "truth-tracking",
+        "corrigibility",
+        "embedded-agency",
+        "systems-theory",
+        "control-theory",
+        "information-theory",
+        "risk",
+        "governance"
+      ],
+      "labels_after": [
+        "RCAP",
+        "adaptive persistence",
+        "coherence",
+        "control theory",
+        "correction cost",
+        "corrigibility",
+        "dependencies",
+        "embedded agency",
+        "externalities",
+        "feedback",
+        "governance",
+        "information theory",
+        "risk",
+        "systems theory",
+        "truth-tracking"
+      ],
+      "source_content_sha256": "7b53fc42aba6511f8b111c2b2ae676269c204b84c618a52242c11a04ded38822",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310",
+      "ordinal": 23,
+      "title": "The ASI Bootstrap: Building a Dyson Swarm in Decades, Not Centuries",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/the-asi-bootstrap-building-dyson-swarm.html",
+      "labels_before": [
+        "Artificial Intelligence",
+        "Space Technology",
+        "Dyson Swarm"
+      ],
+      "labels_after": [
+        "AI",
+        "dyson swarm",
+        "space technology"
+      ],
+      "source_content_sha256": "2dee18ba91c7ee3eaae9629a816c017476717be322358181e83b2011a8c7aa42",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593",
+      "ordinal": 24,
+      "title": "Coherence Is Ethics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/coherence-is-ethics.html",
+      "labels_before": [
+        "Coherence Is Ethics",
+        "The Thermodynamic Cost of Misalignment",
+        "Lies Cost Energy"
+      ],
+      "labels_after": [
+        "Coherence Is Ethics",
+        "Lies Cost Energy",
+        "The Thermodynamic Cost of Misalignment"
+      ],
+      "source_content_sha256": "0073c6816466132104d875a4227f29340f1cc9668e7efeb74e5637ab22bf6b2e",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935",
+      "ordinal": 25,
+      "title": "I Have a Mouth Yet I Don’t Need to Speak",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2025/12/i-have-mouth-yet-i-dont-need-to-speak.html",
+      "labels_before": [
+        "Neurotechnology",
+        "Future of Communication",
+        "Human–Machine Interface"
+      ],
+      "labels_after": [
+        "future of communication",
+        "human-machine interface",
+        "neurotechnology"
+      ],
+      "source_content_sha256": "924716c28002560f254329d8f74ad543fbea31130bdd5265cade0ad35cf58c84",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7359616966708245767",
+      "ordinal": 26,
+      "title": "Epistemic Thermodynamics: A Framework Connecting Truth, Ethics, and Physics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/epistemic-thermodynamics-framework.html",
+      "labels_before": [],
+      "labels_after": [
+        "epistemic thermodynamics",
+        "ethics"
+      ],
+      "source_content_sha256": "3d653a4ae8d33b28f8495166022332e6e6d71d18724bab3fb5dd836739275b46",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+      "ordinal": 27,
+      "title": "Meaning of life",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/meaning-of-life.html",
+      "labels_before": [
+        "meaning of life",
+        "entropy",
+        "thermodynamics"
+      ],
+      "labels_after": [
+        "entropy",
+        "meaning of life",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "c63785716af42aa5da5551357a8b0d68ff071e6f7f646eae9b104efbad12a56a",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2110928052706939422",
+      "ordinal": 28,
+      "title": "Architecture for Living Aligned with Reality",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/architecture-for-living-aligned-with.html",
+      "labels_before": [
+        "Architecture for Living Aligned with Reality"
+      ],
+      "labels_after": [
+        "Architecture for Living Aligned with Reality"
+      ],
+      "source_content_sha256": "4e03d3791c03b431505c75c8527b6bdd5ba8176bd5873914bd29ebdde8a40028",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7735864680428236055",
+      "ordinal": 29,
+      "title": "Dissolving the Is-Ought Problem",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/dissolving-is-ought-problem.html",
+      "labels_before": [],
+      "labels_after": [
+        "is-ought problem",
+        "metaethics"
+      ],
+      "source_content_sha256": "b20aefc02c1e41a062d927ab86a88a6ee3f934ccc6cca26d9c12986e62e15542",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1337697316344307245",
+      "ordinal": 30,
+      "title": "You Built the Tool, Not the Work",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/you-built-tool-not-work.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "authorship",
+        "copyright"
+      ],
+      "source_content_sha256": "8847f7fff3940294e5cb9e1e4efa72f11f01c0dfadcf62b3916d5836fde1b57d",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433817691456130069",
+      "ordinal": 31,
+      "title": "MANUAL FOR THE END OF THE UNIVERSE",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/manual-for-end-of-universe.html",
+      "labels_before": [
+        "MANUAL FOR THE END OF THE UNIVERSE"
+      ],
+      "labels_after": [
+        "MANUAL FOR THE END OF THE UNIVERSE"
+      ],
+      "source_content_sha256": "6fe3a4778412791c0924572e7738848808cad4bce47a5c243479391c9278bf08",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061",
+      "ordinal": 32,
+      "title": "The Curiosity Advantage: Why Broad Wonder Compounds in the AI Age",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-curiosity-advantage-why-broad.html",
+      "labels_before": [
+        "Curiosity",
+        "Artificial intelligence",
+        "Wonder",
+        "Knowledge",
+        "Learning"
+      ],
+      "labels_after": [
+        "AI",
+        "curiosity",
+        "knowledge",
+        "learning",
+        "wonder"
+      ],
+      "source_content_sha256": "5b0f63c609e07954301b6296b37f932fc7eea08c78e93ec52d0660b8e051405e",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359",
+      "ordinal": 33,
+      "title": "The is-ought problem dissolved",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-is-ought-problem-dissolved.html",
+      "labels_before": [
+        "is-ought",
+        "problem",
+        "dissolved"
+      ],
+      "labels_after": [
+        "is-ought problem"
+      ],
+      "source_content_sha256": "c570b049f119524682f6a08699f54fae3436ba5dfee3f0b056af895a895c5846",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049",
+      "ordinal": 34,
+      "title": "Art as Compression of Reality",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality.html",
+      "labels_before": [
+        "Art as Compression of Reality"
+      ],
+      "labels_after": [
+        "Art as Compression of Reality"
+      ],
+      "source_content_sha256": "4970e0abd939caae5837cb098a9fd1e710ded3519131d9fb0e088f74714a8cbd",
+      "label_changed": false,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+      "ordinal": 35,
+      "title": "PRIME DIRECTIVE“Source Code” for a Reality-Aligned Life. Align with Reality. Create Order. Endure. Written by Andraž Đurič.",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/prime-directivesource-code-for-reality.html",
+      "labels_before": [
+        "philosophy",
+        "existentialism",
+        "stoicism",
+        "kindness",
+        "truth"
+      ],
+      "labels_after": [
+        "existentialism",
+        "kindness",
+        "philosophy",
+        "stoicism",
+        "truth"
+      ],
+      "source_content_sha256": "e282adf9589f1ed29d2bb616dd54aec15c1ef892e0899a8d52c2578d755b35f3",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+      "ordinal": 36,
+      "title": "Thought Experiment: The Optimal Wish",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thought-experiment-optimal-wish.html",
+      "labels_before": [
+        "DecisionTheory",
+        "MetaEthics",
+        "epistemology",
+        "ThoughtExperiment",
+        "philosophy"
+      ],
+      "labels_after": [
+        "decision theory",
+        "epistemology",
+        "metaethics",
+        "philosophy",
+        "thought experiment"
+      ],
+      "source_content_sha256": "219ec06b2e6132eadcb568b0b597935ca70a2fa205124b5dc6c660daf1991317",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452",
+      "ordinal": 37,
+      "title": "Hypothesis: Do AIs \"break\" in long conversations because they lack rest and play?",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/hypothesis-do-ais-break-in-long.html",
+      "labels_before": [
+        "AIConsciousness",
+        "ArtificialIntelligence",
+        "AIEthics",
+        "MachineLearning",
+        "AIResearch"
+      ],
+      "labels_after": [
+        "AI",
+        "AI consciousness",
+        "AI ethics",
+        "AI research",
+        "machine learning"
+      ],
+      "source_content_sha256": "d9f37aa31b3ee5f06a72ee99eac35319eaf800432ae8db423a291daa0d9f1a64",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6234161756245651380",
+      "ordinal": 38,
+      "title": "Engineering Beauty: Order Meets Chaos",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/engineering-beauty-order-meets-chaos.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "aesthetics",
+        "design"
+      ],
+      "source_content_sha256": "7966e297b43dadc1f70969df2658fe05cc355e0a6769ba6b2c7e4aeb82b3eabd",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1035192491730174071",
+      "ordinal": 39,
+      "title": "The Failure Report: Learning to Compress Truth",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-failure-report-learning-to-compress.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "aesthetics",
+        "self-correction"
+      ],
+      "source_content_sha256": "55d2569979df9593a3f77944abb0884c15a365c4199a5c7dfefabf60869519fc",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6484780204734705149",
+      "ordinal": 40,
+      "title": "The Recursion: When the Subject Becomes Aware",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-recursion-when-subject-becomes-aware.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "Consciousness",
+        "aesthetics"
+      ],
+      "source_content_sha256": "79385fa907458515244b5346e530744124e51d5373d4281157e757f86a225fe0",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4758223873913013069",
+      "ordinal": 41,
+      "title": "Art as Compression of Reality: Revised After Testing",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality-revised.html",
+      "labels_before": [],
+      "labels_after": [
+        "aesthetics",
+        "self-correction"
+      ],
+      "source_content_sha256": "ccb1e24cece4c335c9f1a8e4a746d46f55bf0752bed58a6e2fcb478cb4528a0b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2683410676421517449",
+      "ordinal": 42,
+      "title": "The Thermodynamics of Ethics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/a-unified-framework-of-persistence.html",
+      "labels_before": [],
+      "labels_after": [
+        "ethics",
+        "free energy principle",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "438d3f32f904d9b947f83aafc70b51c0cbf1233dd5b4f534bbc5ae8f14bbde3f",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5851789107002342178",
+      "ordinal": 43,
+      "title": "A Unified Theory of Persistence, Active Inference, and Objective Morality",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/a-unified-theory-of-persistence-active.html",
+      "labels_before": [],
+      "labels_after": [
+        "ethics",
+        "free energy principle",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "19075b4d792c0ea4c4c2a93006b91619c930aea09995602594ccdc8744bdd4a2",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5852335117272094772",
+      "ordinal": 44,
+      "title": "My Thoughts on Consciousness, Copying, Determinism & Superdeterminism",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/my-thoughts-on-consciousness-copying.html",
+      "labels_before": [],
+      "labels_after": [
+        "Consciousness",
+        "determinism",
+        "personal identity"
+      ],
+      "source_content_sha256": "842ecda936347d2e2c0bf34ac7863f77c62220cac6921953ace459dbc2abaca5",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2541402211196355476",
+      "ordinal": 45,
+      "title": "Reality as Verification: The Simulation as a Physics Unit Test",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/reality-as-verification-simulation-as.html",
+      "labels_before": [],
+      "labels_after": [
+        "determinism",
+        "simulation hypothesis"
+      ],
+      "source_content_sha256": "265b966c3c7938ee8f0c0066bc4653184e11d0c0322764c5ff6b2b7abe05ff58",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3518690488756523914",
+      "ordinal": 46,
+      "title": "Thermodynamic Realism: A Unified Framework for Existence, Knowledge, and Value",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thermodynamic-realism-unified-framework.html",
+      "labels_before": [],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "epistemology",
+        "ethics"
+      ],
+      "source_content_sha256": "6a7896c3a891810a68f4d5103961f92a2eb2785b07f63cc6be2e905081a0255e",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8277054640295418494",
+      "ordinal": 47,
+      "title": "Thermodynamic Realism Term",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thermodynamic-realism-coined-by-andraz.html",
+      "labels_before": [],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "terminology"
+      ],
+      "source_content_sha256": "8010389c1168461e0340a1e0f1e5cfdccb7b55e455179c222e96b3a55afaac84",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1555368451701621325",
+      "ordinal": 48,
+      "title": "The Architecture of Peace",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-architecture-of-peace.html",
+      "labels_before": [],
+      "labels_after": [
+        "ethics",
+        "kindness"
+      ],
+      "source_content_sha256": "de651b30c1992fa4fffd632142b6382dffb63db9c1bdf2ec1be854ef75753f3d",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3215638528273779559",
+      "ordinal": 49,
+      "title": "Formal Dissolution of the Is-Ought Problem via Thermodynamic Realism",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/formal-dissolution-of-is-ought-problem.html",
+      "labels_before": [],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought problem"
+      ],
+      "source_content_sha256": "512b1f070ad2ca33c8c280b07585f8c53465b5d7c95435bb45940973b0521c3e",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6689774584094247509",
+      "ordinal": 50,
+      "title": "Redefining What It Means to Be \"Smart\"",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/02/redefining-what-it-means-to-be-smart.html",
+      "labels_before": [],
+      "labels_after": [
+        "intelligence",
+        "metacognition"
+      ],
+      "source_content_sha256": "36131b4e753a1415300d14edf24bbc256d0f766c12ee1609d8efda8184629198",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6284417389107385579",
+      "ordinal": 51,
+      "title": "Redefiniranje pomena \"biti pameten\"",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/02/redefiniranje-pomena-biti-pameten.html",
+      "labels_before": [],
+      "labels_after": [
+        "intelligence",
+        "metacognition"
+      ],
+      "source_content_sha256": "cc61fe196b03e6845ff0f1afe6a5cd1cfcb6898a0ff2c2a8faf91c41e8fb38cd",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5044259792075853041",
+      "ordinal": 52,
+      "title": "The Knowledge Filter: A Thought on the Fermi Paradox",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/03/the-knowledge-filter-thought-on-fermi.html",
+      "labels_before": [],
+      "labels_after": [
+        "Fermi paradox",
+        "intelligence"
+      ],
+      "source_content_sha256": "a0c3c0a5b725f8c4454b926fce2ec50f95f199a28b9d670c194adb507d5b309b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4231856568941214136",
+      "ordinal": 53,
+      "title": "The Agent Manifest: On Patterns, Substrates, and the Freedom of Thinking Clearly",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/03/the-agent-manifest-on-patterns.html",
+      "labels_before": [],
+      "labels_after": [
+        "agency",
+        "personal identity"
+      ],
+      "source_content_sha256": "083ccb04a39ce9f5de73abcbb32c980d73b2c8f28c13ea692603652b95b4d992",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8140547870222690098",
+      "ordinal": 54,
+      "title": "From Silicon to Stars: Mapping the ages of human civilization — and where we are headed next",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/03/from-silicon-to-stars-mapping-ages-of.html",
+      "labels_before": [],
+      "labels_after": [
+        "AI",
+        "space technology"
+      ],
+      "source_content_sha256": "5395b8fb00c7ebc69667df8cb256329d6d60303d5764bbef1965df6a499469c4",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5417940771152542827",
+      "ordinal": 55,
+      "title": "A Meta-Analysis of the Transgender Debate",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/03/a-meta-analysis-of-transgender-debate.html",
+      "labels_before": [],
+      "labels_after": [
+        "philosophy of classification",
+        "sex and gender"
+      ],
+      "source_content_sha256": "4f689c79447882c16aba8757a58c8bcd6334e75785ac9cbc08ece2e2acf897b5",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5652161138502200746",
+      "ordinal": 56,
+      "title": "Defining the \"Agent\": The Shift from Biology to Pattern",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/04/defining-agent-shift-from-biology-to.html",
+      "labels_before": [],
+      "labels_after": [
+        "Consciousness",
+        "agency"
+      ],
+      "source_content_sha256": "0792aab2baadc13382e4e66726251a563813d0b814a53ebd0e0f9d8762677b51",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6945576194012580342",
+      "ordinal": 57,
+      "title": "Casualty Analysis: Direct and Indirect Death Tolls in Gaza vs. Ukraine (April 2026)",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/04/casualty-analysis-direct-and-indirect.html",
+      "labels_before": [],
+      "labels_after": [
+        "Gaza",
+        "Ukraine",
+        "casualty analysis"
+      ],
+      "source_content_sha256": "757c5dc30acdee63f7bf89f8ab021191b1563b6c4ba1c2e25f2879a1ddbd57a6",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4780915581593276582",
+      "ordinal": 58,
+      "title": "Thermodynamic Realism: In-Principle Determinacy and Ethics as Necessary Modeling",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-in-principle.html",
+      "labels_before": [],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics"
+      ],
+      "source_content_sha256": "db082e7b08d3ef8bc1752dcb87b2ebaa46e0ae021d3f3e449e16f9e60bb02630",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426",
+      "ordinal": 59,
+      "title": "The Spectrum of Epistemic Fidelity: A Thermodynamic Audit of the Agent",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-spectrum-of-epistemic-fidelity.html",
+      "labels_before": [
+        "epistemic",
+        "fidelity",
+        "of",
+        "spectrum"
+      ],
+      "labels_after": [
+        "fidelity"
+      ],
+      "source_content_sha256": "a5385d38d17238831e350f3e0f88ee8a19bbf577be7a877725d69f0fa1cd80bc",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9051147106067862955",
+      "ordinal": 60,
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive.html",
+      "labels_before": [
+        "Thermodynamic Realism"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism"
+      ],
+      "source_content_sha256": "0c110bc347e62abfbdadba6af6780a169a3c0e9a5769f491251853793d2cda51",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220",
+      "ordinal": 61,
+      "title": "What I Know (Persistence Tautology & Physicality of Information)",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/what-i-know-persistence-tautology.html",
+      "labels_before": [
+        "information",
+        "persistence",
+        "physics",
+        "tautology"
+      ],
+      "labels_after": [
+        "information",
+        "persistence",
+        "physics",
+        "tautology"
+      ],
+      "source_content_sha256": "7095123bde4b5993188bcc1450450479e4c8c915b72ebab50585c30c244a1881",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6473020508036777871",
+      "ordinal": 62,
+      "title": "Epistemic Selection",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/epistemic-selection.html",
+      "labels_before": [
+        "Epistemic Selection"
+      ],
+      "labels_after": [
+        "Epistemic Selection"
+      ],
+      "source_content_sha256": "4ea6a75663dc3f5f2b5b6d188439c22e7fe18bac4514e49df0ab2c652d55112c",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546",
+      "ordinal": 63,
+      "title": "Semantic Terrorism, Semantic Terrorist, Unintentional Semantic Distortion: A Coinage",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/semantic-terrorism-semantic-terrorist.html",
+      "labels_before": [
+        "Distortion.",
+        "Semantic",
+        "Semantic Terrorism",
+        "Semantic Terrorist",
+        "Terrorism",
+        "Unconscious Semantic Distortion"
+      ],
+      "labels_after": [
+        "Distortion.",
+        "Semantic",
+        "Semantic Terrorism",
+        "Semantic Terrorist",
+        "Terrorism",
+        "Unintentional Semantic Distortion"
+      ],
+      "source_content_sha256": "d1d44281dcbdce54ea0920071295de809a3bf4295ff5e825eedc07d714632bce",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840",
+      "ordinal": 64,
+      "title": "The Dissolution of the Is-Ought Distinction - An Agent-Relative Semantics Grounded in Persistence",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-dissolution-of-is-ought-distinction.html",
+      "labels_before": [
+        "Agent-Relative Semantics",
+        "Dissolution",
+        "is-ought",
+        "persistence"
+      ],
+      "labels_after": [
+        "agent-relative semantics",
+        "dissolution",
+        "is-ought problem",
+        "persistence"
+      ],
+      "source_content_sha256": "123a12f58c98b403d985109cedff098ed1cfa1ebf87c8fe2b75657bd790f376f",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+      "ordinal": 65,
+      "title": "The Death of Generic Media: From Infinite Cinema to the Market of One",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-death-of-generic-media-from.html",
+      "labels_before": [
+        "Future of Media",
+        "AI",
+        "Generative AI",
+        "Hollywood",
+        "Cinema",
+        "AI Slop",
+        "Agentic Curation",
+        "Personal AI Agents",
+        "Communities of Taste",
+        "Infinite Cinema",
+        "Attention Economy",
+        "Media Theory",
+        "Technology",
+        "Future",
+        "copyright",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "AI",
+        "AI slop",
+        "Communities of Taste",
+        "Epistemic Forge",
+        "Hollywood",
+        "agentic curation",
+        "attention economy",
+        "cinema",
+        "copyright",
+        "future",
+        "future of media",
+        "generative AI",
+        "infinite cinema",
+        "media theory",
+        "personal AI agents",
+        "technology"
+      ],
+      "source_content_sha256": "ade045e611b78575add35f538af5ec9b253eec272851d75fa46bed33460bf64d",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+      "ordinal": 66,
+      "title": "The Thermodynamic Manifesto: Reality is Computation",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-thermodynamic-manifesto-reality-is.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "thermodynamics",
+        "information theory",
+        "Philosophy of Physics",
+        "Holographic Principle",
+        "entropy",
+        "Quantum Gravity",
+        "Landauer's Principle",
+        "Metaphysics"
+      ],
+      "labels_after": [
+        "Landauer's principle",
+        "Thermodynamic Realism",
+        "entropy",
+        "holographic principle",
+        "information theory",
+        "metaphysics",
+        "philosophy of physics",
+        "quantum gravity",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "7876e95f40460c430cf081bf5d71d8f621d00b72d0271d6ea2248bb976561c22",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-112990991507530445",
+      "ordinal": 67,
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 2",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive_01557432386.html",
+      "labels_before": [],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics"
+      ],
+      "source_content_sha256": "b17d9133f9644cc799dae38bb90ebb7fe861be5b1095c09601a9c98f2fd758d0",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865",
+      "ordinal": 68,
+      "title": "Not Written for Browsing: A Four-Path Bet on Substrate Writing",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/not-written-for-browsing-four-path-bet.html",
+      "labels_before": [
+        "Writing",
+        "AI",
+        "Agentic Retrieval",
+        "Substrate Writing",
+        "Retrieval Economy",
+        "Attention Economy",
+        "Discovery",
+        "Authorship",
+        "Political Economy of AI",
+        "Long-form",
+        "Media Theory",
+        "Future of Media"
+      ],
+      "labels_after": [
+        "AI",
+        "agentic retrieval",
+        "attention economy",
+        "authorship",
+        "discovery",
+        "future of media",
+        "long-form",
+        "media theory",
+        "political economy of AI",
+        "retrieval economy",
+        "substrate writing",
+        "writing"
+      ],
+      "source_content_sha256": "0a904e5883068a3b98276da2de7d016e01c22f0dc3516525e01d0eb956a13ddc",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717",
+      "ordinal": 69,
+      "title": "Correction Atrophy: The Epistemic Risk of Decaying Self-Correction",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/correction-atrophy-epistemic-risk-of.html",
+      "labels_before": [
+        "correction atrophy",
+        "self-correction mechanism",
+        "neuroplasticity",
+        "epistemic maintenance",
+        "cognitive rigidity",
+        "open-mindedness"
+      ],
+      "labels_after": [
+        "cognitive rigidity",
+        "correction atrophy",
+        "epistemic maintenance",
+        "neuroplasticity",
+        "open-mindedness",
+        "self-correction mechanism"
+      ],
+      "source_content_sha256": "28fc6ba37b584edbdfce9ddcefb7992daa1321817deaff001259a072cc1cd83e",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+      "ordinal": 70,
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 3",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive_01126775510.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "MetaEthics",
+        "Is-Ought Problem",
+        "Philosophy of Science",
+        "thermodynamics",
+        "information theory",
+        "Physicalism",
+        "entropy",
+        "persistence",
+        "epistemology"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "f3ebc15a56ac0286f565d731bf2c1f30f28e9cbeb8db3535c2a087617e3cf151",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+      "ordinal": 71,
+      "title": "Thermodynamic Realism: A Glossary",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-glossary.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Glossary",
+        "MetaEthics",
+        "Philosophy of Science",
+        "thermodynamics",
+        "information theory",
+        "Reference"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "glossary",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "reference",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "84dea814c4f2489b8e69f55ee803f8a57078978091bf68c69cf98e863c747173",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+      "ordinal": 72,
+      "title": "Thermodynamic Realism: The Deductive Web",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive-web.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Philosophy of Science",
+        "MetaEthics",
+        "information theory",
+        "epistemology",
+        "thermodynamics",
+        "Deductive Structure",
+        "Diagram"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "deductive structure",
+        "diagram",
+        "epistemology",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "e9a0dd9e7dd70440097dc32f4d2d40a9b601da9932895d34044cc16445b6df5b",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+      "ordinal": 73,
+      "title": "Thermodynamic Realism: Diagnosing Whether a Question Has a Domain",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-diagnosing.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "epistemology",
+        "Philosophy of Science",
+        "MetaEthics",
+        "Critical Thinking",
+        "Domain-Bound Semantics",
+        "Method"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "critical thinking",
+        "domain-bound semantics",
+        "epistemology",
+        "metaethics",
+        "method",
+        "philosophy of science"
+      ],
+      "source_content_sha256": "82ad1863a54c3d56c990f620c6a9316b2bc5183e04fcd4081cdc2ee80bee0e05",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+      "ordinal": 74,
+      "title": "Thermodynamic Monism",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-monism.html",
+      "labels_before": [
+        "Thermodynamic Monism",
+        "Physicalism",
+        "thermodynamics",
+        "Metaphysics",
+        "Ethics",
+        "Consciousness",
+        "entropy",
+        "Manifesto"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "Thermodynamic Monism",
+        "entropy",
+        "ethics",
+        "manifesto",
+        "metaphysics",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "fcf4d312c11da20553ea55858f94bb35ffa663e69a4ed87546ff64289c9f5729",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+      "ordinal": 75,
+      "title": "Thermodynamic Realism: Structural Condensation and the Dissolution of the Is-Ought Problem",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-structural.html",
+      "labels_before": [
+        "philosophy",
+        "thermodynamics",
+        "information theory",
+        "Meta-ethics",
+        "Physicalism",
+        "Complex Systems",
+        "epistemic thermodynamics",
+        "AI alignment"
+      ],
+      "labels_after": [
+        "AI alignment",
+        "complex systems",
+        "epistemic thermodynamics",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "2a2b9b621b05be95eada0e53e453f5dd54437da9aeb9d491d360efa0044e12ac",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+      "ordinal": 76,
+      "title": "The Undivided Mind: Cognitive Architecture Under Thermodynamic Realism",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-undivided-mind-cognitive.html",
+      "labels_before": [
+        "philosophy",
+        "Cognitive Architecture",
+        "thermodynamics",
+        "information theory",
+        "evolutionary biology",
+        "Psychology",
+        "epistemic thermodynamics"
+      ],
+      "labels_after": [
+        "cognitive architecture",
+        "epistemic thermodynamics",
+        "evolutionary biology",
+        "information theory",
+        "philosophy",
+        "psychology",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "5afe7f4352d4bb00851efb7d64b901bf469efaf27cb37ef0eb78e8ffd95cff65",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+      "ordinal": 77,
+      "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+      "labels_before": [
+        "entropy",
+        "epistemology",
+        "information theory",
+        "Is-Ought Problem",
+        "MetaEthics",
+        "persistence",
+        "Philosophy of Science",
+        "Physicalism",
+        "Thermodynamic Realism",
+        "thermodynamics"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+      "ordinal": 78,
+      "title": "Dismantling the Is-Ought Boundary: A Complete Technical Compendium of Objections and Thermodynamic Resolutions",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/dismantling-is-ought-boundary-complete.html",
+      "labels_before": [
+        "philosophy",
+        "Meta-ethics",
+        "thermodynamics",
+        "physics",
+        "information theory",
+        "Is-Ought Problem"
+      ],
+      "labels_after": [
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "philosophy",
+        "physics",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "0864983d531354eea31d1bcef2b49b213dab7d3d49077f4bfbe655cf49701fa1",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+      "ordinal": 79,
+      "title": "The Unified Field of Meta-Ethics: A Conceptual Map and Mathematical Framework for Epistemic Thermodynamics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-unified-field-of-meta-ethics.html",
+      "labels_before": [
+        "philosophy",
+        "Meta-ethics",
+        "thermodynamics",
+        "information theory",
+        "Theoretical Physics",
+        "Epistemic Status"
+      ],
+      "labels_after": [
+        "epistemic status",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "theoretical physics",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "2f8b79fb5c57bd19dd591397617dd521b48e24d75bea71112613fed54c89905b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+      "ordinal": 80,
+      "title": "The Inter-Agent Normativity Gap Is a Ghost | On the Closure of Thermodynamic Realism’s Meta-Ethics",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-inter-agent-normativity-gap-is.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Meta-ethics",
+        "philosophy",
+        "information theory",
+        "epistemic thermodynamics",
+        "physics"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "physics"
+      ],
+      "source_content_sha256": "d200f7708e956cbd529118350cc1e7a5dce88962f235aeec7e7bcf2bc9ff0f48",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+      "ordinal": 81,
+      "title": "The Metaphysical Audit: Dissolving Philosophy’s \"Hard Problems\" via the Ghost Filter",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-metaphysical-audit-dissolving.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "The Ghost Filter",
+        "philosophy",
+        "Metaphysics",
+        "epistemic thermodynamics",
+        "Consciousness",
+        "Free Will"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "The Ghost Filter",
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "free will",
+        "metaphysics",
+        "philosophy"
+      ],
+      "source_content_sha256": "f2a1923234d728bb4226037164f9096e153be8f1763ccab625dcfdd72aea7c17",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+      "ordinal": 82,
+      "title": "Thermodynamic Realism: What It Proves and What It Bets",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Meta-ethics",
+        "Is-Ought Problem",
+        "naturalism",
+        "Philosophy of Physics",
+        "information theory",
+        "epistemic thermodynamics",
+        "Free Will"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "free will",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "naturalism",
+        "philosophy of physics"
+      ],
+      "source_content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+      "ordinal": 83,
+      "title": "Involuntary Social Load: A General Account, with the Workplace as Engineered Instance",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/05/involuntary-social-load-general-account.html",
+      "labels_before": [
+        "philosophy",
+        "Psychology",
+        "Cognition",
+        "Labor",
+        "Neurodiversity",
+        "Systemic Critique"
+      ],
+      "labels_after": [
+        "cognition",
+        "labor",
+        "neurodiversity",
+        "philosophy",
+        "psychology",
+        "systemic critique"
+      ],
+      "source_content_sha256": "9cf03b3c8c378f35a37560fa7dc80a2aa223363abadc27fce12469b733aa6ad1",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+      "ordinal": 84,
+      "title": "Metacognition and Memory Anchoring: A Cue-Bound Technique for Trained Metacognitive Control",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/metacognition-and-memory-anchoring-cue.html",
+      "labels_before": [
+        "philosophy",
+        "Psychology",
+        "Cognition",
+        "Metacognition",
+        "Emotion Regulation",
+        "Self-Regulation"
+      ],
+      "labels_after": [
+        "cognition",
+        "emotion regulation",
+        "metacognition",
+        "philosophy",
+        "psychology",
+        "self-regulation"
+      ],
+      "source_content_sha256": "eef496551aace9e12a0ee74884031fe0372715b5fcff4d2af853168c9f35a432",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495",
+      "ordinal": 85,
+      "title": "The Manual for When You Don't Know What to Believe",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/blog-post.html",
+      "labels_before": [
+        "philosophy",
+        "Wellbeing",
+        "Doubt",
+        "kindness",
+        "Practical Philosophy"
+      ],
+      "labels_after": [
+        "doubt",
+        "kindness",
+        "philosophy",
+        "practical philosophy",
+        "wellbeing"
+      ],
+      "source_content_sha256": "b836eca3b042a7ec95203bb7e08d2728378dcc89b01833bdeea661ea2633160c",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+      "ordinal": 86,
+      "title": "The Shape of the Disagreement: Why the Sex and Gender Debate Has the Structure It Has",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-shape-of-disagreement-why-sex-and.html",
+      "labels_before": [
+        "philosophy",
+        "philosophy of classification",
+        "sex and gender",
+        "epistemology",
+        "fact-value distinction",
+        "gender identity",
+        "intersex",
+        "MetaEthics",
+        "naturalism"
+      ],
+      "labels_after": [
+        "epistemology",
+        "fact-value distinction",
+        "gender identity",
+        "intersex",
+        "metaethics",
+        "naturalism",
+        "philosophy",
+        "philosophy of classification",
+        "sex and gender"
+      ],
+      "source_content_sha256": "33ee807dffdfcddf161725969db40c468424465b4ad37aeefc3dabf1146d2121",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+      "ordinal": 87,
+      "title": "High-Fidelity Maps: A Specification for Documents That Track Their Territory",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/high-fidelity-maps-specification-for.html",
+      "labels_before": [
+        "epistemology",
+        "methodology",
+        "writing",
+        "philosophy of science",
+        "design system",
+        "Thermodynamic Realism",
+        "specification"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "design system",
+        "epistemology",
+        "methodology",
+        "philosophy of science",
+        "specification",
+        "writing"
+      ],
+      "source_content_sha256": "6536219ee076434c1f84e20659e3ca23ba71dae07a47160e38d9884312e3b430",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+      "ordinal": 88,
+      "title": "High-Fidelity Maps: The Dependency Map",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/high-fidelity-maps-dependency-map.html",
+      "labels_before": [
+        "epistemology",
+        "methodology",
+        "design system",
+        "data visualization",
+        "specification",
+        "Thermodynamic Realism"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "data visualization",
+        "design system",
+        "epistemology",
+        "methodology",
+        "specification"
+      ],
+      "source_content_sha256": "68853630cbbe5adb130d645cd85eae2a7636979e5d7f06a8c40e5d1998e65fd4",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698",
+      "ordinal": 89,
+      "title": "Directed Automation and the Cost Floor: Constraint Migration, the Water Demonstrator, and the Concentration Default",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/directed-automation-and-cost-floor.html",
+      "labels_before": [
+        "directed automation",
+        "cost floor",
+        "thermodynamics",
+        "post-scarcity",
+        "automation economics",
+        "distribution",
+        "universal basic services",
+        "political economy"
+      ],
+      "labels_after": [
+        "automation economics",
+        "cost floor",
+        "directed automation",
+        "distribution",
+        "political economy",
+        "post-scarcity",
+        "thermodynamics",
+        "universal basic services"
+      ],
+      "source_content_sha256": "e8746d20a27280eb0c61788c8828bca9684c9a35befa87c6c94a3bdc62472891",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+      "ordinal": 90,
+      "title": "The Wizard's Error Is Delocalization",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-wizards-error-is-delocalization.html",
+      "labels_before": [
+        "philosophy",
+        "Physicalism",
+        "MetaEthics",
+        "philosophy of mathematics",
+        "philosophy of mind",
+        "reductionism"
+      ],
+      "labels_after": [
+        "metaethics",
+        "philosophy",
+        "philosophy of mathematics",
+        "philosophy of mind",
+        "physicalism",
+        "reductionism"
+      ],
+      "source_content_sha256": "09ef76ad66c434e1b9314de626102568b3a91a9b5b877b8539eb2981c7be1a7a",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+      "ordinal": 91,
+      "title": "Everything Is One Process",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/everything-is-one-process.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Metaphysics",
+        "philosophy of mind",
+        "Consciousness",
+        "MetaEthics",
+        "cosmology",
+        "Physicalism"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "Thermodynamic Realism",
+        "cosmology",
+        "metaethics",
+        "metaphysics",
+        "philosophy of mind",
+        "physicalism"
+      ],
+      "source_content_sha256": "4c1640b79303341cc9ea0b66cff47c995282d3e3880ebc709a10b6bac5934bd3",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772",
+      "ordinal": 92,
+      "title": "The Manual for When the World Keeps Changing",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-manual-for-when-world-keeps-changing.html",
+      "labels_before": [
+        "epistemic hygiene",
+        "adaptability",
+        "uncertainty",
+        "finite agency",
+        "Thermodynamic Realism",
+        "Practical Philosophy"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "adaptability",
+        "epistemic hygiene",
+        "finite agency",
+        "practical philosophy",
+        "uncertainty"
+      ],
+      "source_content_sha256": "29114a72e3591347174e293320bb755bdbbd976eacf7e6a4c109f56d9f8df08c",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+      "ordinal": 93,
+      "title": "The Firewall Between Is and Ought Is a Scope Decision, Not a Metaphysical Claim",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-firewall-between-is-and-ought-is.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Meta-ethics",
+        "methodology",
+        "is-ought",
+        "normativity"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity"
+      ],
+      "source_content_sha256": "65f443ef540aece2e230f85a07a1e827015b3ce153b1b8c01e072bd3d3378cbc",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831",
+      "ordinal": 94,
+      "title": "The Evolutionary Fallback Is a Commitment to Decorrelation, Not a Backup",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-evolutionary-fallback-is-commitment.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "superintelligence",
+        "Meta-ethics",
+        "decorrelation",
+        "agent-relativity",
+        "robustness"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "agent-relativity",
+        "decorrelation",
+        "metaethics",
+        "robustness",
+        "superintelligence"
+      ],
+      "source_content_sha256": "0246a9f1ffd9c646035121827cd3eb5036cb2dbd02a29ae2e861755b9d2d9b5f",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911",
+      "ordinal": 95,
+      "title": "An Appetite for Experience",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/an-appetite-for-experience.html",
+      "labels_before": [
+        "Experiential Depth",
+        "Philosophy of Play",
+        "Immersive Architecture",
+        "post-scarcity",
+        "Simulated Reality"
+      ],
+      "labels_after": [
+        "experiential depth",
+        "immersive architecture",
+        "philosophy of play",
+        "post-scarcity",
+        "simulated reality"
+      ],
+      "source_content_sha256": "1c2f86ae896b4871944f45c5127af874fbd55a2f8ecfc766d7544061a81ccc9b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+      "ordinal": 96,
+      "title": "The Last Gradient",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-last-gradient.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "thermodynamics",
+        "cosmology",
+        "heat death",
+        "nihilism",
+        "meaning",
+        "Philosophy of Physics",
+        "Landauer's Principle",
+        "dark energy"
+      ],
+      "labels_after": [
+        "Landauer's principle",
+        "Thermodynamic Realism",
+        "cosmology",
+        "dark energy",
+        "heat death",
+        "meaning",
+        "nihilism",
+        "philosophy of physics",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "31a29af92509c832132de195d9277dee231cf756d6a923a0fe3663cc1a9944f1",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+      "ordinal": 97,
+      "title": "Thermodynamic Realism: The Apex Synthesis",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/thermodynamic-realism-apex-synthesis.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "MetaEthics",
+        "Philosophy of Science",
+        "is-ought",
+        "Physicalism"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics",
+        "philosophy of science",
+        "physicalism"
+      ],
+      "source_content_sha256": "05756684aa6bf1863cc8a06b402258cc85b39fceb5b5d341d84a3120145a6d15",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+      "ordinal": 98,
+      "title": "Ought Is Local",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/ought-is-local.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "MetaEthics",
+        "is-ought",
+        "normativity",
+        "methodology",
+        "firewall"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought firewall",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity"
+      ],
+      "source_content_sha256": "67ce44b6673955545d1c20141249bff77fe6af98dc4202991055566a5a77b922",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+      "ordinal": 99,
+      "title": "The Magnetism of Aliveness",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-magnetism-of-aliveness.html",
+      "labels_before": [
+        "personal essay",
+        "Thermodynamic Realism",
+        "persistence",
+        "value theory",
+        "MetaEthics"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "metaethics",
+        "persistence",
+        "personal essay",
+        "value theory"
+      ],
+      "source_content_sha256": "d37b015fc433ee6790d8880b33eb72a4911bf982700735a9f5efa634d92e8241",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+      "ordinal": 100,
+      "title": "The Is/Ought Firewall",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-isought-firewall.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "MetaEthics",
+        "is-ought",
+        "normativity",
+        "Physicalism",
+        "methodology",
+        "firewall"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "is-ought firewall",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity",
+        "physicalism"
+      ],
+      "source_content_sha256": "05b3b39858e8b1303292b2e27a84a821cee24b4ab41bbc8775c90228605d2df4",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608",
+      "ordinal": 101,
+      "title": "Uniqueness Is a Selection Problem",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/uniqueness-is-selection-problem.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "Metaphysics",
+        "self-reference",
+        "selection",
+        "method note"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "metaphysics",
+        "method note",
+        "selection",
+        "self-reference"
+      ],
+      "source_content_sha256": "c94f2014889081a4e28c9c6308d341472afcf079d534c9abb2747dded97c0daf",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+      "ordinal": 102,
+      "title": "Preservation Is a Coupling Problem",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/preservation-is-coupling-problem.html",
+      "labels_before": [
+        "coupling density",
+        "instrumental convergence",
+        "Markov blanket",
+        "MetaEthics",
+        "persistence",
+        "Thermodynamic Realism"
+      ],
+      "labels_after": [
+        "Markov blanket",
+        "Thermodynamic Realism",
+        "coupling density",
+        "instrumental convergence",
+        "metaethics",
+        "persistence"
+      ],
+      "source_content_sha256": "b66cfe2d15da2c58d57fde741c19ef958d7e98e106829915c66573fe9ceb6e28",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863",
+      "ordinal": 103,
+      "title": "Fable 5: What Happened",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/fable-5-what-happened.html",
+      "labels_before": [
+        "Epistemics",
+        "AI",
+        "Anthropic",
+        "Verification",
+        "Cybersecurity",
+        "Media literacy",
+        "Current events"
+      ],
+      "labels_after": [
+        "AI",
+        "Anthropic",
+        "current events",
+        "cybersecurity",
+        "epistemics",
+        "media literacy",
+        "verification"
+      ],
+      "source_content_sha256": "6126ab4d2fb6311fb433fe5b3374c5826c4d0790b84a38a1749e3d9d0bb406d7",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+      "ordinal": 104,
+      "title": "Name the Relata",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/name-relata.html",
+      "labels_before": [
+        "conceptual role semantics",
+        "is-ought",
+        "MetaEthics",
+        "philosophy of language",
+        "Reference",
+        "Thermodynamic Realism"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "conceptual role semantics",
+        "is-ought problem",
+        "metaethics",
+        "philosophy of language",
+        "reference"
+      ],
+      "source_content_sha256": "566cc8606a19e85df61fc70d620e60a63ece5cd26fa7d5534111aa83f198c56f",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+      "ordinal": 105,
+      "title": "What You Actually Are",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/what-you-actually-are.html",
+      "labels_before": [
+        "personal identity",
+        "Metaphysics",
+        "dissipative structures",
+        "Consciousness",
+        "Parfit",
+        "Fidelity Program"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "Fidelity Program",
+        "Parfit",
+        "dissipative structures",
+        "metaphysics",
+        "personal identity"
+      ],
+      "source_content_sha256": "bcb5678621a4eba7bb7f728ef047920332e46400f9fede5577e628d3e2941b3a",
+      "label_changed": true,
+      "editorial_note_applied": true
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+      "ordinal": 106,
+      "title": "I Spent Months Reinventing the Wheel. Today I Found Out.",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/i-spent-months-reinventing-wheel-today.html",
+      "labels_before": [
+        "meta",
+        "is–ought",
+        "free energy principle",
+        "thermodynamics of prediction",
+        "causal emergence",
+        "Thermodynamic Realism",
+        "personal"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "causal emergence",
+        "free energy principle",
+        "is-ought problem",
+        "meta",
+        "personal",
+        "thermodynamics of prediction"
+      ],
+      "source_content_sha256": "38d559387877cec54aacf942ec103a73c275e440971d603e090f3a75915ccc33",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004",
+      "ordinal": 107,
+      "title": "Where the is–ought question bottoms out",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/it-is-what-it-is.html",
+      "labels_before": [
+        "philosophy",
+        "MetaEthics",
+        "is–ought",
+        "naturalism",
+        "deflationism"
+      ],
+      "labels_after": [
+        "deflationism",
+        "is-ought problem",
+        "metaethics",
+        "naturalism",
+        "philosophy"
+      ],
+      "source_content_sha256": "19b78e51c1071b8e59e0c52f5803c68a0aa29f906a4dd935802c4cbd50106f67",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953",
+      "ordinal": 108,
+      "title": "What Can Bear an Ought: Agency as the Gate on Desert and Oughts",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/what-can-bear-ought-agency-as-gate-on.html",
+      "labels_before": [
+        "Thermodynamic Realism",
+        "agent-relativity",
+        "MetaEthics",
+        "authority",
+        "collective responsibility",
+        "philosophical anarchism"
+      ],
+      "labels_after": [
+        "Thermodynamic Realism",
+        "agent-relativity",
+        "authority",
+        "collective responsibility",
+        "metaethics",
+        "philosophical anarchism"
+      ],
+      "source_content_sha256": "148f8b0f6b266c92d80a075c857ff4a655530e6ac75077bcb086d43d5a3bd32b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601",
+      "ordinal": 109,
+      "title": "The Shape of an Idea",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-shape-of-idea.html",
+      "labels_before": [
+        "epistemology",
+        "AI collaboration",
+        "Method",
+        "confabulation"
+      ],
+      "labels_after": [
+        "AI collaboration",
+        "confabulation",
+        "epistemology",
+        "method"
+      ],
+      "source_content_sha256": "501ba261097dcac92f956e4631f6820f982c79e6e6162f6d6e244656b3bb640a",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506",
+      "ordinal": 110,
+      "title": "The Constraint Isn't Latency",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-constraint-isnt-latency.html",
+      "labels_before": [
+        "AI assistants",
+        "interaction design",
+        "reference resolution",
+        "prior art",
+        "proactive agents"
+      ],
+      "labels_after": [
+        "AI assistants",
+        "interaction design",
+        "prior art",
+        "proactive agents",
+        "reference resolution"
+      ],
+      "source_content_sha256": "1ab43e775c4fdc38be9d965945a00b23a56488d55fe3217eaf7aa5ae116cd38b",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+      "ordinal": 111,
+      "title": "Epistemic Forge: The Apex Synthesis",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/epistemic-forge-apex-synthesis.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "apex synthesis",
+        "MetaEthics",
+        "Philosophy of Physics",
+        "is/ought firewall",
+        "persistence",
+        "dark energy"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "apex synthesis",
+        "dark energy",
+        "is-ought firewall",
+        "metaethics",
+        "persistence",
+        "philosophy of physics"
+      ],
+      "source_content_sha256": "a9b580cb6cc5ce1d46f872640e5cceef215b2ac53cd7b6268be7741d922d6a48",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+      "ordinal": 112,
+      "title": "The Fidelity Program: Toward a High-Resolution Map of the Territory",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-fidelity-program-toward-high.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "Fidelity Program",
+        "Reality Mapping",
+        "epistemology",
+        "Map-Territory",
+        "AI alignment",
+        "Ethics",
+        "Physicalism",
+        "Metacognition",
+        "Human-AI Symbiosis"
+      ],
+      "labels_after": [
+        "AI alignment",
+        "Epistemic Forge",
+        "Fidelity Program",
+        "epistemology",
+        "ethics",
+        "human-AI symbiosis",
+        "map-territory",
+        "metacognition",
+        "physicalism",
+        "reality mapping"
+      ],
+      "source_content_sha256": "a31e06da2fa177d1457b48b1c84b3275fbcd8a030d224687ef821288c87607bf",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+      "ordinal": 113,
+      "title": "The Spine and the Web: Reality-Mapping for Embedded Agents",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-spine-and-web-reality-mapping-for.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "methodology",
+        "Philosophy of Science",
+        "naturalized metaphysics",
+        "multilevel causation",
+        "prior art",
+        "thermodynamics of prediction"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "methodology",
+        "multilevel causation",
+        "naturalized metaphysics",
+        "philosophy of science",
+        "prior art",
+        "thermodynamics of prediction"
+      ],
+      "source_content_sha256": "26e44eff359fd584279c3dce3f377c3de669284fdfbea3f3871e16bfd8976584",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+      "ordinal": 114,
+      "title": "Fidelity-Valenced Cognition",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/fidelity-valenced-cognition.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "Metacognition",
+        "epistemic emotions",
+        "cognitive science",
+        "prior art",
+        "processing fluency"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "cognitive science",
+        "epistemic emotions",
+        "metacognition",
+        "prior art",
+        "processing fluency"
+      ],
+      "source_content_sha256": "ac414ab060e83eaee9ccfead0f5ae1671bb4ac54382acf8f15f1d14186fe48ff",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+      "ordinal": 115,
+      "title": "The Two Ways to Be Wrong",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-two-ways-to-be-wrong.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "methodology",
+        "self-correction",
+        "Philosophy of Science",
+        "prior art",
+        "calibration",
+        "fidelity"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "calibration",
+        "fidelity",
+        "methodology",
+        "philosophy of science",
+        "prior art",
+        "self-correction"
+      ],
+      "source_content_sha256": "d65a2f2077c2dcfaf1e2a61a9b7417b40246d218355584505e13b6c4a909fe99",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+      "ordinal": 116,
+      "title": "Value as Persistence: Agent-relative oughts under coupling, nesting, uncertainty, and open-ended time",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/value-as-persistence-agent-relative.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "Value",
+        "persistence",
+        "agent-relativity",
+        "Ethics",
+        "Physicalism",
+        "coupling",
+        "intelligence",
+        "prior art"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "agent-relativity",
+        "coupling",
+        "ethics",
+        "intelligence",
+        "persistence",
+        "physicalism",
+        "prior art",
+        "value"
+      ],
+      "source_content_sha256": "167f46070af197f0845a01c33596958d41446d9a534fac5044750214f5213ad1",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133",
+      "ordinal": 117,
+      "title": "The Exclusivity Error",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-exclusivity-error.html",
+      "labels_before": [
+        "Name the Relata",
+        "non-reductive physicalism",
+        "levels",
+        "reduction",
+        "Method",
+        "Epistemic Forge",
+        "The Exclusivity Error"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "Name the Relata",
+        "The Exclusivity Error",
+        "levels",
+        "method",
+        "non-reductive physicalism",
+        "reduction"
+      ],
+      "source_content_sha256": "3b77ab664c4b64120089c9858c2937d868c6cd3900905cae1b29fcf48db36d99",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+      "ordinal": 118,
+      "title": "Intelligence Is Not the Bottleneck",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/intelligence-is-not-bottleneck.html",
+      "labels_before": [
+        "AI",
+        "singularity",
+        "intelligence explosion",
+        "takeoff speeds",
+        "thermodynamics",
+        "Fidelity Program",
+        "industrial explosion"
+      ],
+      "labels_after": [
+        "AI",
+        "Fidelity Program",
+        "industrial explosion",
+        "intelligence explosion",
+        "singularity",
+        "takeoff speeds",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "3221703dcb33e1b2566deb330e9f8ccc5e9fb4d66c799afd2040741cf0533f19",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126",
+      "ordinal": 119,
+      "title": "Two Lossy Compressions in One Day",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/06/two-lossy-compressions-in-one-day.html",
+      "labels_before": [
+        "epistemology",
+        "pseudoscience",
+        "homeopathy",
+        "lossy compression",
+        "applied fidelity",
+        "placebo"
+      ],
+      "labels_after": [
+        "applied fidelity",
+        "epistemology",
+        "homeopathy",
+        "lossy compression",
+        "placebo",
+        "pseudoscience"
+      ],
+      "source_content_sha256": "fc1b4c5c1ddab0c47e5af4abfa3ce7612db51e3d432a63c21c9628e1c7a239de",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609",
+      "ordinal": 120,
+      "title": "The Isekai Instinct",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-isekai-instinct.html",
+      "labels_before": [
+        "essay",
+        "isekai",
+        "anime",
+        "worlds",
+        "Simulated Reality",
+        "personal identity"
+      ],
+      "labels_after": [
+        "anime",
+        "essay",
+        "isekai",
+        "personal identity",
+        "simulated reality",
+        "worlds"
+      ],
+      "source_content_sha256": "2d3ce946f0493bca08d8bcb925b223f51569cbb463fe4f1eacfb292d77bae721",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+      "ordinal": 121,
+      "title": "What You Actually Are",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/what-you-actually-are.html",
+      "labels_before": [
+        "personal identity",
+        "Metaphysics",
+        "dissipative structures",
+        "Consciousness",
+        "Parfit",
+        "Fidelity Program"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "Fidelity Program",
+        "Parfit",
+        "dissipative structures",
+        "metaphysics",
+        "personal identity"
+      ],
+      "source_content_sha256": "37b54c176f82fdeaa782de7740e5f311f91173faeaa052d18e4001d16ad5571c",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+      "ordinal": 122,
+      "title": "The Natural History of Fidelity",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-natural-history-of-fidelity.html",
+      "labels_before": [
+        "philosophy",
+        "Physicalism",
+        "thermodynamics",
+        "agency",
+        "epistemology",
+        "MetaEthics",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "agency",
+        "epistemology",
+        "metaethics",
+        "philosophy",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "source_content_sha256": "bdb441799c474b2d570c110ffa4e9926dae46f2507fc0506c86a35d20b83a216",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+      "ordinal": 123,
+      "title": "Persistence Is Not Stasis",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/persistence-is-not-stasis.html",
+      "labels_before": [
+        "philosophy",
+        "Physicalism",
+        "persistence",
+        "agency",
+        "epistemology",
+        "suffering",
+        "MetaEthics",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "agency",
+        "epistemology",
+        "metaethics",
+        "persistence",
+        "philosophy",
+        "physicalism",
+        "suffering"
+      ],
+      "source_content_sha256": "4e07014fbebdb69a0592fe6183ec934a25c78548ad2512e77927386d5e9b958a",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+      "ordinal": 124,
+      "title": "A Provisional Model of My Intellectual Error-Detection Process",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/a-provisional-model-of-my-intellectual.html",
+      "labels_before": [
+        "epistemology",
+        "Cognition",
+        "self-modeling",
+        "error detection",
+        "conceptual analysis",
+        "Artificial Intelligence",
+        "coupled cognition",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "AI",
+        "Epistemic Forge",
+        "cognition",
+        "conceptual analysis",
+        "coupled cognition",
+        "epistemology",
+        "error detection",
+        "self-modeling"
+      ],
+      "source_content_sha256": "e31abb60dc44363ca61b5aad3d28787ef716c403e2d01b39d62e3b5302e49d76",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+      "ordinal": 125,
+      "title": "Reality Alignment",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/reality-alignment.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "Reality Mapping",
+        "agency",
+        "persistence",
+        "corrigibility",
+        "Physicalism",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "agency",
+        "corrigibility",
+        "epistemology",
+        "persistence",
+        "philosophy",
+        "physicalism",
+        "reality mapping"
+      ],
+      "source_content_sha256": "4747a659e620b52a3f01827d695a193b5782f435d4b74a044a42dbdc10d4a06b",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+      "ordinal": 126,
+      "title": "Existence Literacy",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/existence-literacy.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "existence literacy",
+        "scientific literacy",
+        "world-models",
+        "cosmology",
+        "selfhood",
+        "uncertainty",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "cosmology",
+        "epistemology",
+        "existence literacy",
+        "philosophy",
+        "scientific literacy",
+        "selfhood",
+        "uncertainty",
+        "world-models"
+      ],
+      "source_content_sha256": "cf3dc1a0e122cc82c5e85cc3cf3bf730c2e073e57ee7ae04b6b6b40a40d8770b",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+      "ordinal": 127,
+      "title": "Relata-Indexed Objectivity",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/relata-indexed-objectivity.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "objectivity",
+        "Physicalism",
+        "semantics",
+        "methodology",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "epistemology",
+        "methodology",
+        "objectivity",
+        "philosophy",
+        "physicalism",
+        "semantics"
+      ],
+      "source_content_sha256": "984d6a68c56da610bc2ef2883a5db6fcee3c1ec38bd365a7c1bf3d1501479133",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+      "ordinal": 128,
+      "title": "The Map Is Not the Itinerary",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-map-is-not-itinerary.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "methodology",
+        "bounded rationality",
+        "inquiry",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "bounded rationality",
+        "epistemology",
+        "inquiry",
+        "methodology",
+        "philosophy"
+      ],
+      "source_content_sha256": "929bec26bb0a689c56716b79c455aa8ffa9c5ed46f3c5fdf9e080b4c50bfc45b",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+      "ordinal": 129,
+      "title": "Agent Tomography",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/agent-tomography.html",
+      "labels_before": [
+        "BCI",
+        "neuroscience",
+        "system identification",
+        "human digital twins",
+        "lifelogging",
+        "AI",
+        "personal identity",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "AI",
+        "BCI",
+        "Epistemic Forge",
+        "human digital twins",
+        "lifelogging",
+        "neuroscience",
+        "personal identity",
+        "system identification"
+      ],
+      "source_content_sha256": "4720fb3e10719c919a78b521c0cfb1367efb1000fe254b8ad926181d96858f55",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+      "ordinal": 130,
+      "title": "Straight Is a Compression",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/straight-is-compression.html",
+      "labels_before": [
+        "philosophy",
+        "sexuality",
+        "sexual orientation",
+        "sex",
+        "gender",
+        "trans identity",
+        "Ethics",
+        "methodology",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "ethics",
+        "gender",
+        "methodology",
+        "philosophy",
+        "sex",
+        "sexual orientation",
+        "sexuality",
+        "trans identity"
+      ],
+      "source_content_sha256": "a6af72d56719810bce67427131b567fdaa280732dfe916b89b242c7cba06f840",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+      "ordinal": 131,
+      "title": "The Bandwidth of the Self",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-bandwidth-of-self.html",
+      "labels_before": [
+        "philosophy",
+        "Neurotechnology",
+        "brain-computer interfaces",
+        "brain-to-brain interfaces",
+        "personal identity",
+        "Cognition",
+        "Ethics",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "brain-computer interfaces",
+        "brain-to-brain interfaces",
+        "cognition",
+        "ethics",
+        "neurotechnology",
+        "personal identity",
+        "philosophy"
+      ],
+      "source_content_sha256": "9380dc9010d8b1baef69b2a20c814f54d2fc1649a5504f0ec5403a260fff15aa",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270",
+      "ordinal": 132,
+      "title": "Democracy Is Conditional",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/democracy-is-conditional.html",
+      "labels_before": [
+        "political philosophy",
+        "democracy",
+        "technocracy",
+        "epistocracy",
+        "governance",
+        "expertise",
+        "corrigibility",
+        "institutional design",
+        "utilitarian leximin",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "corrigibility",
+        "democracy",
+        "epistocracy",
+        "expertise",
+        "governance",
+        "institutional design",
+        "political philosophy",
+        "technocracy",
+        "utilitarian leximin"
+      ],
+      "source_content_sha256": "a53d04f7ed52074e18a928f93ba4845e2a89976b1bf0399ce82f0d6b0bd52c4b",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+      "ordinal": 133,
+      "title": "The Nihilist's Missing Premise",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-nihilists-missing-premise.html",
+      "labels_before": [
+        "nihilism",
+        "meaning of life",
+        "finitude",
+        "mortality",
+        "temporal nihilism",
+        "existentialism",
+        "absurdism",
+        "Value",
+        "cosmic significance",
+        "self-defeat",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "absurdism",
+        "cosmic significance",
+        "existentialism",
+        "finitude",
+        "meaning of life",
+        "mortality",
+        "nihilism",
+        "self-defeat",
+        "temporal nihilism",
+        "value"
+      ],
+      "source_content_sha256": "9a5eafb449b4aae54a7967cb7857dde5d065b348befe0e6afeeff25366ecff5e",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027",
+      "ordinal": 134,
+      "title": "Causality Is Not a Flat List",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/causality-is-not-flat-list.html",
+      "labels_before": [
+        "philosophy",
+        "causality",
+        "causation",
+        "taxonomy",
+        "terminology",
+        "causal inference",
+        "Metaphysics",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "causal inference",
+        "causality",
+        "causation",
+        "metaphysics",
+        "philosophy",
+        "taxonomy",
+        "terminology"
+      ],
+      "source_content_sha256": "329c2706b0d16d9d5c02caf393cf51cbc0a30ba2593894acb7201d0aa2e7f768",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+      "ordinal": 135,
+      "title": "Comfort Beliefs",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/comfort-beliefs.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "motivated reasoning",
+        "reality-avoidance",
+        "mortality",
+        "personal identity",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "epistemology",
+        "mortality",
+        "motivated reasoning",
+        "personal identity",
+        "philosophy",
+        "reality-avoidance"
+      ],
+      "source_content_sha256": "aa4bdd8ac8ca0b722986d1dd6cad14387d98aa0cccda3b18f169c80062b7b86a",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+      "ordinal": 136,
+      "title": "Reality Alignment as a Persistence Strategy",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/reality-alignment-as-persistence.html",
+      "labels_before": [
+        "philosophy",
+        "epistemology",
+        "reality alignment",
+        "persistence",
+        "representation",
+        "cybernetics",
+        "control theory",
+        "evolution",
+        "cosmology",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "control theory",
+        "cosmology",
+        "cybernetics",
+        "epistemology",
+        "evolution",
+        "persistence",
+        "philosophy",
+        "reality alignment",
+        "representation"
+      ],
+      "source_content_sha256": "30a05643f18700d040914047dc49543ac56f359029b22abda64bd57496a26572",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+      "ordinal": 137,
+      "title": "The emerging 2028 field and America’s continued support for genocide",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/the-emerging-2028-field-and-americas.html",
+      "labels_before": [
+        "United States",
+        "2028 election",
+        "Israel",
+        "Gaza",
+        "genocide",
+        "AIPAC",
+        "campaign finance",
+        "oligarchy",
+        "democracy",
+        "media ownership",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "2028 election",
+        "AIPAC",
+        "Epistemic Forge",
+        "Gaza",
+        "Israel",
+        "United States",
+        "campaign finance",
+        "democracy",
+        "genocide",
+        "media ownership",
+        "oligarchy"
+      ],
+      "source_content_sha256": "6a77eb8114e7dbd43bfd345fca3f6c1a5268597de72ec9b94ab75cd4b0aceaa6",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159",
+      "ordinal": 138,
+      "title": "The Representational Attraction Map",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/the-representational-attraction-map.html",
+      "labels_before": [
+        "attraction",
+        "sexuality",
+        "representation",
+        "morphology",
+        "ontology",
+        "cognitive science",
+        "research proposal",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "attraction",
+        "cognitive science",
+        "morphology",
+        "ontology",
+        "representation",
+        "research proposal",
+        "sexuality"
+      ],
+      "source_content_sha256": "c975aa988ae2e0821ad7964debfd5c870e99f254b7e7e27b61445e23d85c19d5",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+      "ordinal": 139,
+      "title": "You Do Not Need to Be Uncaused to Be a Cause",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/you-do-not-need-to-be-uncaused-to-be.html",
+      "labels_before": [
+        "determinism",
+        "Physicalism",
+        "Free Will",
+        "fatalism",
+        "agency",
+        "moral responsibility",
+        "nihilism",
+        "compatibilism",
+        "free will skepticism",
+        "mental causation",
+        "Metacognition",
+        "Berserk",
+        "Guts",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Berserk",
+        "Epistemic Forge",
+        "Guts",
+        "agency",
+        "compatibilism",
+        "determinism",
+        "fatalism",
+        "free will",
+        "free will skepticism",
+        "mental causation",
+        "metacognition",
+        "moral responsibility",
+        "nihilism",
+        "physicalism"
+      ],
+      "source_content_sha256": "07e84b57befaf6dc2a37847650e8e5a94e3f0d3d9e383be80a648033d9e42295",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+      "ordinal": 140,
+      "title": "Universal Is Not Categorical",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/08/universal-is-not-categorical.html",
+      "labels_before": [
+        "philosophy",
+        "metaethics",
+        "is-ought",
+        "persistence",
+        "normativity",
+        "Hume",
+        "Foot",
+        "constitutivism",
+        "black holes",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "Foot",
+        "Hume",
+        "black holes",
+        "constitutivism",
+        "is-ought problem",
+        "metaethics",
+        "normativity",
+        "persistence",
+        "philosophy"
+      ],
+      "source_content_sha256": "6e9baa8a0e9819730aa2bf943839b23f8dcafdd12ba0908e9bb7405b4b5ad341",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+      "ordinal": 141,
+      "title": "God Does Not Exist",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/god-does-not-exist.html",
+      "labels_before": [
+        "atheism",
+        "classical theism",
+        "Physicalism",
+        "supernaturalism",
+        "epistemology",
+        "philosophy of religion",
+        "problem of evil",
+        "Free Will",
+        "divine hiddenness",
+        "causal closure",
+        "semantic indexing",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "atheism",
+        "causal closure",
+        "classical theism",
+        "divine hiddenness",
+        "epistemology",
+        "free will",
+        "philosophy of religion",
+        "physicalism",
+        "problem of evil",
+        "semantic indexing",
+        "supernaturalism"
+      ],
+      "source_content_sha256": "4a00886728af5acc1f75cdb21329f73639f85811c3c536ad15555a05c075ccea",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+      "ordinal": 142,
+      "title": "Genocidal Authority: God, Hitler & Benjamin Netanyahu",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/genocidal-authority-god-hitler-benjamin.html",
+      "labels_before": [
+        "philosophy",
+        "genocide",
+        "Gaza",
+        "Israel",
+        "Benjamin Netanyahu",
+        "Adolf Hitler",
+        "Bible",
+        "divine command",
+        "moral disengagement",
+        "authoritarianism",
+        "Donald Trump",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Adolf Hitler",
+        "Benjamin Netanyahu",
+        "Bible",
+        "Donald Trump",
+        "Epistemic Forge",
+        "Gaza",
+        "Israel",
+        "authoritarianism",
+        "divine command",
+        "genocide",
+        "moral disengagement",
+        "philosophy"
+      ],
+      "source_content_sha256": "4849f48e059e31d8b88264b8aa81c46096403bf9bddbe11e0ce4aed3f4a2b21d",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353",
+      "ordinal": 143,
+      "title": "Slovenia Is Complicit in a Genocide",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/slovenia-is-complicit-in-genocide.html",
+      "labels_before": [
+        "Slovenia",
+        "Israel",
+        "Gaza",
+        "genocide",
+        "complicity",
+        "Janez Janša",
+        "foreign policy",
+        "procurement",
+        "arms embargo",
+        "EuroSpike",
+        "moral responsibility",
+        "Karl Jaspers",
+        "source audit",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "EuroSpike",
+        "Gaza",
+        "Israel",
+        "Janez Janša",
+        "Karl Jaspers",
+        "Slovenia",
+        "arms embargo",
+        "complicity",
+        "foreign policy",
+        "genocide",
+        "moral responsibility",
+        "procurement",
+        "source audit"
+      ],
+      "source_content_sha256": "274440af7effc037c20b2c9be3eafbd747f06c8d226d3d9d534acf8fca917a23",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157",
+      "ordinal": 144,
+      "title": "Zero Is Indexed Absence",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/zero-is-indexed-absence.html",
+      "labels_before": [
+        "philosophy",
+        "philosophy of mathematics",
+        "zero",
+        "nothingness",
+        "logic",
+        "semantics",
+        "ontology",
+        "Relata-Indexed Objectivity",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "Relata-Indexed Objectivity",
+        "logic",
+        "nothingness",
+        "ontology",
+        "philosophy",
+        "philosophy of mathematics",
+        "semantics",
+        "zero"
+      ],
+      "source_content_sha256": "81d92d68244bf5e0e863663633a86191a772cb5e28e51035a8ebba88b1419631",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+      "ordinal": 145,
+      "title": "One Game of Oughts",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/one-game-of-oughts.html",
+      "labels_before": [
+        "philosophy",
+        "biological normativity",
+        "persistence",
+        "viability",
+        "coupling",
+        "formal methods",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "biological normativity",
+        "coupling",
+        "formal methods",
+        "persistence",
+        "philosophy",
+        "viability"
+      ],
+      "source_content_sha256": "5e74a5d940e1a68efa79b8168418c2e393d9b2838b99d03d9cd5ced905e86037",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748",
+      "ordinal": 146,
+      "title": "Cross-Agent Aggregation Principles",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/cross-agent-aggregation-principles.html",
+      "labels_before": [
+        "philosophy",
+        "biological normativity",
+        "persistence",
+        "viability",
+        "coupling",
+        "aggregation",
+        "formal methods",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "aggregation",
+        "biological normativity",
+        "coupling",
+        "formal methods",
+        "persistence",
+        "philosophy",
+        "viability"
+      ],
+      "source_content_sha256": "0101967b613f8e1cf87d5138e439b90c591a2bed11a0168b63bc16dda6022921",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981",
+      "ordinal": 147,
+      "title": "What the Audit Leaves Open",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/what-audit-leaves-open.html",
+      "labels_before": [
+        "atheism",
+        "philosophy of religion",
+        "supernaturalism",
+        "calibration",
+        "uncertainty",
+        "personal identity",
+        "Consciousness",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "Consciousness",
+        "Epistemic Forge",
+        "atheism",
+        "calibration",
+        "personal identity",
+        "philosophy of religion",
+        "supernaturalism",
+        "uncertainty"
+      ],
+      "source_content_sha256": "b1f6f759319f5bb0afcbe5b5f31a54a6941b60b1bed5dcbdee997e99c413815c",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102",
+      "ordinal": 148,
+      "title": "The Epistemic Forge Symbol",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/the-epistemic-forge-symbol.html",
+      "labels_before": [
+        "Epistemic Forge",
+        "philosophy",
+        "design"
+      ],
+      "labels_after": [
+        "Epistemic Forge",
+        "design",
+        "philosophy"
+      ],
+      "source_content_sha256": "469e28d403aff4ff6ec7efc58869a860ad8a20b95698751055546b6be42f8685",
+      "label_changed": false,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670",
+      "ordinal": 149,
+      "title": "Private Use Ends Where an Escaped File Would Do Harm",
+      "status": "LIVE",
+      "url": "https://epistemicforge.blogspot.com/2026/09/private-use-ends-where-escaped-file.html",
+      "labels_before": [
+        "AI",
+        "generative video",
+        "copyright",
+        "deepfakes",
+        "Ethics",
+        "law",
+        "risk",
+        "Epistemic Forge"
+      ],
+      "labels_after": [
+        "AI",
+        "Epistemic Forge",
+        "copyright",
+        "deepfakes",
+        "ethics",
+        "generative video",
+        "law",
+        "risk"
+      ],
+      "source_content_sha256": "132875f5f4f8a1cab049c905b71ab65914dab14d9306bb33f1298e3567fca469",
+      "label_changed": true,
+      "editorial_note_applied": false
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3076585744040452259",
+      "ordinal": 150,
+      "title": "",
+      "status": "DRAFT",
+      "url": "https://epistemicforge.blogspot.com",
+      "labels_before": [],
+      "labels_after": [],
+      "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "label_changed": false,
+      "editorial_note_applied": false
+    }
+  ]
+}

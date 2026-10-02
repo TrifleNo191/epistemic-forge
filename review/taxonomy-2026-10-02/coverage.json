@@ -1,0 +1,51 @@
+{
+  "source_commit": "aa0555c5e1595571ac185bb9870cf493226eae1e",
+  "source_atom_sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+  "records": 150,
+  "live_posts": 149,
+  "empty_drafts": 1,
+  "exact_original_labels": 448,
+  "scope": "All current records and labels indexed; version headers and full-text relationship markers screened. Targeted context review supports the alias groups, repair proposals and typed lineage edges. This is not a cover-to-cover philosophical or source-validity review of the roughly 503,000 extracted words.",
+  "historical_scope": "July/August snapshots used to distinguish captured textual states from self-reported version history. Historical-only drafts are retained unchanged and are not relabeled by this proposal.",
+  "external_verification": "No live Blogger edits, HTTP link validation, literature review or factual verification of article claims was performed.",
+  "recommendation_status": "All changes proposed; none applied.",
+  "stages": {
+    "before": {
+      "distinct_labels": 448,
+      "assignments": 811,
+      "changed_posts": 0,
+      "unlabelled_live_posts": 37
+    },
+    "stage1_existing_label_normalization": {
+      "distinct_labels": 432,
+      "assignments": 811,
+      "changed_posts": 75,
+      "unlabelled_live_posts": 37
+    },
+    "stage2_contextual_repairs": {
+      "distinct_labels": 427,
+      "assignments": 806,
+      "changed_posts": 77,
+      "unlabelled_live_posts": 37
+    },
+    "stage3_missing_label_proposal": {
+      "distinct_labels": 434,
+      "assignments": 893,
+      "changed_posts": 114,
+      "unlabelled_live_posts": 0
+    }
+  },
+  "presentation_rules": 85,
+  "alias_groups": 10,
+  "changed_original_label_spellings": 104,
+  "relationships": 32,
+  "new_topics_from_missing_label_pass": [
+    "AI memory",
+    "AI prompts",
+    "Fermi paradox",
+    "Ukraine",
+    "aesthetics",
+    "casualty analysis",
+    "simulation hypothesis"
+  ]
+}

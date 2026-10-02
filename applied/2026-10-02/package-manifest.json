@@ -1,0 +1,32 @@
+{
+  "source_commit": "aa0555c5e1595571ac185bb9870cf493226eae1e",
+  "source_snapshot": "snapshots/2026-10-02/feed.atom",
+  "live_changes_verified": true,
+  "post_cleanup_export_verified": false,
+  "files": {
+    "README.md": {
+      "bytes": 3696,
+      "sha256": "03b0d1588a4fef257bbbd3bdba0ff7c3a2a9a3a49c6684564d815d3ba8502a0c"
+    },
+    "labels.json": {
+      "bytes": 27479,
+      "sha256": "2e4338bcf72a17a2f0fd59e32561fcf96e6aeda1b8bf97046b92beb265ed698e"
+    },
+    "live-ui-observation.json": {
+      "bytes": 91261,
+      "sha256": "0cd86a3d84304322522c8de3f15b7be6447ef4d6c8db3b56e3467973693ef074"
+    },
+    "notices.json": {
+      "bytes": 13257,
+      "sha256": "31a142bef903bd96f9cea96dd6370b7bf68e93ec7daa97e7872580cb88fb8652"
+    },
+    "posts.json": {
+      "bytes": 124202,
+      "sha256": "669d4e8cb84e54ddbba5bd20e1479a17de5f453dfc7514b93b5fff313b4974d2"
+    },
+    "verification.json": {
+      "bytes": 7439,
+      "sha256": "0dfce8ca1db8d74814c27ba54d440e1911b2965e600a5fced5532852607742c4"
+    }
+  }
+}

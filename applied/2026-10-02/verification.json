@@ -1,0 +1,206 @@
+{
+  "status": "live_changes_verified_in_blogger_ui; post_cleanup_export_pending",
+  "observed_at": "2026-10-02T02:25:02.711Z",
+  "pre_edit_reconciliation": {
+    "records": 150,
+    "all_titles_content_labels_dates_match": true,
+    "zip_sha256": "9a6fced52a29799be2220aaf51f5b5fed06391e8db653a1fcc61cc864e54668f",
+    "raw_atom_sha256": "45dc9ed7da68533b7facaceb6120e03111ab90bdf209595560db58d677619f02"
+  },
+  "records_checked": 150,
+  "live_posts": 149,
+  "drafts": 1,
+  "all_post_ids_match": true,
+  "all_displayed_titles_match": true,
+  "all_statuses_match": true,
+  "all_labels_match_approved_stage3": true,
+  "all_149_public_urls_match": true,
+  "all_149_displayed_publication_dates_match_to_the_minute": true,
+  "label_changed_posts": 114,
+  "previously_unlabelled_live_posts_labelled": 37,
+  "distinct_labels": 434,
+  "label_assignments": 893,
+  "unlabelled_live_posts": 0,
+  "editorial_notices_reloaded_and_sha256_verified": 10,
+  "original_html_preserved_exactly_under_each_notice": true,
+  "notice_checks": [
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+      "ordinal": 97,
+      "title": "Thermodynamic Realism: The Apex Synthesis",
+      "content_sha256": "081d4769c25ec67e29e1376026edc6dcfbf72c5b344c3affe245fb137e5068ba",
+      "labels": [
+        "is-ought problem",
+        "metaethics",
+        "philosophy of science",
+        "physicalism",
+        "Thermodynamic Realism"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:23.328Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+      "ordinal": 105,
+      "title": "What You Actually Are",
+      "content_sha256": "67b0fb95e6df791131492679fc6bb67ee459f1182dbedf6b9bd1203a2ca89c53",
+      "labels": [
+        "Consciousness",
+        "dissipative structures",
+        "Fidelity Program",
+        "metaphysics",
+        "Parfit",
+        "personal identity"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:25.669Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+      "ordinal": 76,
+      "title": "The Undivided Mind: Cognitive Architecture Under Thermodynamic Realism",
+      "content_sha256": "ceeca586d0bd7fe73c9446645467456423786b39906f3188cd6285492f62e929",
+      "labels": [
+        "cognitive architecture",
+        "epistemic thermodynamics",
+        "evolutionary biology",
+        "information theory",
+        "philosophy",
+        "psychology",
+        "thermodynamics"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:27.679Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049",
+      "ordinal": 34,
+      "title": "Art as Compression of Reality",
+      "content_sha256": "ebf66e458b44cce20ca66ee07e57c864c9b8d3c8fc50ff3edb0d18cc571fd597",
+      "labels": [
+        "Art as Compression of Reality"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:30.700Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+      "ordinal": 70,
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 3",
+      "content_sha256": "9979b0a86aeac85244114bd5cc25007dea4d2945f872976c79e5c63c92ee2302",
+      "labels": [
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "Thermodynamic Realism",
+        "thermodynamics"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:34.603Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+      "ordinal": 71,
+      "title": "Thermodynamic Realism: A Glossary",
+      "content_sha256": "ef74b193dd10060c75f85325cd2d61b1b2aa486d19e5873bdbba7dd9d98ee4ad",
+      "labels": [
+        "glossary",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "reference",
+        "Thermodynamic Realism",
+        "thermodynamics"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:45.225Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+      "ordinal": 72,
+      "title": "Thermodynamic Realism: The Deductive Web",
+      "content_sha256": "d0a5ffb8f0994e70097e5ebbb5095142f35e9aa33c34abc69a593e8bb3092faa",
+      "labels": [
+        "deductive structure",
+        "diagram",
+        "epistemology",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "Thermodynamic Realism",
+        "thermodynamics"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:47.504Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+      "ordinal": 73,
+      "title": "Thermodynamic Realism: Diagnosing Whether a Question Has a Domain",
+      "content_sha256": "c3ff2238d20be52710f96f9dcec332d0df4e9e9c63d7b1adf44b9997eba505d9",
+      "labels": [
+        "critical thinking",
+        "domain-bound semantics",
+        "epistemology",
+        "metaethics",
+        "method",
+        "philosophy of science",
+        "Thermodynamic Realism"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:49.669Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+      "ordinal": 77,
+      "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+      "content_sha256": "7eb30db0f93451dd29f38a15cf5200376d828210731771c7a822fcdacacfc6d7",
+      "labels": [
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "Thermodynamic Realism",
+        "thermodynamics"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:52.828Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+      "ordinal": 81,
+      "title": "The Metaphysical Audit: Dissolving Philosophy’s \"Hard Problems\" via the Ghost Filter",
+      "content_sha256": "dc0c09e0d505402c957fa57b1e4d409d94a08ba3d28bde30b166229ec6dbe349",
+      "labels": [
+        "Consciousness",
+        "epistemic thermodynamics",
+        "free will",
+        "metaphysics",
+        "philosophy",
+        "The Ghost Filter",
+        "Thermodynamic Realism"
+      ],
+      "verified_after_reload": true,
+      "at": "2026-10-02T02:22:55.185Z"
+    }
+  ],
+  "scope_limit": "The final Takeout download was blocked by the cloud browser URL security policy. No post-cleanup Atom export has been inspected. Unchanged articles were not re-exported for a full byte-level comparison. Publication timestamps and URLs were not edited.",
+  "source_feed_status": "feed.atom and all snapshots remain the unchanged pre-cleanup exports",
+  "final_export_request": {
+    "requested_at": "2026-10-02T02:26:07.352Z",
+    "scope": "Blogger only",
+    "type": "ZIP",
+    "frequency": "one-time",
+    "after_final_ui_verification": true,
+    "download_status": "pending_user_download_due_to_browser_url_security_block"
+  }
+}

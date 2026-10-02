@@ -1,0 +1,536 @@
+{
+  "status": "PROPOSED; no source edits applied",
+  "source_commit": "aa0555c5e1595571ac185bb9870cf493226eae1e",
+  "source_atom_sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+  "presentation_changes": {
+    "Agent-Relative Semantics": "agent-relative semantics",
+    "Agentic Curation": "agentic curation",
+    "Agentic Retrieval": "agentic retrieval",
+    "Attention Economy": "attention economy",
+    "Authorship": "authorship",
+    "Cinema": "cinema",
+    "Cognition": "cognition",
+    "Cognitive Architecture": "cognitive architecture",
+    "Complex Systems": "complex systems",
+    "Critical Thinking": "critical thinking",
+    "Curiosity": "curiosity",
+    "Current events": "current events",
+    "Cybersecurity": "cybersecurity",
+    "Deductive Structure": "deductive structure",
+    "Diagram": "diagram",
+    "Dissolution": "dissolution",
+    "Discovery": "discovery",
+    "Domain-Bound Semantics": "domain-bound semantics",
+    "Doubt": "doubt",
+    "Dyson Swarm": "dyson swarm",
+    "Emotion Regulation": "emotion regulation",
+    "Epistemic alignment": "epistemic alignment",
+    "Epistemic Status": "epistemic status",
+    "Epistemics": "epistemics",
+    "Experiential Depth": "experiential depth",
+    "Free Will": "free will",
+    "Future": "future",
+    "Future of Communication": "future of communication",
+    "Future of Media": "future of media",
+    "Generative AI": "generative AI",
+    "Glossary": "glossary",
+    "Holographic Principle": "holographic principle",
+    "Immersive Architecture": "immersive architecture",
+    "Infinite Cinema": "infinite cinema",
+    "Knowledge": "knowledge",
+    "Labor": "labor",
+    "Learning": "learning",
+    "Long-form": "long-form",
+    "Manifesto": "manifesto",
+    "Map-Territory": "map-territory",
+    "Media literacy": "media literacy",
+    "Media Theory": "media theory",
+    "Metacognition": "metacognition",
+    "Metaphysics": "metaphysics",
+    "Method": "method",
+    "Neurodiversity": "neurodiversity",
+    "Neurotechnology": "neurotechnology",
+    "Personal AI Agents": "personal AI agents",
+    "Philosophy of Physics": "philosophy of physics",
+    "Philosophy of Play": "philosophy of play",
+    "Physicalism": "physicalism",
+    "Political Economy of AI": "political economy of AI",
+    "Practical Philosophy": "practical philosophy",
+    "Psychology": "psychology",
+    "Quantum Gravity": "quantum gravity",
+    "Reality Mapping": "reality mapping",
+    "Reference": "reference",
+    "Retrieval Economy": "retrieval economy",
+    "Self-Regulation": "self-regulation",
+    "Simulated Reality": "simulated reality",
+    "Space Technology": "space technology",
+    "Substrate Writing": "substrate writing",
+    "Systemic Critique": "systemic critique",
+    "Technology": "technology",
+    "Theoretical Physics": "theoretical physics",
+    "Thermodynamic epistemology": "thermodynamic epistemology",
+    "Value": "value",
+    "Verification": "verification",
+    "Wellbeing": "wellbeing",
+    "Wonder": "wonder",
+    "AI Slop": "AI slop",
+    "AIConsciousness": "AI consciousness",
+    "AIEthics": "AI ethics",
+    "AIResearch": "AI research",
+    "DecisionTheory": "decision theory",
+    "MachineLearning": "machine learning",
+    "ThoughtExperiment": "thought experiment",
+    "rcap": "RCAP",
+    "adaptive-persistence": "adaptive persistence",
+    "correction-cost": "correction cost",
+    "embedded-agency": "embedded agency",
+    "systems-theory": "systems theory",
+    "Human-AI Symbiosis": "human-AI symbiosis",
+    "human–AI interaction": "human-AI interaction",
+    "Human–Machine Interface": "human-machine interface"
+  },
+  "alias_groups": [
+    {
+      "canonical": "metaethics",
+      "originals": [
+        "Meta-ethics",
+        "MetaEthics",
+        "metaethics"
+      ],
+      "rationale": "Same field label across competing positions; preserve each article's claims and historical framework.",
+      "reviewed_context_ordinals": [
+        36,
+        64,
+        70,
+        75,
+        80,
+        98,
+        107,
+        140
+      ]
+    },
+    {
+      "canonical": "is-ought problem",
+      "originals": [
+        "is-ought",
+        "is–ought",
+        "Is-Ought Problem"
+      ],
+      "rationale": "All current uses tag the philosophical is/ought debate; claims to dissolve it do not create a separate topic.",
+      "reviewed_context_ordinals": [
+        33,
+        64,
+        70,
+        78,
+        93,
+        98,
+        100,
+        104,
+        106,
+        107,
+        140
+      ]
+    },
+    {
+      "canonical": "philosophy of science",
+      "originals": [
+        "Philosophy of Science",
+        "philosophy of science"
+      ],
+      "rationale": "Capitalization variants of the same disciplinary tag.",
+      "reviewed_context_ordinals": [
+        70,
+        73,
+        87,
+        113,
+        115
+      ]
+    },
+    {
+      "canonical": "information theory",
+      "originals": [
+        "information theory",
+        "information-theory"
+      ],
+      "rationale": "RCAP and the other tagged posts use information/control concepts; hyphenation does not identify a different field.",
+      "reviewed_context_ordinals": [
+        22,
+        66,
+        70,
+        71,
+        72,
+        75,
+        77,
+        78,
+        79,
+        80,
+        82
+      ]
+    },
+    {
+      "canonical": "ethics",
+      "originals": [
+        "Ethics",
+        "ethics"
+      ],
+      "rationale": "Same broad topic across differing ethical arguments; keep metaethics and narrower ethics labels separate.",
+      "reviewed_context_ordinals": [
+        17,
+        20,
+        74,
+        112,
+        116,
+        130,
+        131,
+        149
+      ]
+    },
+    {
+      "canonical": "AI",
+      "originals": [
+        "AI",
+        "Artificial Intelligence",
+        "Artificial intelligence",
+        "ArtificialIntelligence",
+        "artificial intelligence"
+      ],
+      "rationale": "Expanded forms and abbreviation all denote artificial intelligence in the current assignments. Narrower AI labels remain distinct.",
+      "reviewed_context_ordinals": [
+        20,
+        23,
+        32,
+        37,
+        65,
+        68,
+        103,
+        118,
+        124,
+        129,
+        149
+      ]
+    },
+    {
+      "canonical": "writing",
+      "originals": [
+        "Writing",
+        "writing"
+      ],
+      "rationale": "Both posts concern writing and document design; casing does not distinguish their subjects.",
+      "reviewed_context_ordinals": [
+        68,
+        87
+      ]
+    },
+    {
+      "canonical": "control theory",
+      "originals": [
+        "control theory",
+        "control-theory"
+      ],
+      "rationale": "Same discipline in RCAP and the persistence-strategy note.",
+      "reviewed_context_ordinals": [
+        22,
+        136
+      ]
+    },
+    {
+      "canonical": "Landauer's principle",
+      "originals": [
+        "Landauer",
+        "Landauer principle",
+        "Landauer's Principle"
+      ],
+      "rationale": "All current assignments concern the erasure principle, not a biographical category. This mapping is limited to this snapshot.",
+      "reviewed_context_ordinals": [
+        1,
+        2,
+        66,
+        96
+      ]
+    },
+    {
+      "canonical": "is-ought firewall",
+      "originals": [
+        "firewall",
+        "is/ought firewall"
+      ],
+      "rationale": "The current uses name the corpus's provisional is/ought boundary. Keep this specific device separate from the broad is-ought problem.",
+      "reviewed_context_ordinals": [
+        98,
+        100,
+        111
+      ]
+    }
+  ],
+  "missing_label_proposals": {
+    "5": [
+      "AI",
+      "AI prompts"
+    ],
+    "6": [
+      "AI",
+      "AI prompts"
+    ],
+    "7": [
+      "AI",
+      "AI prompts"
+    ],
+    "8": [
+      "AI",
+      "AI prompts"
+    ],
+    "9": [
+      "Metacognition",
+      "Psychology"
+    ],
+    "10": [
+      "AI",
+      "AI memory",
+      "lossy compression"
+    ],
+    "11": [
+      "AI",
+      "AI prompts"
+    ],
+    "12": [
+      "Emotion Regulation",
+      "Psychology"
+    ],
+    "13": [
+      "Cognition",
+      "Emotion Regulation"
+    ],
+    "14": [
+      "sex and gender",
+      "Consciousness",
+      "Ethics"
+    ],
+    "18": [
+      "AI",
+      "epistemology"
+    ],
+    "19": [
+      "epistemology",
+      "AI"
+    ],
+    "26": [
+      "epistemic thermodynamics",
+      "Ethics"
+    ],
+    "29": [
+      "is-ought problem",
+      "MetaEthics"
+    ],
+    "30": [
+      "AI",
+      "copyright",
+      "Authorship"
+    ],
+    "38": [
+      "aesthetics",
+      "AI",
+      "design"
+    ],
+    "39": [
+      "aesthetics",
+      "AI",
+      "self-correction"
+    ],
+    "40": [
+      "aesthetics",
+      "AI",
+      "Consciousness"
+    ],
+    "41": [
+      "aesthetics",
+      "self-correction"
+    ],
+    "42": [
+      "thermodynamics",
+      "Ethics",
+      "free energy principle"
+    ],
+    "43": [
+      "thermodynamics",
+      "Ethics",
+      "free energy principle"
+    ],
+    "44": [
+      "Consciousness",
+      "personal identity",
+      "determinism"
+    ],
+    "45": [
+      "simulation hypothesis",
+      "determinism"
+    ],
+    "46": [
+      "Thermodynamic Realism",
+      "epistemology",
+      "Ethics"
+    ],
+    "47": [
+      "Thermodynamic Realism",
+      "terminology"
+    ],
+    "48": [
+      "Ethics",
+      "kindness"
+    ],
+    "49": [
+      "Thermodynamic Realism",
+      "is-ought problem"
+    ],
+    "50": [
+      "intelligence",
+      "Metacognition"
+    ],
+    "51": [
+      "intelligence",
+      "Metacognition"
+    ],
+    "52": [
+      "Fermi paradox",
+      "intelligence"
+    ],
+    "53": [
+      "agency",
+      "personal identity"
+    ],
+    "54": [
+      "AI",
+      "Space Technology"
+    ],
+    "55": [
+      "sex and gender",
+      "philosophy of classification"
+    ],
+    "56": [
+      "agency",
+      "Consciousness"
+    ],
+    "57": [
+      "Gaza",
+      "Ukraine",
+      "casualty analysis"
+    ],
+    "58": [
+      "Thermodynamic Realism",
+      "is-ought problem",
+      "MetaEthics"
+    ],
+    "67": [
+      "Thermodynamic Realism",
+      "MetaEthics",
+      "is-ought problem"
+    ]
+  },
+  "post_specific_repairs": [
+    {
+      "ordinal": 33,
+      "remove": [
+        "problem",
+        "dissolved"
+      ],
+      "add": [],
+      "rationale": "Remove isolated title/stance fragments after consolidating the actual subject under is-ought problem."
+    },
+    {
+      "ordinal": 59,
+      "remove": [
+        "epistemic",
+        "of",
+        "spectrum"
+      ],
+      "add": [],
+      "rationale": "Remove apparent title fragments; keep the existing fidelity label. Do not globally remap fidelity to a narrower meaning."
+    },
+    {
+      "ordinal": 63,
+      "remove": [
+        "Unconscious Semantic Distortion"
+      ],
+      "add": [
+        "Unintentional Semantic Distortion"
+      ],
+      "rationale": "The article explicitly chooses unintentional rather than unconscious. Preserve the old label as a recorded alias, not in rewritten article prose."
+    }
+  ],
+  "hold_groups": [
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "Thermodynamic epistemology",
+        "epistemic thermodynamics",
+        "Fidelity Program",
+        "Epistemic Forge"
+      ],
+      "reason": "Historical frameworks, concept labels and project/program names are not interchangeable. Keep distinct; retirement of a project name does not erase its historical topic label."
+    },
+    {
+      "labels": [
+        "Method",
+        "methodology",
+        "method note"
+      ],
+      "reason": "Field/practice and document type overlap but are different axes. Normalize capitalization only; design facets separately."
+    },
+    {
+      "labels": [
+        "BCI",
+        "brain-computer interfaces",
+        "brain-to-brain interfaces"
+      ],
+      "reason": "BCI is a likely abbreviation candidate, but Agent Tomography has a broader measurement scope; do not collapse interface classes or retag article relevance automatically."
+    },
+    {
+      "labels": [
+        "Emotion Regulation",
+        "emotional self-regulation",
+        "Self-Regulation"
+      ],
+      "reason": "Potential broader/narrower relations, not established exact synonyms."
+    },
+    {
+      "labels": [
+        "causality",
+        "causation",
+        "causal inference"
+      ],
+      "reason": "The causal taxonomy note distinguishes classificatory questions. Shared appearance is not enough to collapse terms."
+    },
+    {
+      "labels": [
+        "alignment",
+        "AI alignment",
+        "Epistemic alignment",
+        "thermodynamic alignment",
+        "reality alignment"
+      ],
+      "reason": "The corpus explicitly distinguishes alignment objectives. Preserve the qualifiers."
+    },
+    {
+      "labels": [
+        "Semantic",
+        "Distortion.",
+        "Terrorism",
+        "Semantic Terrorism",
+        "Semantic Terrorist"
+      ],
+      "reason": "The coinage discusses ordinary terrorism as a source concept. Some tags look fragmented, but deleting or merging them needs a separate editorial decision."
+    },
+    {
+      "labels": [
+        "information",
+        "information theory",
+        "physics",
+        "thermodynamics",
+        "Value",
+        "value theory",
+        "meaning",
+        "meaning of life"
+      ],
+      "reason": "Broad concepts, fields and narrower questions should not be conflated merely to reduce the label count."
+    }
+  ]
+}

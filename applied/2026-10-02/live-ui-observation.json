@@ -1,0 +1,2548 @@
+{
+  "observed_at": "2026-10-02T02:25:02.711Z",
+  "title_comparison": "Display whitespace collapsed",
+  "posts": [
+    {
+      "labels": [],
+      "post_id": "3076585744040452259",
+      "published_tooltip": null,
+      "status_text": "Draft",
+      "title": "(Untitled)",
+      "url": null,
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3076585744040452259",
+      "status": "DRAFT"
+    },
+    {
+      "labels": [
+        "AI",
+        "Epistemic Forge",
+        "copyright",
+        "deepfakes",
+        "ethics",
+        "generative video",
+        "law",
+        "risk"
+      ],
+      "post_id": "7497727602926008670",
+      "published_tooltip": "Sep 30, 2026, 4:51 PM, Published Date",
+      "status_text": "Published",
+      "title": "Private Use Ends Where an Escaped File Would Do Harm",
+      "url": "https://epistemicforge.blogspot.com/2026/09/private-use-ends-where-escaped-file.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "design",
+        "philosophy"
+      ],
+      "post_id": "2107842814863774102",
+      "published_tooltip": "Sep 28, 2026, 12:17 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Epistemic Forge Symbol",
+      "url": "https://epistemicforge.blogspot.com/2026/09/the-epistemic-forge-symbol.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "Epistemic Forge",
+        "atheism",
+        "calibration",
+        "personal identity",
+        "philosophy of religion",
+        "supernaturalism",
+        "uncertainty"
+      ],
+      "post_id": "476514547755071981",
+      "published_tooltip": "Sep 24, 2026, 7:04 PM, Published Date",
+      "status_text": "Published",
+      "title": "What the Audit Leaves Open",
+      "url": "https://epistemicforge.blogspot.com/2026/09/what-audit-leaves-open.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "aggregation",
+        "biological normativity",
+        "coupling",
+        "formal methods",
+        "persistence",
+        "philosophy",
+        "viability"
+      ],
+      "post_id": "143568004634881748",
+      "published_tooltip": "Sep 22, 2026, 6:11 PM, Published Date",
+      "status_text": "Published",
+      "title": "Cross-Agent Aggregation Principles",
+      "url": "https://epistemicforge.blogspot.com/2026/09/cross-agent-aggregation-principles.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "biological normativity",
+        "coupling",
+        "formal methods",
+        "persistence",
+        "philosophy",
+        "viability"
+      ],
+      "post_id": "2192595508277207580",
+      "published_tooltip": "Sep 22, 2026, 7:03 AM, Published Date",
+      "status_text": "Published",
+      "title": "One Game of Oughts",
+      "url": "https://epistemicforge.blogspot.com/2026/09/one-game-of-oughts.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "Relata-Indexed Objectivity",
+        "logic",
+        "nothingness",
+        "ontology",
+        "philosophy",
+        "philosophy of mathematics",
+        "semantics",
+        "zero"
+      ],
+      "post_id": "6847296965724372157",
+      "published_tooltip": "Sep 17, 2026, 8:41 AM, Published Date",
+      "status_text": "Published",
+      "title": "Zero Is Indexed Absence",
+      "url": "https://epistemicforge.blogspot.com/2026/09/zero-is-indexed-absence.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "EuroSpike",
+        "Gaza",
+        "Israel",
+        "Janez Janša",
+        "Karl Jaspers",
+        "Slovenia",
+        "arms embargo",
+        "complicity",
+        "foreign policy",
+        "genocide",
+        "moral responsibility",
+        "procurement",
+        "source audit"
+      ],
+      "post_id": "3523182660021652353",
+      "published_tooltip": "Sep 17, 2026, 6:57 AM, Published Date",
+      "status_text": "Published",
+      "title": "Slovenia Is Complicit in a Genocide",
+      "url": "https://epistemicforge.blogspot.com/2026/09/slovenia-is-complicit-in-genocide.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Adolf Hitler",
+        "Benjamin Netanyahu",
+        "Bible",
+        "Donald Trump",
+        "Epistemic Forge",
+        "Gaza",
+        "Israel",
+        "authoritarianism",
+        "divine command",
+        "genocide",
+        "moral disengagement",
+        "philosophy"
+      ],
+      "post_id": "949745690848514858",
+      "published_tooltip": "Sep 2, 2026, 2:53 PM, Published Date",
+      "status_text": "Published",
+      "title": "Genocidal Authority: God, Hitler & Benjamin Netanyahu",
+      "url": "https://epistemicforge.blogspot.com/2026/09/genocidal-authority-god-hitler-benjamin.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "atheism",
+        "causal closure",
+        "classical theism",
+        "divine hiddenness",
+        "epistemology",
+        "free will",
+        "philosophy of religion",
+        "physicalism",
+        "problem of evil",
+        "semantic indexing",
+        "supernaturalism"
+      ],
+      "post_id": "6223414605006229728",
+      "published_tooltip": "Sep 2, 2026, 1:11 PM, Published Date",
+      "status_text": "Published",
+      "title": "God Does Not Exist",
+      "url": "https://epistemicforge.blogspot.com/2026/09/god-does-not-exist.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "Foot",
+        "Hume",
+        "black holes",
+        "constitutivism",
+        "is-ought problem",
+        "metaethics",
+        "normativity",
+        "persistence",
+        "philosophy"
+      ],
+      "post_id": "5825812983608919140",
+      "published_tooltip": "Aug 28, 2026, 6:38 AM, Published Date",
+      "status_text": "Published",
+      "title": "Universal Is Not Categorical",
+      "url": "https://epistemicforge.blogspot.com/2026/08/universal-is-not-categorical.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Berserk",
+        "Epistemic Forge",
+        "Guts",
+        "agency",
+        "compatibilism",
+        "determinism",
+        "fatalism",
+        "free will",
+        "free will skepticism",
+        "mental causation",
+        "metacognition",
+        "moral responsibility",
+        "nihilism",
+        "physicalism"
+      ],
+      "post_id": "7788037213087791810",
+      "published_tooltip": "Aug 21, 2026, 2:04 AM, Published Date",
+      "status_text": "Published",
+      "title": "You Do Not Need to Be Uncaused to Be a Cause",
+      "url": "https://epistemicforge.blogspot.com/2026/08/you-do-not-need-to-be-uncaused-to-be.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "attraction",
+        "cognitive science",
+        "morphology",
+        "ontology",
+        "representation",
+        "research proposal",
+        "sexuality"
+      ],
+      "post_id": "1704652683339718159",
+      "published_tooltip": "Aug 17, 2026, 2:15 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Representational Attraction Map",
+      "url": "https://epistemicforge.blogspot.com/2026/08/the-representational-attraction-map.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "2028 election",
+        "AIPAC",
+        "Epistemic Forge",
+        "Gaza",
+        "Israel",
+        "United States",
+        "campaign finance",
+        "democracy",
+        "genocide",
+        "media ownership",
+        "oligarchy"
+      ],
+      "post_id": "7707346650060072072",
+      "published_tooltip": "Aug 17, 2026, 2:14 AM, Published Date",
+      "status_text": "Published",
+      "title": "The emerging 2028 field and America’s continued support for genocide",
+      "url": "https://epistemicforge.blogspot.com/2026/08/the-emerging-2028-field-and-americas.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "control theory",
+        "cosmology",
+        "cybernetics",
+        "epistemology",
+        "evolution",
+        "persistence",
+        "philosophy",
+        "reality alignment",
+        "representation"
+      ],
+      "post_id": "3528610734651832456",
+      "published_tooltip": "Aug 12, 2026, 1:25 AM, Published Date",
+      "status_text": "Published",
+      "title": "Reality Alignment as a Persistence Strategy",
+      "url": "https://epistemicforge.blogspot.com/2026/08/reality-alignment-as-persistence.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "epistemology",
+        "mortality",
+        "motivated reasoning",
+        "personal identity",
+        "philosophy",
+        "reality-avoidance"
+      ],
+      "post_id": "6669163268920250951",
+      "published_tooltip": "Aug 5, 2026, 1:24 AM, Published Date",
+      "status_text": "Published",
+      "title": "Comfort Beliefs",
+      "url": "https://epistemicforge.blogspot.com/2026/08/comfort-beliefs.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "causal inference",
+        "causality",
+        "causation",
+        "metaphysics",
+        "philosophy",
+        "taxonomy",
+        "terminology"
+      ],
+      "post_id": "8986223333475443027",
+      "published_tooltip": "Aug 4, 2026, 11:50 PM, Published Date",
+      "status_text": "Published",
+      "title": "Causality Is Not a Flat List",
+      "url": "https://epistemicforge.blogspot.com/2026/08/causality-is-not-flat-list.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "absurdism",
+        "cosmic significance",
+        "existentialism",
+        "finitude",
+        "meaning of life",
+        "mortality",
+        "nihilism",
+        "self-defeat",
+        "temporal nihilism",
+        "value"
+      ],
+      "post_id": "4229309129226628931",
+      "published_tooltip": "Jul 28, 2026, 9:56 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Nihilist's Missing Premise",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-nihilists-missing-premise.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "corrigibility",
+        "democracy",
+        "epistocracy",
+        "expertise",
+        "governance",
+        "institutional design",
+        "political philosophy",
+        "technocracy",
+        "utilitarian leximin"
+      ],
+      "post_id": "6917091782956921270",
+      "published_tooltip": "Jul 19, 2026, 1:38 PM, Published Date",
+      "status_text": "Published",
+      "title": "Democracy Is Conditional",
+      "url": "https://epistemicforge.blogspot.com/2026/07/democracy-is-conditional.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "brain-computer interfaces",
+        "brain-to-brain interfaces",
+        "cognition",
+        "ethics",
+        "neurotechnology",
+        "personal identity",
+        "philosophy"
+      ],
+      "post_id": "2962975118586051385",
+      "published_tooltip": "Jul 18, 2026, 4:43 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Bandwidth of the Self",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-bandwidth-of-self.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "ethics",
+        "gender",
+        "methodology",
+        "philosophy",
+        "sex",
+        "sexual orientation",
+        "sexuality",
+        "trans identity"
+      ],
+      "post_id": "4769422303009669509",
+      "published_tooltip": "Jul 17, 2026, 11:55 PM, Published Date",
+      "status_text": "Published",
+      "title": "Straight Is a Compression",
+      "url": "https://epistemicforge.blogspot.com/2026/07/straight-is-compression.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "BCI",
+        "Epistemic Forge",
+        "human digital twins",
+        "lifelogging",
+        "neuroscience",
+        "personal identity",
+        "system identification"
+      ],
+      "post_id": "2806923633543883388",
+      "published_tooltip": "Jul 17, 2026, 10:03 PM, Published Date",
+      "status_text": "Published",
+      "title": "Agent Tomography",
+      "url": "https://epistemicforge.blogspot.com/2026/07/agent-tomography.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "bounded rationality",
+        "epistemology",
+        "inquiry",
+        "methodology",
+        "philosophy"
+      ],
+      "post_id": "7171029550237365638",
+      "published_tooltip": "Jul 16, 2026, 5:59 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Map Is Not the Itinerary",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-map-is-not-itinerary.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "epistemology",
+        "methodology",
+        "objectivity",
+        "philosophy",
+        "physicalism",
+        "semantics"
+      ],
+      "post_id": "1300779518070555721",
+      "published_tooltip": "Jul 16, 2026, 1:22 AM, Published Date",
+      "status_text": "Published",
+      "title": "Relata-Indexed Objectivity",
+      "url": "https://epistemicforge.blogspot.com/2026/07/relata-indexed-objectivity.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "cosmology",
+        "epistemology",
+        "existence literacy",
+        "philosophy",
+        "scientific literacy",
+        "selfhood",
+        "uncertainty",
+        "world-models"
+      ],
+      "post_id": "7535322573377426545",
+      "published_tooltip": "Jul 16, 2026, 12:53 AM, Published Date",
+      "status_text": "Published",
+      "title": "Existence Literacy",
+      "url": "https://epistemicforge.blogspot.com/2026/07/existence-literacy.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "agency",
+        "corrigibility",
+        "epistemology",
+        "persistence",
+        "philosophy",
+        "physicalism",
+        "reality mapping"
+      ],
+      "post_id": "5646688591934600251",
+      "published_tooltip": "Jul 15, 2026, 8:09 PM, Published Date",
+      "status_text": "Published",
+      "title": "Reality Alignment",
+      "url": "https://epistemicforge.blogspot.com/2026/07/reality-alignment.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "Epistemic Forge",
+        "cognition",
+        "conceptual analysis",
+        "coupled cognition",
+        "epistemology",
+        "error detection",
+        "self-modeling"
+      ],
+      "post_id": "7112920038566553453",
+      "published_tooltip": "Jul 15, 2026, 12:04 AM, Published Date",
+      "status_text": "Published",
+      "title": "A Provisional Model of My Intellectual Error-Detection Process",
+      "url": "https://epistemicforge.blogspot.com/2026/07/a-provisional-model-of-my-intellectual.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "agency",
+        "epistemology",
+        "metaethics",
+        "persistence",
+        "philosophy",
+        "physicalism",
+        "suffering"
+      ],
+      "post_id": "6693154679151769284",
+      "published_tooltip": "Jul 14, 2026, 11:47 PM, Published Date",
+      "status_text": "Published",
+      "title": "Persistence Is Not Stasis",
+      "url": "https://epistemicforge.blogspot.com/2026/07/persistence-is-not-stasis.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "agency",
+        "epistemology",
+        "metaethics",
+        "philosophy",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "post_id": "2376092161793892189",
+      "published_tooltip": "Jul 14, 2026, 2:36 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Natural History of Fidelity",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-natural-history-of-fidelity.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "Fidelity Program",
+        "Parfit",
+        "dissipative structures",
+        "metaphysics",
+        "personal identity"
+      ],
+      "post_id": "2887308005513333471",
+      "published_tooltip": "Jul 11, 2026, 1:27 AM, Published Date",
+      "status_text": "Published",
+      "title": "What You Actually Are",
+      "url": "https://epistemicforge.blogspot.com/2026/07/what-you-actually-are.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "anime",
+        "essay",
+        "isekai",
+        "personal identity",
+        "simulated reality",
+        "worlds"
+      ],
+      "post_id": "4386869272346153609",
+      "published_tooltip": "Jul 10, 2026, 4:18 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Isekai Instinct",
+      "url": "https://epistemicforge.blogspot.com/2026/07/the-isekai-instinct.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "applied fidelity",
+        "epistemology",
+        "homeopathy",
+        "lossy compression",
+        "placebo",
+        "pseudoscience"
+      ],
+      "post_id": "2595054807061980126",
+      "published_tooltip": "Jun 29, 2026, 9:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "Two Lossy Compressions in One Day",
+      "url": "https://epistemicforge.blogspot.com/2026/06/two-lossy-compressions-in-one-day.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "Fidelity Program",
+        "industrial explosion",
+        "intelligence explosion",
+        "singularity",
+        "takeoff speeds",
+        "thermodynamics"
+      ],
+      "post_id": "5013398351937118234",
+      "published_tooltip": "Jun 27, 2026, 6:07 PM, Published Date",
+      "status_text": "Published",
+      "title": "Intelligence Is Not the Bottleneck",
+      "url": "https://epistemicforge.blogspot.com/2026/06/intelligence-is-not-bottleneck.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "Name the Relata",
+        "The Exclusivity Error",
+        "levels",
+        "method",
+        "non-reductive physicalism",
+        "reduction"
+      ],
+      "post_id": "8097357162712961133",
+      "published_tooltip": "Jun 27, 2026, 4:27 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Exclusivity Error",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-exclusivity-error.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "agent-relativity",
+        "coupling",
+        "ethics",
+        "intelligence",
+        "persistence",
+        "physicalism",
+        "prior art",
+        "value"
+      ],
+      "post_id": "7458596335449156385",
+      "published_tooltip": "Jun 25, 2026, 5:39 PM, Published Date",
+      "status_text": "Published",
+      "title": "Value as Persistence: Agent-relative oughts under coupling, nesting, \nuncertainty, and open-ended time",
+      "url": "https://epistemicforge.blogspot.com/2026/06/value-as-persistence-agent-relative.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "calibration",
+        "fidelity",
+        "methodology",
+        "philosophy of science",
+        "prior art",
+        "self-correction"
+      ],
+      "post_id": "507516394655172731",
+      "published_tooltip": "Jun 25, 2026, 5:18 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Two Ways to Be Wrong",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-two-ways-to-be-wrong.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "cognitive science",
+        "epistemic emotions",
+        "metacognition",
+        "prior art",
+        "processing fluency"
+      ],
+      "post_id": "9088543382596308109",
+      "published_tooltip": "Jun 24, 2026, 12:29 AM, Published Date",
+      "status_text": "Published",
+      "title": "Fidelity-Valenced Cognition",
+      "url": "https://epistemicforge.blogspot.com/2026/06/fidelity-valenced-cognition.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "methodology",
+        "multilevel causation",
+        "naturalized metaphysics",
+        "philosophy of science",
+        "prior art",
+        "thermodynamics of prediction"
+      ],
+      "post_id": "6465528068805080813",
+      "published_tooltip": "Jun 23, 2026, 10:31 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Spine and the Web: Reality-Mapping for Embedded Agents",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-spine-and-web-reality-mapping-for.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI alignment",
+        "Epistemic Forge",
+        "Fidelity Program",
+        "epistemology",
+        "ethics",
+        "human-AI symbiosis",
+        "map-territory",
+        "metacognition",
+        "physicalism",
+        "reality mapping"
+      ],
+      "post_id": "2279073318939112178",
+      "published_tooltip": "Jun 21, 2026, 5:28 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Fidelity Program: Toward a High-Resolution Map of the Territory",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-fidelity-program-toward-high.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Forge",
+        "apex synthesis",
+        "dark energy",
+        "is-ought firewall",
+        "metaethics",
+        "persistence",
+        "philosophy of physics"
+      ],
+      "post_id": "1124998182553795713",
+      "published_tooltip": "Jun 21, 2026, 3:30 PM, Published Date",
+      "status_text": "Published",
+      "title": "Epistemic Forge: The Apex Synthesis",
+      "url": "https://epistemicforge.blogspot.com/2026/06/epistemic-forge-apex-synthesis.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI assistants",
+        "interaction design",
+        "prior art",
+        "proactive agents",
+        "reference resolution"
+      ],
+      "post_id": "7800103533343691506",
+      "published_tooltip": "Jun 20, 2026, 10:01 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Constraint Isn't Latency",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-constraint-isnt-latency.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI collaboration",
+        "confabulation",
+        "epistemology",
+        "method"
+      ],
+      "post_id": "1734687694622479601",
+      "published_tooltip": "Jun 20, 2026, 4:49 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Shape of an Idea",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-shape-of-idea.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "agent-relativity",
+        "authority",
+        "collective responsibility",
+        "metaethics",
+        "philosophical anarchism"
+      ],
+      "post_id": "4838741726104773953",
+      "published_tooltip": "Jun 19, 2026, 7:36 PM, Published Date",
+      "status_text": "Published",
+      "title": "What Can Bear an Ought: Agency as the Gate on Desert and Oughts",
+      "url": "https://epistemicforge.blogspot.com/2026/06/what-can-bear-ought-agency-as-gate-on.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "deflationism",
+        "is-ought problem",
+        "metaethics",
+        "naturalism",
+        "philosophy"
+      ],
+      "post_id": "2163986268499910004",
+      "published_tooltip": "Jun 18, 2026, 2:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "Where the is–ought question bottoms out",
+      "url": "https://epistemicforge.blogspot.com/2026/06/it-is-what-it-is.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "causal emergence",
+        "free energy principle",
+        "is-ought problem",
+        "meta",
+        "personal",
+        "thermodynamics of prediction"
+      ],
+      "post_id": "8291326030209953592",
+      "published_tooltip": "Jun 18, 2026, 1:14 PM, Published Date",
+      "status_text": "Published",
+      "title": "I Spent Months Reinventing the Wheel. Today I Found Out.",
+      "url": "https://epistemicforge.blogspot.com/2026/06/i-spent-months-reinventing-wheel-today.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "Fidelity Program",
+        "Parfit",
+        "dissipative structures",
+        "metaphysics",
+        "personal identity"
+      ],
+      "post_id": "2657449993414072568",
+      "published_tooltip": "Jun 17, 2026, 11:42 AM, Published Date",
+      "status_text": "Published",
+      "title": "What You Actually Are",
+      "url": "https://epistemicforge.blogspot.com/2026/06/what-you-actually-are.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "conceptual role semantics",
+        "is-ought problem",
+        "metaethics",
+        "philosophy of language",
+        "reference"
+      ],
+      "post_id": "7500707946749187973",
+      "published_tooltip": "Jun 16, 2026, 8:21 AM, Published Date",
+      "status_text": "Published",
+      "title": "Name the Relata",
+      "url": "https://epistemicforge.blogspot.com/2026/06/name-relata.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "Anthropic",
+        "current events",
+        "cybersecurity",
+        "epistemics",
+        "media literacy",
+        "verification"
+      ],
+      "post_id": "7280432547125668863",
+      "published_tooltip": "Jun 16, 2026, 2:17 AM, Published Date",
+      "status_text": "Published",
+      "title": "Fable 5: What Happened",
+      "url": "https://epistemicforge.blogspot.com/2026/06/fable-5-what-happened.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Markov blanket",
+        "Thermodynamic Realism",
+        "coupling density",
+        "instrumental convergence",
+        "metaethics",
+        "persistence"
+      ],
+      "post_id": "5467295548793823999",
+      "published_tooltip": "Jun 15, 2026, 7:42 AM, Published Date",
+      "status_text": "Published",
+      "title": "Preservation Is a Coupling Problem",
+      "url": "https://epistemicforge.blogspot.com/2026/06/preservation-is-coupling-problem.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "metaphysics",
+        "method note",
+        "selection",
+        "self-reference"
+      ],
+      "post_id": "6458502646084662608",
+      "published_tooltip": "Jun 14, 2026, 10:19 AM, Published Date",
+      "status_text": "Published",
+      "title": "Uniqueness Is a Selection Problem",
+      "url": "https://epistemicforge.blogspot.com/2026/06/uniqueness-is-selection-problem.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought firewall",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity",
+        "physicalism"
+      ],
+      "post_id": "8027238046950156262",
+      "published_tooltip": "Jun 13, 2026, 11:28 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Is/Ought Firewall",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-isought-firewall.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "metaethics",
+        "persistence",
+        "personal essay",
+        "value theory"
+      ],
+      "post_id": "6531411948702187760",
+      "published_tooltip": "Jun 12, 2026, 12:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Magnetism of Aliveness",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-magnetism-of-aliveness.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought firewall",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity"
+      ],
+      "post_id": "2679296570005954563",
+      "published_tooltip": "Jun 12, 2026, 11:19 AM, Published Date",
+      "status_text": "Published",
+      "title": "Ought Is Local",
+      "url": "https://epistemicforge.blogspot.com/2026/06/ought-is-local.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics",
+        "philosophy of science",
+        "physicalism"
+      ],
+      "post_id": "5391871492648397156",
+      "published_tooltip": "Jun 12, 2026, 4:32 AM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: The Apex Synthesis",
+      "url": "https://epistemicforge.blogspot.com/2026/06/thermodynamic-realism-apex-synthesis.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Landauer's principle",
+        "Thermodynamic Realism",
+        "cosmology",
+        "dark energy",
+        "heat death",
+        "meaning",
+        "nihilism",
+        "philosophy of physics",
+        "thermodynamics"
+      ],
+      "post_id": "9217188563686431319",
+      "published_tooltip": "Jun 11, 2026, 1:32 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Last Gradient",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-last-gradient.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "experiential depth",
+        "immersive architecture",
+        "philosophy of play",
+        "post-scarcity",
+        "simulated reality"
+      ],
+      "post_id": "1236226361301616911",
+      "published_tooltip": "Jun 9, 2026, 1:09 PM, Published Date",
+      "status_text": "Published",
+      "title": "An Appetite for Experience",
+      "url": "https://epistemicforge.blogspot.com/2026/06/an-appetite-for-experience.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "agent-relativity",
+        "decorrelation",
+        "metaethics",
+        "robustness",
+        "superintelligence"
+      ],
+      "post_id": "2959662456794898831",
+      "published_tooltip": "Jun 9, 2026, 10:57 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Evolutionary Fallback Is a Commitment to Decorrelation, Not a Backup",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-evolutionary-fallback-is-commitment.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics",
+        "methodology",
+        "normativity"
+      ],
+      "post_id": "253295569723518500",
+      "published_tooltip": "Jun 9, 2026, 4:58 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Firewall Between Is and Ought Is a Scope Decision, Not a Metaphysical \nClaim",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-firewall-between-is-and-ought-is.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "adaptability",
+        "epistemic hygiene",
+        "finite agency",
+        "practical philosophy",
+        "uncertainty"
+      ],
+      "post_id": "8982258478010198772",
+      "published_tooltip": "Jun 8, 2026, 9:11 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Manual for When the World Keeps Changing",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-manual-for-when-world-keeps-changing.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "Thermodynamic Realism",
+        "cosmology",
+        "metaethics",
+        "metaphysics",
+        "philosophy of mind",
+        "physicalism"
+      ],
+      "post_id": "652861427468731679",
+      "published_tooltip": "Jun 7, 2026, 1:50 PM, Published Date",
+      "status_text": "Published",
+      "title": "Everything Is One Process",
+      "url": "https://epistemicforge.blogspot.com/2026/06/everything-is-one-process.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "metaethics",
+        "philosophy",
+        "philosophy of mathematics",
+        "philosophy of mind",
+        "physicalism",
+        "reductionism"
+      ],
+      "post_id": "7975171817769139758",
+      "published_tooltip": "Jun 6, 2026, 8:37 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Wizard's Error Is Delocalization",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-wizards-error-is-delocalization.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "automation economics",
+        "cost floor",
+        "directed automation",
+        "distribution",
+        "political economy",
+        "post-scarcity",
+        "thermodynamics",
+        "universal basic services"
+      ],
+      "post_id": "7831936543091968698",
+      "published_tooltip": "Jun 6, 2026, 5:35 AM, Published Date",
+      "status_text": "Published",
+      "title": "Directed Automation and the Cost Floor: Constraint Migration, the Water \nDemonstrator, and the Concentration Default",
+      "url": "https://epistemicforge.blogspot.com/2026/06/directed-automation-and-cost-floor.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "data visualization",
+        "design system",
+        "epistemology",
+        "methodology",
+        "specification"
+      ],
+      "post_id": "1869437238141394061",
+      "published_tooltip": "Jun 5, 2026, 2:13 PM, Published Date",
+      "status_text": "Published",
+      "title": "High-Fidelity Maps: The Dependency Map",
+      "url": "https://epistemicforge.blogspot.com/2026/06/high-fidelity-maps-dependency-map.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "design system",
+        "epistemology",
+        "methodology",
+        "philosophy of science",
+        "specification",
+        "writing"
+      ],
+      "post_id": "1197940519547012680",
+      "published_tooltip": "Jun 5, 2026, 1:23 PM, Published Date",
+      "status_text": "Published",
+      "title": "High-Fidelity Maps: A Specification for Documents That Track Their Territory",
+      "url": "https://epistemicforge.blogspot.com/2026/06/high-fidelity-maps-specification-for.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "epistemology",
+        "fact-value distinction",
+        "gender identity",
+        "intersex",
+        "metaethics",
+        "naturalism",
+        "philosophy",
+        "philosophy of classification",
+        "sex and gender"
+      ],
+      "post_id": "2773217516438248105",
+      "published_tooltip": "Jun 4, 2026, 7:25 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Shape of the Disagreement: Why the Sex and Gender Debate Has the \nStructure It Has",
+      "url": "https://epistemicforge.blogspot.com/2026/06/the-shape-of-disagreement-why-sex-and.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "doubt",
+        "kindness",
+        "philosophy",
+        "practical philosophy",
+        "wellbeing"
+      ],
+      "post_id": "5193462961587788495",
+      "published_tooltip": "Jun 1, 2026, 11:15 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Manual for When You Don't Know What to Believe",
+      "url": "https://epistemicforge.blogspot.com/2026/06/blog-post.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognition",
+        "emotion regulation",
+        "metacognition",
+        "philosophy",
+        "psychology",
+        "self-regulation"
+      ],
+      "post_id": "3864736591396500260",
+      "published_tooltip": "Jun 1, 2026, 1:12 PM, Published Date",
+      "status_text": "Published",
+      "title": "Metacognition and Memory Anchoring: A Cue-Bound Technique for Trained \nMetacognitive Control",
+      "url": "https://epistemicforge.blogspot.com/2026/06/metacognition-and-memory-anchoring-cue.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognition",
+        "labor",
+        "neurodiversity",
+        "philosophy",
+        "psychology",
+        "systemic critique"
+      ],
+      "post_id": "1433601473110374768",
+      "published_tooltip": "May 31, 2026, 1:28 AM, Published Date",
+      "status_text": "Published",
+      "title": "Involuntary Social Load: A General Account, with the Workplace as \nEngineered Instance",
+      "url": "https://epistemicforge.blogspot.com/2026/05/involuntary-social-load-general-account.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "free will",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "naturalism",
+        "philosophy of physics"
+      ],
+      "post_id": "587260941651514425",
+      "published_tooltip": "May 29, 2026, 4:34 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: What It Proves and What It Bets",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "The Ghost Filter",
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "free will",
+        "metaphysics",
+        "philosophy"
+      ],
+      "post_id": "6013904935190817754",
+      "published_tooltip": "May 29, 2026, 3:25 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Metaphysical Audit: Dissolving Philosophy’s \"Hard Problems\" via the \nGhost Filter",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-metaphysical-audit-dissolving.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "epistemic thermodynamics",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "physics"
+      ],
+      "post_id": "5579124113530611570",
+      "published_tooltip": "May 29, 2026, 8:51 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Inter-Agent Normativity Gap Is a Ghost | On the Closure of \nThermodynamic Realism’s Meta-Ethics",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-inter-agent-normativity-gap-is.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "epistemic status",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "theoretical physics",
+        "thermodynamics"
+      ],
+      "post_id": "5846387203100244463",
+      "published_tooltip": "May 29, 2026, 7:26 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Unified Field of Meta-Ethics: A Conceptual Map and Mathematical \nFramework for Epistemic Thermodynamics",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-unified-field-of-meta-ethics.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "philosophy",
+        "physics",
+        "thermodynamics"
+      ],
+      "post_id": "5781516394992129233",
+      "published_tooltip": "May 29, 2026, 7:01 AM, Published Date",
+      "status_text": "Published",
+      "title": "Dismantling the Is-Ought Boundary: A Complete Technical Compendium of \nObjections and Thermodynamic Resolutions",
+      "url": "https://epistemicforge.blogspot.com/2026/05/dismantling-is-ought-boundary-complete.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "post_id": "1764037037166913240",
+      "published_tooltip": "May 28, 2026, 11:44 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognitive architecture",
+        "epistemic thermodynamics",
+        "evolutionary biology",
+        "information theory",
+        "philosophy",
+        "psychology",
+        "thermodynamics"
+      ],
+      "post_id": "4860605048582057781",
+      "published_tooltip": "May 28, 2026, 7:42 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Undivided Mind: Cognitive Architecture Under Thermodynamic Realism",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-undivided-mind-cognitive.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI alignment",
+        "complex systems",
+        "epistemic thermodynamics",
+        "information theory",
+        "metaethics",
+        "philosophy",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "post_id": "7872158136147060923",
+      "published_tooltip": "May 28, 2026, 6:32 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: Structural Condensation and the Dissolution of the \nIs-Ought Problem",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-structural.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "Thermodynamic Monism",
+        "entropy",
+        "ethics",
+        "manifesto",
+        "metaphysics",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "post_id": "8289109074917835702",
+      "published_tooltip": "May 27, 2026, 7:55 AM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Monism",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-monism.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "critical thinking",
+        "domain-bound semantics",
+        "epistemology",
+        "metaethics",
+        "method",
+        "philosophy of science"
+      ],
+      "post_id": "1751578797866657658",
+      "published_tooltip": "May 27, 2026, 7:21 AM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: Diagnosing Whether a Question Has a Domain",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-diagnosing.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "deductive structure",
+        "diagram",
+        "epistemology",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "thermodynamics"
+      ],
+      "post_id": "6955236149541028498",
+      "published_tooltip": "May 25, 2026, 10:31 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: The Deductive Web",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive-web.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "glossary",
+        "information theory",
+        "metaethics",
+        "philosophy of science",
+        "reference",
+        "thermodynamics"
+      ],
+      "post_id": "8997777983549456436",
+      "published_tooltip": "May 25, 2026, 10:10 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: A Glossary",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-glossary.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "entropy",
+        "epistemology",
+        "information theory",
+        "is-ought problem",
+        "metaethics",
+        "persistence",
+        "philosophy of science",
+        "physicalism",
+        "thermodynamics"
+      ],
+      "post_id": "2750028891148248573",
+      "published_tooltip": "May 25, 2026, 10:09 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, \nFalsification Criteria, and Identified Open Questions - Rev. 3",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive_01126775510.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognitive rigidity",
+        "correction atrophy",
+        "epistemic maintenance",
+        "neuroplasticity",
+        "open-mindedness",
+        "self-correction mechanism"
+      ],
+      "post_id": "7726416819703453717",
+      "published_tooltip": "May 25, 2026, 9:40 AM, Published Date",
+      "status_text": "Published",
+      "title": "Correction Atrophy: The Epistemic Risk of Decaying Self-Correction",
+      "url": "https://epistemicforge.blogspot.com/2026/05/correction-atrophy-epistemic-risk-of.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "agentic retrieval",
+        "attention economy",
+        "authorship",
+        "discovery",
+        "future of media",
+        "long-form",
+        "media theory",
+        "political economy of AI",
+        "retrieval economy",
+        "substrate writing",
+        "writing"
+      ],
+      "post_id": "1328500969266957865",
+      "published_tooltip": "May 22, 2026, 6:01 PM, Published Date",
+      "status_text": "Published",
+      "title": "Not Written for Browsing: A Four-Path Bet on Substrate Writing",
+      "url": "https://epistemicforge.blogspot.com/2026/05/not-written-for-browsing-four-path-bet.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics"
+      ],
+      "post_id": "112990991507530445",
+      "published_tooltip": "May 20, 2026, 11:31 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, \nFalsification Criteria, and Identified Open Questions - Rev. 2",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive_01557432386.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-112990991507530445",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Landauer's principle",
+        "Thermodynamic Realism",
+        "entropy",
+        "holographic principle",
+        "information theory",
+        "metaphysics",
+        "philosophy of physics",
+        "quantum gravity",
+        "thermodynamics"
+      ],
+      "post_id": "2227266549798460829",
+      "published_tooltip": "May 20, 2026, 5:37 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Thermodynamic Manifesto: Reality is Computation",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-thermodynamic-manifesto-reality-is.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI slop",
+        "Communities of Taste",
+        "Epistemic Forge",
+        "Hollywood",
+        "agentic curation",
+        "attention economy",
+        "cinema",
+        "copyright",
+        "future",
+        "future of media",
+        "generative AI",
+        "infinite cinema",
+        "media theory",
+        "personal AI agents",
+        "technology"
+      ],
+      "post_id": "416672099238974010",
+      "published_tooltip": "May 19, 2026, 7:25 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Death of Generic Media: From Infinite Cinema to the Market of One",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-death-of-generic-media-from.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "agent-relative semantics",
+        "dissolution",
+        "is-ought problem",
+        "persistence"
+      ],
+      "post_id": "6795026095426036840",
+      "published_tooltip": "May 17, 2026, 10:30 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Dissolution of the Is-Ought Distinction - An Agent-Relative Semantics \nGrounded in Persistence",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-dissolution-of-is-ought-distinction.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Distortion.",
+        "Semantic",
+        "Semantic Terrorism",
+        "Semantic Terrorist",
+        "Terrorism",
+        "Unintentional Semantic Distortion"
+      ],
+      "post_id": "7009640284256511546",
+      "published_tooltip": "May 17, 2026, 7:59 PM, Published Date",
+      "status_text": "Published",
+      "title": "Semantic Terrorism, Semantic Terrorist, Unintentional Semantic Distortion: \nA Coinage",
+      "url": "https://epistemicforge.blogspot.com/2026/05/semantic-terrorism-semantic-terrorist.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Epistemic Selection"
+      ],
+      "post_id": "6473020508036777871",
+      "published_tooltip": "May 16, 2026, 7:46 PM, Published Date",
+      "status_text": "Published",
+      "title": "Epistemic Selection",
+      "url": "https://epistemicforge.blogspot.com/2026/05/epistemic-selection.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6473020508036777871",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "information",
+        "persistence",
+        "physics",
+        "tautology"
+      ],
+      "post_id": "3602723236847804220",
+      "published_tooltip": "May 16, 2026, 7:39 PM, Published Date",
+      "status_text": "Published",
+      "title": "What I Know (Persistence Tautology & Physicality of Information)",
+      "url": "https://epistemicforge.blogspot.com/2026/05/what-i-know-persistence-tautology.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism"
+      ],
+      "post_id": "9051147106067862955",
+      "published_tooltip": "May 15, 2026, 11:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, \nFalsification Criteria, and Identified Open Questions",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9051147106067862955",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "fidelity"
+      ],
+      "post_id": "8758215390025519426",
+      "published_tooltip": "May 15, 2026, 12:56 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Spectrum of Epistemic Fidelity: A Thermodynamic Audit of the Agent",
+      "url": "https://epistemicforge.blogspot.com/2026/05/the-spectrum-of-epistemic-fidelity.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought problem",
+        "metaethics"
+      ],
+      "post_id": "4780915581593276582",
+      "published_tooltip": "May 8, 2026, 1:35 AM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: In-Principle Determinacy and Ethics as Necessary \nModeling",
+      "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-in-principle.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4780915581593276582",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Gaza",
+        "Ukraine",
+        "casualty analysis"
+      ],
+      "post_id": "6945576194012580342",
+      "published_tooltip": "Apr 17, 2026, 12:24 AM, Published Date",
+      "status_text": "Published",
+      "title": "Casualty Analysis: Direct and Indirect Death Tolls in Gaza vs. Ukraine \n(April 2026)",
+      "url": "https://epistemicforge.blogspot.com/2026/04/casualty-analysis-direct-and-indirect.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6945576194012580342",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "agency"
+      ],
+      "post_id": "5652161138502200746",
+      "published_tooltip": "Apr 6, 2026, 11:16 PM, Published Date",
+      "status_text": "Published",
+      "title": "Defining the \"Agent\": The Shift from Biology to Pattern",
+      "url": "https://epistemicforge.blogspot.com/2026/04/defining-agent-shift-from-biology-to.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5652161138502200746",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "philosophy of classification",
+        "sex and gender"
+      ],
+      "post_id": "5417940771152542827",
+      "published_tooltip": "Mar 26, 2026, 3:43 AM, Published Date",
+      "status_text": "Published",
+      "title": "A Meta-Analysis of the Transgender Debate",
+      "url": "https://epistemicforge.blogspot.com/2026/03/a-meta-analysis-of-transgender-debate.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5417940771152542827",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "space technology"
+      ],
+      "post_id": "8140547870222690098",
+      "published_tooltip": "Mar 23, 2026, 2:14 AM, Published Date",
+      "status_text": "Published",
+      "title": "From Silicon to Stars: Mapping the ages of human civilization — and where \nwe are headed next",
+      "url": "https://epistemicforge.blogspot.com/2026/03/from-silicon-to-stars-mapping-ages-of.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8140547870222690098",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "agency",
+        "personal identity"
+      ],
+      "post_id": "4231856568941214136",
+      "published_tooltip": "Mar 19, 2026, 12:37 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Agent Manifest: On Patterns, Substrates, and the Freedom of Thinking \nClearly",
+      "url": "https://epistemicforge.blogspot.com/2026/03/the-agent-manifest-on-patterns.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4231856568941214136",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Fermi paradox",
+        "intelligence"
+      ],
+      "post_id": "5044259792075853041",
+      "published_tooltip": "Mar 18, 2026, 10:13 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Knowledge Filter: A Thought on the Fermi Paradox",
+      "url": "https://epistemicforge.blogspot.com/2026/03/the-knowledge-filter-thought-on-fermi.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5044259792075853041",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "intelligence",
+        "metacognition"
+      ],
+      "post_id": "6284417389107385579",
+      "published_tooltip": "Feb 5, 2026, 4:08 AM, Published Date",
+      "status_text": "Published",
+      "title": "Redefiniranje pomena \"biti pameten\"",
+      "url": "https://epistemicforge.blogspot.com/2026/02/redefiniranje-pomena-biti-pameten.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6284417389107385579",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "intelligence",
+        "metacognition"
+      ],
+      "post_id": "6689774584094247509",
+      "published_tooltip": "Feb 5, 2026, 4:02 AM, Published Date",
+      "status_text": "Published",
+      "title": "Redefining What It Means to Be \"Smart\"",
+      "url": "https://epistemicforge.blogspot.com/2026/02/redefining-what-it-means-to-be-smart.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6689774584094247509",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "is-ought problem"
+      ],
+      "post_id": "3215638528273779559",
+      "published_tooltip": "Jan 20, 2026, 1:07 AM, Published Date",
+      "status_text": "Published",
+      "title": "Formal Dissolution of the Is-Ought Problem via Thermodynamic Realism",
+      "url": "https://epistemicforge.blogspot.com/2026/01/formal-dissolution-of-is-ought-problem.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3215638528273779559",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "ethics",
+        "kindness"
+      ],
+      "post_id": "1555368451701621325",
+      "published_tooltip": "Jan 19, 2026, 1:56 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Architecture of Peace",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-architecture-of-peace.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1555368451701621325",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "terminology"
+      ],
+      "post_id": "8277054640295418494",
+      "published_tooltip": "Jan 17, 2026, 12:07 AM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism Term",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thermodynamic-realism-coined-by-andraz.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8277054640295418494",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Thermodynamic Realism",
+        "epistemology",
+        "ethics"
+      ],
+      "post_id": "3518690488756523914",
+      "published_tooltip": "Jan 16, 2026, 11:19 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Realism: A Unified Framework for Existence, Knowledge, and \nValue",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thermodynamic-realism-unified-framework.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3518690488756523914",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "determinism",
+        "simulation hypothesis"
+      ],
+      "post_id": "2541402211196355476",
+      "published_tooltip": "Jan 16, 2026, 2:13 PM, Published Date",
+      "status_text": "Published",
+      "title": "Reality as Verification: The Simulation as a Physics Unit Test",
+      "url": "https://epistemicforge.blogspot.com/2026/01/reality-as-verification-simulation-as.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2541402211196355476",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "determinism",
+        "personal identity"
+      ],
+      "post_id": "5852335117272094772",
+      "published_tooltip": "Jan 16, 2026, 11:46 AM, Published Date",
+      "status_text": "Published",
+      "title": "My Thoughts on Consciousness, Copying, Determinism & Superdeterminism",
+      "url": "https://epistemicforge.blogspot.com/2026/01/my-thoughts-on-consciousness-copying.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5852335117272094772",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "ethics",
+        "free energy principle",
+        "thermodynamics"
+      ],
+      "post_id": "5851789107002342178",
+      "published_tooltip": "Jan 15, 2026, 5:42 PM, Published Date",
+      "status_text": "Published",
+      "title": "A Unified Theory of Persistence, Active Inference, and Objective Morality",
+      "url": "https://epistemicforge.blogspot.com/2026/01/a-unified-theory-of-persistence-active.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5851789107002342178",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "ethics",
+        "free energy principle",
+        "thermodynamics"
+      ],
+      "post_id": "2683410676421517449",
+      "published_tooltip": "Jan 15, 2026, 5:12 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Thermodynamics of Ethics",
+      "url": "https://epistemicforge.blogspot.com/2026/01/a-unified-framework-of-persistence.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2683410676421517449",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "aesthetics",
+        "self-correction"
+      ],
+      "post_id": "4758223873913013069",
+      "published_tooltip": "Jan 15, 2026, 1:05 AM, Published Date",
+      "status_text": "Published",
+      "title": "Art as Compression of Reality: Revised After Testing",
+      "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality-revised.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4758223873913013069",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "Consciousness",
+        "aesthetics"
+      ],
+      "post_id": "6484780204734705149",
+      "published_tooltip": "Jan 15, 2026, 12:57 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Recursion: When the Subject Becomes Aware",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-recursion-when-subject-becomes-aware.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6484780204734705149",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "aesthetics",
+        "self-correction"
+      ],
+      "post_id": "1035192491730174071",
+      "published_tooltip": "Jan 15, 2026, 12:22 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Failure Report: Learning to Compress Truth",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-failure-report-learning-to-compress.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1035192491730174071",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "aesthetics",
+        "design"
+      ],
+      "post_id": "6234161756245651380",
+      "published_tooltip": "Jan 14, 2026, 11:55 PM, Published Date",
+      "status_text": "Published",
+      "title": "Engineering Beauty: Order Meets Chaos",
+      "url": "https://epistemicforge.blogspot.com/2026/01/engineering-beauty-order-meets-chaos.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6234161756245651380",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI consciousness",
+        "AI ethics",
+        "AI research",
+        "machine learning"
+      ],
+      "post_id": "4798377103310048452",
+      "published_tooltip": "Jan 14, 2026, 11:03 PM, Published Date",
+      "status_text": "Published",
+      "title": "Hypothesis: Do AIs \"break\" in long conversations because they lack rest and \nplay?",
+      "url": "https://epistemicforge.blogspot.com/2026/01/hypothesis-do-ais-break-in-long.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "decision theory",
+        "epistemology",
+        "metaethics",
+        "philosophy",
+        "thought experiment"
+      ],
+      "post_id": "4087798164463907903",
+      "published_tooltip": "Jan 11, 2026, 10:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thought Experiment: The Optimal Wish",
+      "url": "https://epistemicforge.blogspot.com/2026/01/thought-experiment-optimal-wish.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "existentialism",
+        "kindness",
+        "philosophy",
+        "stoicism",
+        "truth"
+      ],
+      "post_id": "4967003489072455751",
+      "published_tooltip": "Jan 11, 2026, 12:44 PM, Published Date",
+      "status_text": "Published",
+      "title": "PRIME DIRECTIVE“Source Code” for a Reality-Aligned Life. Align with \nReality. Create Order. Endure. Written by Andraž Đurič.",
+      "url": "https://epistemicforge.blogspot.com/2026/01/prime-directivesource-code-for-reality.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Art as Compression of Reality"
+      ],
+      "post_id": "4480997801251632049",
+      "published_tooltip": "Jan 10, 2026, 1:11 PM, Published Date",
+      "status_text": "Published",
+      "title": "Art as Compression of Reality",
+      "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "is-ought problem"
+      ],
+      "post_id": "1168648128002520359",
+      "published_tooltip": "Jan 10, 2026, 8:53 AM, Published Date",
+      "status_text": "Published",
+      "title": "The is-ought problem dissolved",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-is-ought-problem-dissolved.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "curiosity",
+        "knowledge",
+        "learning",
+        "wonder"
+      ],
+      "post_id": "1101231525244736061",
+      "published_tooltip": "Jan 7, 2026, 3:27 AM, Published Date",
+      "status_text": "Published",
+      "title": "The Curiosity Advantage: Why Broad Wonder Compounds in the AI Age",
+      "url": "https://epistemicforge.blogspot.com/2026/01/the-curiosity-advantage-why-broad.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "MANUAL FOR THE END OF THE UNIVERSE"
+      ],
+      "post_id": "1433817691456130069",
+      "published_tooltip": "Jan 6, 2026, 11:27 AM, Published Date",
+      "status_text": "Published",
+      "title": "MANUAL FOR THE END OF THE UNIVERSE",
+      "url": "https://epistemicforge.blogspot.com/2026/01/manual-for-end-of-universe.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433817691456130069",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "authorship",
+        "copyright"
+      ],
+      "post_id": "1337697316344307245",
+      "published_tooltip": "Jan 6, 2026, 10:21 AM, Published Date",
+      "status_text": "Published",
+      "title": "You Built the Tool, Not the Work",
+      "url": "https://epistemicforge.blogspot.com/2026/01/you-built-tool-not-work.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1337697316344307245",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "is-ought problem",
+        "metaethics"
+      ],
+      "post_id": "7735864680428236055",
+      "published_tooltip": "Jan 5, 2026, 4:08 PM, Published Date",
+      "status_text": "Published",
+      "title": "Dissolving the Is-Ought Problem",
+      "url": "https://epistemicforge.blogspot.com/2026/01/dissolving-is-ought-problem.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7735864680428236055",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Architecture for Living Aligned with Reality"
+      ],
+      "post_id": "2110928052706939422",
+      "published_tooltip": "Jan 4, 2026, 2:48 PM, Published Date",
+      "status_text": "Published",
+      "title": "Architecture for Living Aligned with Reality",
+      "url": "https://epistemicforge.blogspot.com/2026/01/architecture-for-living-aligned-with.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2110928052706939422",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "entropy",
+        "meaning of life",
+        "thermodynamics"
+      ],
+      "post_id": "9211582682156323516",
+      "published_tooltip": "Jan 2, 2026, 11:40 PM, Published Date",
+      "status_text": "Published",
+      "title": "Meaning of life",
+      "url": "https://epistemicforge.blogspot.com/2026/01/meaning-of-life.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "epistemic thermodynamics",
+        "ethics"
+      ],
+      "post_id": "7359616966708245767",
+      "published_tooltip": "Jan 2, 2026, 8:06 PM, Published Date",
+      "status_text": "Published",
+      "title": "Epistemic Thermodynamics: A Framework Connecting Truth, Ethics, and Physics",
+      "url": "https://epistemicforge.blogspot.com/2026/01/epistemic-thermodynamics-framework.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7359616966708245767",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "future of communication",
+        "human-machine interface",
+        "neurotechnology"
+      ],
+      "post_id": "7787765606742234935",
+      "published_tooltip": "Dec 31, 2025, 8:02 PM, Published Date",
+      "status_text": "Published",
+      "title": "I Have a Mouth Yet I Don’t Need to Speak",
+      "url": "https://epistemicforge.blogspot.com/2025/12/i-have-mouth-yet-i-dont-need-to-speak.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Coherence Is Ethics",
+        "Lies Cost Energy",
+        "The Thermodynamic Cost of Misalignment"
+      ],
+      "post_id": "1487236972339453593",
+      "published_tooltip": "Dec 30, 2025, 1:04 AM, Published Date",
+      "status_text": "Published",
+      "title": "Coherence Is Ethics",
+      "url": "https://epistemicforge.blogspot.com/2025/12/coherence-is-ethics.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "dyson swarm",
+        "space technology"
+      ],
+      "post_id": "2344117699231201310",
+      "published_tooltip": "Dec 29, 2025, 2:44 AM, Published Date",
+      "status_text": "Published",
+      "title": "The ASI Bootstrap: Building a Dyson Swarm in Decades, Not Centuries",
+      "url": "https://epistemicforge.blogspot.com/2025/12/the-asi-bootstrap-building-dyson-swarm.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "RCAP",
+        "adaptive persistence",
+        "coherence",
+        "control theory",
+        "correction cost",
+        "corrigibility",
+        "dependencies",
+        "embedded agency",
+        "externalities",
+        "feedback",
+        "governance",
+        "information theory",
+        "risk",
+        "systems theory",
+        "truth-tracking"
+      ],
+      "post_id": "1482316574364013267",
+      "published_tooltip": "Dec 28, 2025, 1:08 AM, Published Date",
+      "status_text": "Published",
+      "title": "RCAP — Reality, Coherence, Adaptive Persistence",
+      "url": "https://epistemicforge.blogspot.com/2025/12/rcap-reality-coherence-adaptive.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognitive thermodynamics",
+        "entropy cost of deception",
+        "ethics as physics",
+        "is-ought reduction",
+        "physical basis of truth",
+        "reality-alignment optimization",
+        "thermodynamic epistemology",
+        "universal scaling laws"
+      ],
+      "post_id": "7471836271539705865",
+      "published_tooltip": "Dec 27, 2025, 6:33 PM, Published Date",
+      "status_text": "Published",
+      "title": "Thermodynamic Epistemology: A Physical Foundation for Truth and Ethics",
+      "url": "https://epistemicforge.blogspot.com/2025/12/thermodynamic-epistemology-physical.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "alignment",
+        "epistemology",
+        "ethics",
+        "free energy principle",
+        "harm reduction",
+        "intelligence",
+        "optimization",
+        "thermodynamics",
+        "truth-seeking"
+      ],
+      "post_id": "6651359657616493165",
+      "published_tooltip": "Dec 25, 2025, 12:53 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Thermodynamic Basis of Ethics: Why Intelligence Converges Toward \nTruth-Seeking and Harm Reduction",
+      "url": "https://epistemicforge.blogspot.com/2025/12/the-thermodynamic-basis-of-ethics-why.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "epistemology"
+      ],
+      "post_id": "4046721204893898119",
+      "published_tooltip": "Dec 22, 2025, 3:12 PM, Published Date",
+      "status_text": "Published",
+      "title": "Truth First: Why Epistemics Cannot Be Compromised",
+      "url": "https://epistemicforge.blogspot.com/2025/12/truth-first-why-epistemics-cannot-be.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4046721204893898119",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "epistemology"
+      ],
+      "post_id": "7014526883614118246",
+      "published_tooltip": "Dec 21, 2025, 7:11 PM, Published Date",
+      "status_text": "Published",
+      "title": "Noticing a Shift",
+      "url": "https://epistemicforge.blogspot.com/2025/12/noticing-shift.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7014526883614118246",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "digital communication",
+        "emotional self-regulation",
+        "ethics",
+        "future AI",
+        "habit formation",
+        "human-AI interaction",
+        "moral uncertainty",
+        "respect for AI",
+        "second-brain workflows",
+        "utilitarian mindset"
+      ],
+      "post_id": "748859650650045562",
+      "published_tooltip": "Nov 30, 2025, 5:39 AM, Published Date",
+      "status_text": "Published",
+      "title": "Why I Treat AIs With Respect",
+      "url": "https://epistemicforge.blogspot.com/2025/11/why-i-treat-ais-with-respect.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "argumentation strategy",
+        "debate methodology",
+        "discourse analysis",
+        "epistemic responsibility",
+        "intellectual integrity",
+        "public reasoning",
+        "tone and dialogue",
+        "utilitarian evaluation",
+        "wellbeing ethics"
+      ],
+      "post_id": "2085614883099905291",
+      "published_tooltip": "Nov 26, 2025, 9:00 PM, Published Date",
+      "status_text": "Published",
+      "title": "Matt Dillahunty, Tone, and the Ethics of Debate",
+      "url": "https://epistemicforge.blogspot.com/2025/11/matt-dillahunty-tone-and-ethics-of.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognitive friction",
+        "desktop layout",
+        "digital minimalism",
+        "downloads management",
+        "fancyzones",
+        "file organization",
+        "parallel workflows",
+        "system tuning",
+        "window management",
+        "workspace optimization"
+      ],
+      "post_id": "4534796465914744904",
+      "published_tooltip": "Nov 26, 2025, 8:35 PM, Published Date",
+      "status_text": "Published",
+      "title": "Friction Auditing: The Hidden Productivity Skill",
+      "url": "https://epistemicforge.blogspot.com/2025/11/friction-auditing-hidden-productivity.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Consciousness",
+        "ethics",
+        "sex and gender"
+      ],
+      "post_id": "7858732256892809087",
+      "published_tooltip": "Nov 21, 2025, 9:01 PM, Published Date",
+      "status_text": "Published",
+      "title": "Richard Dawkins, Sex, Gender, and Why Minds Are the Primary Reality",
+      "url": "https://epistemicforge.blogspot.com/2025/11/richard-dawkins-sex-gender-and-why.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7858732256892809087",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "cognition",
+        "emotion regulation"
+      ],
+      "post_id": "3565164595737249898",
+      "published_tooltip": "Nov 19, 2025, 11:33 PM, Published Date",
+      "status_text": "Published",
+      "title": "Emotions, Cognition, and the Limits of the “Facts vs. Feelings” Frame",
+      "url": "https://epistemicforge.blogspot.com/2025/11/emotions-cognition-and-limits-of-facts.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3565164595737249898",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "emotion regulation",
+        "psychology"
+      ],
+      "post_id": "5413912427900491187",
+      "published_tooltip": "Nov 19, 2025, 9:20 PM, Published Date",
+      "status_text": "Published",
+      "title": "Mr. Rogers, Emotional Literacy, and What Still Remains Undone",
+      "url": "https://epistemicforge.blogspot.com/2025/11/mr-rogers-emotional-literacy-and-what.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5413912427900491187",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI prompts"
+      ],
+      "post_id": "6134095611289372602",
+      "published_tooltip": "Nov 19, 2025, 4:55 AM, Published Date",
+      "status_text": "Published",
+      "title": "Deepcity Life Sim Engine Prompt",
+      "url": "https://epistemicforge.blogspot.com/2025/11/deepcity-life-sim-engine-prompt.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6134095611289372602",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI memory",
+        "lossy compression"
+      ],
+      "post_id": "6641030961746390127",
+      "published_tooltip": "Nov 19, 2025, 4:45 AM, Published Date",
+      "status_text": "Published",
+      "title": "Hierarchical Compression: A Practical Method for Long-Term AI Continuity",
+      "url": "https://epistemicforge.blogspot.com/2025/11/hierarchical-compression-practical.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6641030961746390127",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "metacognition",
+        "psychology"
+      ],
+      "post_id": "3323209410984041554",
+      "published_tooltip": "Nov 19, 2025, 4:08 AM, Published Date",
+      "status_text": "Published",
+      "title": "Metacognition and Memory Anchoring",
+      "url": "https://epistemicforge.blogspot.com/2025/11/metacognition-and-memory-anchoring.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3323209410984041554",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI prompts"
+      ],
+      "post_id": "7616771104842877972",
+      "published_tooltip": "Nov 18, 2025, 3:29 AM, Published Date",
+      "status_text": "Published",
+      "title": "“GameHub” System Prompt",
+      "url": "https://epistemicforge.blogspot.com/2025/11/gamehub-system-prompt.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7616771104842877972",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI prompts"
+      ],
+      "post_id": "5664622966769951447",
+      "published_tooltip": "Nov 12, 2025, 12:32 PM, Published Date",
+      "status_text": "Published",
+      "title": "Story Engine Prompt v4 (Final)",
+      "url": "https://epistemicforge.blogspot.com/2025/11/story-engine-prompt-v4-final.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5664622966769951447",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI prompts"
+      ],
+      "post_id": "8134907661321222096",
+      "published_tooltip": "Nov 11, 2025, 11:33 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Story Engine Prompt v3.0",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-story-engine-advanced.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8134907661321222096",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI",
+        "AI prompts"
+      ],
+      "post_id": "810748017506005917",
+      "published_tooltip": "Nov 11, 2025, 10:50 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Story Engine Prompt: Toward Fully Interactive, Coherent AI Fiction",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-story-engine-prompt-toward-fully.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-810748017506005917",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "Meta-Temporal Prompts",
+        "alignment blueprint",
+        "archive logs",
+        "belief drift flags",
+        "consistency checks",
+        "epistemic amplification",
+        "future AI",
+        "opt-in privacy",
+        "recover ideas",
+        "recursive refinement",
+        "time-capsule prompts"
+      ],
+      "post_id": "4239512239417480023",
+      "published_tooltip": "Nov 8, 2025, 10:17 PM, Published Date",
+      "status_text": "Published",
+      "title": "Meta-Temporal Prompt",
+      "url": "https://epistemicforge.blogspot.com/2025/11/meta-temporal-prompt.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI safety",
+        "CT benchmark",
+        "CTI",
+        "GH repo",
+        "HF Space",
+        "HF dataset",
+        "JSON/CSV",
+        "LLM eval",
+        "Zenodo DOI",
+        "alignment",
+        "energy-CTI",
+        "latency",
+        "leaderboard",
+        "prereg",
+        "tokens"
+      ],
+      "post_id": "5951517653562810346",
+      "published_tooltip": "Nov 5, 2025, 6:43 PM, Published Date",
+      "status_text": "Published",
+      "title": "Appendix: Consistency Tax Index (CTI) Benchmark and Reproducibility Protocol",
+      "url": "https://epistemicforge.blogspot.com/2025/11/appendix-consistency-tax-index-cti.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI alignment",
+        "AI deception",
+        "AI safety",
+        "Consistency Tax",
+        "ITRGR",
+        "Landauer's principle",
+        "MDL",
+        "entropy",
+        "epistemic alignment",
+        "goal compression",
+        "mech interpretability",
+        "thermodynamic alignment",
+        "thermodynamics"
+      ],
+      "post_id": "1984869785307150054",
+      "published_tooltip": "Nov 5, 2025, 5:30 PM, Published Date",
+      "status_text": "Published",
+      "title": "Epistemic Alignment under Physical Constraints: A Unified \nInformation-Thermodynamic Theory of Truthfulness, Deception, and Goal \nRepresentations in AI",
+      "url": "https://epistemicforge.blogspot.com/2025/11/epistemic-alignment-under-physical.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+      "status": "LIVE"
+    },
+    {
+      "labels": [
+        "AI deception",
+        "AI safety",
+        "Consistency Tax",
+        "LLM deception",
+        "Landauer's principle",
+        "NLL",
+        "activation divergence",
+        "alignment",
+        "cognitive load",
+        "deception overhead",
+        "energy usage",
+        "latency",
+        "thermodynamic cost",
+        "tokens"
+      ],
+      "post_id": "3743807947149678190",
+      "published_tooltip": "Nov 5, 2025, 3:36 PM, Published Date",
+      "status_text": "Published",
+      "title": "The Consistency Tax: A Measurable Deception Overhead Metric",
+      "url": "https://epistemicforge.blogspot.com/2025/11/the-consistency-tax-measurable.html",
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+      "status": "LIVE"
+    }
+  ]
+}

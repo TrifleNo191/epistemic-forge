@@ -1,0 +1,1742 @@
+{
+  "distinct_labels": 434,
+  "assignments": 893,
+  "labels": [
+    {
+      "label": "2028 election",
+      "posts": 1
+    },
+    {
+      "label": "absurdism",
+      "posts": 1
+    },
+    {
+      "label": "activation divergence",
+      "posts": 1
+    },
+    {
+      "label": "adaptability",
+      "posts": 1
+    },
+    {
+      "label": "adaptive persistence",
+      "posts": 1
+    },
+    {
+      "label": "Adolf Hitler",
+      "posts": 1
+    },
+    {
+      "label": "aesthetics",
+      "posts": 4
+    },
+    {
+      "label": "agency",
+      "posts": 6
+    },
+    {
+      "label": "agent-relative semantics",
+      "posts": 1
+    },
+    {
+      "label": "agent-relativity",
+      "posts": 3
+    },
+    {
+      "label": "agentic curation",
+      "posts": 1
+    },
+    {
+      "label": "agentic retrieval",
+      "posts": 1
+    },
+    {
+      "label": "aggregation",
+      "posts": 1
+    },
+    {
+      "label": "AI",
+      "posts": 24
+    },
+    {
+      "label": "AI alignment",
+      "posts": 3
+    },
+    {
+      "label": "AI assistants",
+      "posts": 1
+    },
+    {
+      "label": "AI collaboration",
+      "posts": 1
+    },
+    {
+      "label": "AI consciousness",
+      "posts": 1
+    },
+    {
+      "label": "AI deception",
+      "posts": 2
+    },
+    {
+      "label": "AI ethics",
+      "posts": 1
+    },
+    {
+      "label": "AI memory",
+      "posts": 1
+    },
+    {
+      "label": "AI prompts",
+      "posts": 5
+    },
+    {
+      "label": "AI research",
+      "posts": 1
+    },
+    {
+      "label": "AI safety",
+      "posts": 3
+    },
+    {
+      "label": "AI slop",
+      "posts": 1
+    },
+    {
+      "label": "AIPAC",
+      "posts": 1
+    },
+    {
+      "label": "alignment",
+      "posts": 3
+    },
+    {
+      "label": "alignment blueprint",
+      "posts": 1
+    },
+    {
+      "label": "anime",
+      "posts": 1
+    },
+    {
+      "label": "Anthropic",
+      "posts": 1
+    },
+    {
+      "label": "apex synthesis",
+      "posts": 1
+    },
+    {
+      "label": "applied fidelity",
+      "posts": 1
+    },
+    {
+      "label": "Architecture for Living Aligned with Reality",
+      "posts": 1
+    },
+    {
+      "label": "archive logs",
+      "posts": 1
+    },
+    {
+      "label": "argumentation strategy",
+      "posts": 1
+    },
+    {
+      "label": "arms embargo",
+      "posts": 1
+    },
+    {
+      "label": "Art as Compression of Reality",
+      "posts": 1
+    },
+    {
+      "label": "atheism",
+      "posts": 2
+    },
+    {
+      "label": "attention economy",
+      "posts": 2
+    },
+    {
+      "label": "attraction",
+      "posts": 1
+    },
+    {
+      "label": "authoritarianism",
+      "posts": 1
+    },
+    {
+      "label": "authority",
+      "posts": 1
+    },
+    {
+      "label": "authorship",
+      "posts": 2
+    },
+    {
+      "label": "automation economics",
+      "posts": 1
+    },
+    {
+      "label": "BCI",
+      "posts": 1
+    },
+    {
+      "label": "belief drift flags",
+      "posts": 1
+    },
+    {
+      "label": "Benjamin Netanyahu",
+      "posts": 1
+    },
+    {
+      "label": "Berserk",
+      "posts": 1
+    },
+    {
+      "label": "Bible",
+      "posts": 1
+    },
+    {
+      "label": "biological normativity",
+      "posts": 2
+    },
+    {
+      "label": "black holes",
+      "posts": 1
+    },
+    {
+      "label": "bounded rationality",
+      "posts": 1
+    },
+    {
+      "label": "brain-computer interfaces",
+      "posts": 1
+    },
+    {
+      "label": "brain-to-brain interfaces",
+      "posts": 1
+    },
+    {
+      "label": "calibration",
+      "posts": 2
+    },
+    {
+      "label": "campaign finance",
+      "posts": 1
+    },
+    {
+      "label": "casualty analysis",
+      "posts": 1
+    },
+    {
+      "label": "causal closure",
+      "posts": 1
+    },
+    {
+      "label": "causal emergence",
+      "posts": 1
+    },
+    {
+      "label": "causal inference",
+      "posts": 1
+    },
+    {
+      "label": "causality",
+      "posts": 1
+    },
+    {
+      "label": "causation",
+      "posts": 1
+    },
+    {
+      "label": "cinema",
+      "posts": 1
+    },
+    {
+      "label": "classical theism",
+      "posts": 1
+    },
+    {
+      "label": "cognition",
+      "posts": 5
+    },
+    {
+      "label": "cognitive architecture",
+      "posts": 1
+    },
+    {
+      "label": "cognitive friction",
+      "posts": 1
+    },
+    {
+      "label": "cognitive load",
+      "posts": 1
+    },
+    {
+      "label": "cognitive rigidity",
+      "posts": 1
+    },
+    {
+      "label": "cognitive science",
+      "posts": 2
+    },
+    {
+      "label": "cognitive thermodynamics",
+      "posts": 1
+    },
+    {
+      "label": "coherence",
+      "posts": 1
+    },
+    {
+      "label": "Coherence Is Ethics",
+      "posts": 1
+    },
+    {
+      "label": "collective responsibility",
+      "posts": 1
+    },
+    {
+      "label": "Communities of Taste",
+      "posts": 1
+    },
+    {
+      "label": "compatibilism",
+      "posts": 1
+    },
+    {
+      "label": "complex systems",
+      "posts": 1
+    },
+    {
+      "label": "complicity",
+      "posts": 1
+    },
+    {
+      "label": "conceptual analysis",
+      "posts": 1
+    },
+    {
+      "label": "conceptual role semantics",
+      "posts": 1
+    },
+    {
+      "label": "confabulation",
+      "posts": 1
+    },
+    {
+      "label": "Consciousness",
+      "posts": 10
+    },
+    {
+      "label": "consistency checks",
+      "posts": 1
+    },
+    {
+      "label": "Consistency Tax",
+      "posts": 2
+    },
+    {
+      "label": "constitutivism",
+      "posts": 1
+    },
+    {
+      "label": "control theory",
+      "posts": 2
+    },
+    {
+      "label": "copyright",
+      "posts": 3
+    },
+    {
+      "label": "correction atrophy",
+      "posts": 1
+    },
+    {
+      "label": "correction cost",
+      "posts": 1
+    },
+    {
+      "label": "corrigibility",
+      "posts": 3
+    },
+    {
+      "label": "cosmic significance",
+      "posts": 1
+    },
+    {
+      "label": "cosmology",
+      "posts": 4
+    },
+    {
+      "label": "cost floor",
+      "posts": 1
+    },
+    {
+      "label": "coupled cognition",
+      "posts": 1
+    },
+    {
+      "label": "coupling",
+      "posts": 3
+    },
+    {
+      "label": "coupling density",
+      "posts": 1
+    },
+    {
+      "label": "critical thinking",
+      "posts": 1
+    },
+    {
+      "label": "CT benchmark",
+      "posts": 1
+    },
+    {
+      "label": "CTI",
+      "posts": 1
+    },
+    {
+      "label": "curiosity",
+      "posts": 1
+    },
+    {
+      "label": "current events",
+      "posts": 1
+    },
+    {
+      "label": "cybernetics",
+      "posts": 1
+    },
+    {
+      "label": "cybersecurity",
+      "posts": 1
+    },
+    {
+      "label": "dark energy",
+      "posts": 2
+    },
+    {
+      "label": "data visualization",
+      "posts": 1
+    },
+    {
+      "label": "debate methodology",
+      "posts": 1
+    },
+    {
+      "label": "deception overhead",
+      "posts": 1
+    },
+    {
+      "label": "decision theory",
+      "posts": 1
+    },
+    {
+      "label": "decorrelation",
+      "posts": 1
+    },
+    {
+      "label": "deductive structure",
+      "posts": 1
+    },
+    {
+      "label": "deepfakes",
+      "posts": 1
+    },
+    {
+      "label": "deflationism",
+      "posts": 1
+    },
+    {
+      "label": "democracy",
+      "posts": 2
+    },
+    {
+      "label": "dependencies",
+      "posts": 1
+    },
+    {
+      "label": "design",
+      "posts": 2
+    },
+    {
+      "label": "design system",
+      "posts": 2
+    },
+    {
+      "label": "desktop layout",
+      "posts": 1
+    },
+    {
+      "label": "determinism",
+      "posts": 3
+    },
+    {
+      "label": "diagram",
+      "posts": 1
+    },
+    {
+      "label": "digital communication",
+      "posts": 1
+    },
+    {
+      "label": "digital minimalism",
+      "posts": 1
+    },
+    {
+      "label": "directed automation",
+      "posts": 1
+    },
+    {
+      "label": "discourse analysis",
+      "posts": 1
+    },
+    {
+      "label": "discovery",
+      "posts": 1
+    },
+    {
+      "label": "dissipative structures",
+      "posts": 2
+    },
+    {
+      "label": "dissolution",
+      "posts": 1
+    },
+    {
+      "label": "Distortion.",
+      "posts": 1
+    },
+    {
+      "label": "distribution",
+      "posts": 1
+    },
+    {
+      "label": "divine command",
+      "posts": 1
+    },
+    {
+      "label": "divine hiddenness",
+      "posts": 1
+    },
+    {
+      "label": "domain-bound semantics",
+      "posts": 1
+    },
+    {
+      "label": "Donald Trump",
+      "posts": 1
+    },
+    {
+      "label": "doubt",
+      "posts": 1
+    },
+    {
+      "label": "downloads management",
+      "posts": 1
+    },
+    {
+      "label": "dyson swarm",
+      "posts": 1
+    },
+    {
+      "label": "embedded agency",
+      "posts": 1
+    },
+    {
+      "label": "emotion regulation",
+      "posts": 3
+    },
+    {
+      "label": "emotional self-regulation",
+      "posts": 1
+    },
+    {
+      "label": "energy usage",
+      "posts": 1
+    },
+    {
+      "label": "energy-CTI",
+      "posts": 1
+    },
+    {
+      "label": "entropy",
+      "posts": 6
+    },
+    {
+      "label": "entropy cost of deception",
+      "posts": 1
+    },
+    {
+      "label": "epistemic alignment",
+      "posts": 1
+    },
+    {
+      "label": "epistemic amplification",
+      "posts": 1
+    },
+    {
+      "label": "epistemic emotions",
+      "posts": 1
+    },
+    {
+      "label": "Epistemic Forge",
+      "posts": 36
+    },
+    {
+      "label": "epistemic hygiene",
+      "posts": 1
+    },
+    {
+      "label": "epistemic maintenance",
+      "posts": 1
+    },
+    {
+      "label": "epistemic responsibility",
+      "posts": 1
+    },
+    {
+      "label": "Epistemic Selection",
+      "posts": 1
+    },
+    {
+      "label": "epistemic status",
+      "posts": 1
+    },
+    {
+      "label": "epistemic thermodynamics",
+      "posts": 6
+    },
+    {
+      "label": "epistemics",
+      "posts": 1
+    },
+    {
+      "label": "epistemology",
+      "posts": 25
+    },
+    {
+      "label": "epistocracy",
+      "posts": 1
+    },
+    {
+      "label": "error detection",
+      "posts": 1
+    },
+    {
+      "label": "essay",
+      "posts": 1
+    },
+    {
+      "label": "ethics",
+      "posts": 14
+    },
+    {
+      "label": "ethics as physics",
+      "posts": 1
+    },
+    {
+      "label": "EuroSpike",
+      "posts": 1
+    },
+    {
+      "label": "evolution",
+      "posts": 1
+    },
+    {
+      "label": "evolutionary biology",
+      "posts": 1
+    },
+    {
+      "label": "existence literacy",
+      "posts": 1
+    },
+    {
+      "label": "existentialism",
+      "posts": 2
+    },
+    {
+      "label": "experiential depth",
+      "posts": 1
+    },
+    {
+      "label": "expertise",
+      "posts": 1
+    },
+    {
+      "label": "externalities",
+      "posts": 1
+    },
+    {
+      "label": "fact-value distinction",
+      "posts": 1
+    },
+    {
+      "label": "fancyzones",
+      "posts": 1
+    },
+    {
+      "label": "fatalism",
+      "posts": 1
+    },
+    {
+      "label": "feedback",
+      "posts": 1
+    },
+    {
+      "label": "Fermi paradox",
+      "posts": 1
+    },
+    {
+      "label": "fidelity",
+      "posts": 2
+    },
+    {
+      "label": "Fidelity Program",
+      "posts": 4
+    },
+    {
+      "label": "file organization",
+      "posts": 1
+    },
+    {
+      "label": "finite agency",
+      "posts": 1
+    },
+    {
+      "label": "finitude",
+      "posts": 1
+    },
+    {
+      "label": "Foot",
+      "posts": 1
+    },
+    {
+      "label": "foreign policy",
+      "posts": 1
+    },
+    {
+      "label": "formal methods",
+      "posts": 2
+    },
+    {
+      "label": "free energy principle",
+      "posts": 4
+    },
+    {
+      "label": "free will",
+      "posts": 4
+    },
+    {
+      "label": "free will skepticism",
+      "posts": 1
+    },
+    {
+      "label": "future",
+      "posts": 1
+    },
+    {
+      "label": "future AI",
+      "posts": 2
+    },
+    {
+      "label": "future of communication",
+      "posts": 1
+    },
+    {
+      "label": "future of media",
+      "posts": 2
+    },
+    {
+      "label": "Gaza",
+      "posts": 4
+    },
+    {
+      "label": "gender",
+      "posts": 1
+    },
+    {
+      "label": "gender identity",
+      "posts": 1
+    },
+    {
+      "label": "generative AI",
+      "posts": 1
+    },
+    {
+      "label": "generative video",
+      "posts": 1
+    },
+    {
+      "label": "genocide",
+      "posts": 3
+    },
+    {
+      "label": "GH repo",
+      "posts": 1
+    },
+    {
+      "label": "glossary",
+      "posts": 1
+    },
+    {
+      "label": "goal compression",
+      "posts": 1
+    },
+    {
+      "label": "governance",
+      "posts": 2
+    },
+    {
+      "label": "Guts",
+      "posts": 1
+    },
+    {
+      "label": "habit formation",
+      "posts": 1
+    },
+    {
+      "label": "harm reduction",
+      "posts": 1
+    },
+    {
+      "label": "heat death",
+      "posts": 1
+    },
+    {
+      "label": "HF dataset",
+      "posts": 1
+    },
+    {
+      "label": "HF Space",
+      "posts": 1
+    },
+    {
+      "label": "Hollywood",
+      "posts": 1
+    },
+    {
+      "label": "holographic principle",
+      "posts": 1
+    },
+    {
+      "label": "homeopathy",
+      "posts": 1
+    },
+    {
+      "label": "human digital twins",
+      "posts": 1
+    },
+    {
+      "label": "human-AI interaction",
+      "posts": 1
+    },
+    {
+      "label": "human-AI symbiosis",
+      "posts": 1
+    },
+    {
+      "label": "human-machine interface",
+      "posts": 1
+    },
+    {
+      "label": "Hume",
+      "posts": 1
+    },
+    {
+      "label": "immersive architecture",
+      "posts": 1
+    },
+    {
+      "label": "industrial explosion",
+      "posts": 1
+    },
+    {
+      "label": "infinite cinema",
+      "posts": 1
+    },
+    {
+      "label": "information",
+      "posts": 1
+    },
+    {
+      "label": "information theory",
+      "posts": 12
+    },
+    {
+      "label": "inquiry",
+      "posts": 1
+    },
+    {
+      "label": "institutional design",
+      "posts": 1
+    },
+    {
+      "label": "instrumental convergence",
+      "posts": 1
+    },
+    {
+      "label": "intellectual integrity",
+      "posts": 1
+    },
+    {
+      "label": "intelligence",
+      "posts": 5
+    },
+    {
+      "label": "intelligence explosion",
+      "posts": 1
+    },
+    {
+      "label": "interaction design",
+      "posts": 1
+    },
+    {
+      "label": "intersex",
+      "posts": 1
+    },
+    {
+      "label": "is-ought firewall",
+      "posts": 3
+    },
+    {
+      "label": "is-ought problem",
+      "posts": 18
+    },
+    {
+      "label": "is-ought reduction",
+      "posts": 1
+    },
+    {
+      "label": "isekai",
+      "posts": 1
+    },
+    {
+      "label": "Israel",
+      "posts": 3
+    },
+    {
+      "label": "ITRGR",
+      "posts": 1
+    },
+    {
+      "label": "Janez Janša",
+      "posts": 1
+    },
+    {
+      "label": "JSON/CSV",
+      "posts": 1
+    },
+    {
+      "label": "Karl Jaspers",
+      "posts": 1
+    },
+    {
+      "label": "kindness",
+      "posts": 3
+    },
+    {
+      "label": "knowledge",
+      "posts": 1
+    },
+    {
+      "label": "labor",
+      "posts": 1
+    },
+    {
+      "label": "Landauer's principle",
+      "posts": 4
+    },
+    {
+      "label": "latency",
+      "posts": 2
+    },
+    {
+      "label": "law",
+      "posts": 1
+    },
+    {
+      "label": "leaderboard",
+      "posts": 1
+    },
+    {
+      "label": "learning",
+      "posts": 1
+    },
+    {
+      "label": "levels",
+      "posts": 1
+    },
+    {
+      "label": "Lies Cost Energy",
+      "posts": 1
+    },
+    {
+      "label": "lifelogging",
+      "posts": 1
+    },
+    {
+      "label": "LLM deception",
+      "posts": 1
+    },
+    {
+      "label": "LLM eval",
+      "posts": 1
+    },
+    {
+      "label": "logic",
+      "posts": 1
+    },
+    {
+      "label": "long-form",
+      "posts": 1
+    },
+    {
+      "label": "lossy compression",
+      "posts": 2
+    },
+    {
+      "label": "machine learning",
+      "posts": 1
+    },
+    {
+      "label": "manifesto",
+      "posts": 1
+    },
+    {
+      "label": "MANUAL FOR THE END OF THE UNIVERSE",
+      "posts": 1
+    },
+    {
+      "label": "map-territory",
+      "posts": 1
+    },
+    {
+      "label": "Markov blanket",
+      "posts": 1
+    },
+    {
+      "label": "MDL",
+      "posts": 1
+    },
+    {
+      "label": "meaning",
+      "posts": 1
+    },
+    {
+      "label": "meaning of life",
+      "posts": 2
+    },
+    {
+      "label": "mech interpretability",
+      "posts": 1
+    },
+    {
+      "label": "media literacy",
+      "posts": 1
+    },
+    {
+      "label": "media ownership",
+      "posts": 1
+    },
+    {
+      "label": "media theory",
+      "posts": 2
+    },
+    {
+      "label": "mental causation",
+      "posts": 1
+    },
+    {
+      "label": "meta",
+      "posts": 1
+    },
+    {
+      "label": "Meta-Temporal Prompts",
+      "posts": 1
+    },
+    {
+      "label": "metacognition",
+      "posts": 7
+    },
+    {
+      "label": "metaethics",
+      "posts": 31
+    },
+    {
+      "label": "metaphysics",
+      "posts": 8
+    },
+    {
+      "label": "method",
+      "posts": 3
+    },
+    {
+      "label": "method note",
+      "posts": 1
+    },
+    {
+      "label": "methodology",
+      "posts": 10
+    },
+    {
+      "label": "moral disengagement",
+      "posts": 1
+    },
+    {
+      "label": "moral responsibility",
+      "posts": 2
+    },
+    {
+      "label": "moral uncertainty",
+      "posts": 1
+    },
+    {
+      "label": "morphology",
+      "posts": 1
+    },
+    {
+      "label": "mortality",
+      "posts": 2
+    },
+    {
+      "label": "motivated reasoning",
+      "posts": 1
+    },
+    {
+      "label": "multilevel causation",
+      "posts": 1
+    },
+    {
+      "label": "Name the Relata",
+      "posts": 1
+    },
+    {
+      "label": "naturalism",
+      "posts": 3
+    },
+    {
+      "label": "naturalized metaphysics",
+      "posts": 1
+    },
+    {
+      "label": "neurodiversity",
+      "posts": 1
+    },
+    {
+      "label": "neuroplasticity",
+      "posts": 1
+    },
+    {
+      "label": "neuroscience",
+      "posts": 1
+    },
+    {
+      "label": "neurotechnology",
+      "posts": 2
+    },
+    {
+      "label": "nihilism",
+      "posts": 3
+    },
+    {
+      "label": "NLL",
+      "posts": 1
+    },
+    {
+      "label": "non-reductive physicalism",
+      "posts": 1
+    },
+    {
+      "label": "normativity",
+      "posts": 4
+    },
+    {
+      "label": "nothingness",
+      "posts": 1
+    },
+    {
+      "label": "objectivity",
+      "posts": 1
+    },
+    {
+      "label": "oligarchy",
+      "posts": 1
+    },
+    {
+      "label": "ontology",
+      "posts": 2
+    },
+    {
+      "label": "open-mindedness",
+      "posts": 1
+    },
+    {
+      "label": "opt-in privacy",
+      "posts": 1
+    },
+    {
+      "label": "optimization",
+      "posts": 1
+    },
+    {
+      "label": "parallel workflows",
+      "posts": 1
+    },
+    {
+      "label": "Parfit",
+      "posts": 2
+    },
+    {
+      "label": "persistence",
+      "posts": 14
+    },
+    {
+      "label": "personal",
+      "posts": 1
+    },
+    {
+      "label": "personal AI agents",
+      "posts": 1
+    },
+    {
+      "label": "personal essay",
+      "posts": 1
+    },
+    {
+      "label": "personal identity",
+      "posts": 9
+    },
+    {
+      "label": "philosophical anarchism",
+      "posts": 1
+    },
+    {
+      "label": "philosophy",
+      "posts": 31
+    },
+    {
+      "label": "philosophy of classification",
+      "posts": 2
+    },
+    {
+      "label": "philosophy of language",
+      "posts": 1
+    },
+    {
+      "label": "philosophy of mathematics",
+      "posts": 2
+    },
+    {
+      "label": "philosophy of mind",
+      "posts": 2
+    },
+    {
+      "label": "philosophy of physics",
+      "posts": 4
+    },
+    {
+      "label": "philosophy of play",
+      "posts": 1
+    },
+    {
+      "label": "philosophy of religion",
+      "posts": 2
+    },
+    {
+      "label": "philosophy of science",
+      "posts": 9
+    },
+    {
+      "label": "physical basis of truth",
+      "posts": 1
+    },
+    {
+      "label": "physicalism",
+      "posts": 16
+    },
+    {
+      "label": "physics",
+      "posts": 3
+    },
+    {
+      "label": "placebo",
+      "posts": 1
+    },
+    {
+      "label": "political economy",
+      "posts": 1
+    },
+    {
+      "label": "political economy of AI",
+      "posts": 1
+    },
+    {
+      "label": "political philosophy",
+      "posts": 1
+    },
+    {
+      "label": "post-scarcity",
+      "posts": 2
+    },
+    {
+      "label": "practical philosophy",
+      "posts": 2
+    },
+    {
+      "label": "prereg",
+      "posts": 1
+    },
+    {
+      "label": "prior art",
+      "posts": 5
+    },
+    {
+      "label": "proactive agents",
+      "posts": 1
+    },
+    {
+      "label": "problem of evil",
+      "posts": 1
+    },
+    {
+      "label": "processing fluency",
+      "posts": 1
+    },
+    {
+      "label": "procurement",
+      "posts": 1
+    },
+    {
+      "label": "pseudoscience",
+      "posts": 1
+    },
+    {
+      "label": "psychology",
+      "posts": 5
+    },
+    {
+      "label": "public reasoning",
+      "posts": 1
+    },
+    {
+      "label": "quantum gravity",
+      "posts": 1
+    },
+    {
+      "label": "RCAP",
+      "posts": 1
+    },
+    {
+      "label": "reality alignment",
+      "posts": 1
+    },
+    {
+      "label": "reality mapping",
+      "posts": 2
+    },
+    {
+      "label": "reality-alignment optimization",
+      "posts": 1
+    },
+    {
+      "label": "reality-avoidance",
+      "posts": 1
+    },
+    {
+      "label": "recover ideas",
+      "posts": 1
+    },
+    {
+      "label": "recursive refinement",
+      "posts": 1
+    },
+    {
+      "label": "reduction",
+      "posts": 1
+    },
+    {
+      "label": "reductionism",
+      "posts": 1
+    },
+    {
+      "label": "reference",
+      "posts": 2
+    },
+    {
+      "label": "reference resolution",
+      "posts": 1
+    },
+    {
+      "label": "Relata-Indexed Objectivity",
+      "posts": 1
+    },
+    {
+      "label": "representation",
+      "posts": 2
+    },
+    {
+      "label": "research proposal",
+      "posts": 1
+    },
+    {
+      "label": "respect for AI",
+      "posts": 1
+    },
+    {
+      "label": "retrieval economy",
+      "posts": 1
+    },
+    {
+      "label": "risk",
+      "posts": 2
+    },
+    {
+      "label": "robustness",
+      "posts": 1
+    },
+    {
+      "label": "scientific literacy",
+      "posts": 1
+    },
+    {
+      "label": "second-brain workflows",
+      "posts": 1
+    },
+    {
+      "label": "selection",
+      "posts": 1
+    },
+    {
+      "label": "self-correction",
+      "posts": 3
+    },
+    {
+      "label": "self-correction mechanism",
+      "posts": 1
+    },
+    {
+      "label": "self-defeat",
+      "posts": 1
+    },
+    {
+      "label": "self-modeling",
+      "posts": 1
+    },
+    {
+      "label": "self-reference",
+      "posts": 1
+    },
+    {
+      "label": "self-regulation",
+      "posts": 1
+    },
+    {
+      "label": "selfhood",
+      "posts": 1
+    },
+    {
+      "label": "Semantic",
+      "posts": 1
+    },
+    {
+      "label": "semantic indexing",
+      "posts": 1
+    },
+    {
+      "label": "Semantic Terrorism",
+      "posts": 1
+    },
+    {
+      "label": "Semantic Terrorist",
+      "posts": 1
+    },
+    {
+      "label": "semantics",
+      "posts": 2
+    },
+    {
+      "label": "sex",
+      "posts": 1
+    },
+    {
+      "label": "sex and gender",
+      "posts": 3
+    },
+    {
+      "label": "sexual orientation",
+      "posts": 1
+    },
+    {
+      "label": "sexuality",
+      "posts": 2
+    },
+    {
+      "label": "simulated reality",
+      "posts": 2
+    },
+    {
+      "label": "simulation hypothesis",
+      "posts": 1
+    },
+    {
+      "label": "singularity",
+      "posts": 1
+    },
+    {
+      "label": "Slovenia",
+      "posts": 1
+    },
+    {
+      "label": "source audit",
+      "posts": 1
+    },
+    {
+      "label": "space technology",
+      "posts": 2
+    },
+    {
+      "label": "specification",
+      "posts": 2
+    },
+    {
+      "label": "stoicism",
+      "posts": 1
+    },
+    {
+      "label": "substrate writing",
+      "posts": 1
+    },
+    {
+      "label": "suffering",
+      "posts": 1
+    },
+    {
+      "label": "superintelligence",
+      "posts": 1
+    },
+    {
+      "label": "supernaturalism",
+      "posts": 2
+    },
+    {
+      "label": "system identification",
+      "posts": 1
+    },
+    {
+      "label": "system tuning",
+      "posts": 1
+    },
+    {
+      "label": "systemic critique",
+      "posts": 1
+    },
+    {
+      "label": "systems theory",
+      "posts": 1
+    },
+    {
+      "label": "takeoff speeds",
+      "posts": 1
+    },
+    {
+      "label": "tautology",
+      "posts": 1
+    },
+    {
+      "label": "taxonomy",
+      "posts": 1
+    },
+    {
+      "label": "technocracy",
+      "posts": 1
+    },
+    {
+      "label": "technology",
+      "posts": 1
+    },
+    {
+      "label": "temporal nihilism",
+      "posts": 1
+    },
+    {
+      "label": "terminology",
+      "posts": 2
+    },
+    {
+      "label": "Terrorism",
+      "posts": 1
+    },
+    {
+      "label": "The Exclusivity Error",
+      "posts": 1
+    },
+    {
+      "label": "The Ghost Filter",
+      "posts": 1
+    },
+    {
+      "label": "The Thermodynamic Cost of Misalignment",
+      "posts": 1
+    },
+    {
+      "label": "theoretical physics",
+      "posts": 1
+    },
+    {
+      "label": "thermodynamic alignment",
+      "posts": 1
+    },
+    {
+      "label": "thermodynamic cost",
+      "posts": 1
+    },
+    {
+      "label": "thermodynamic epistemology",
+      "posts": 1
+    },
+    {
+      "label": "Thermodynamic Monism",
+      "posts": 1
+    },
+    {
+      "label": "Thermodynamic Realism",
+      "posts": 31
+    },
+    {
+      "label": "thermodynamics",
+      "posts": 19
+    },
+    {
+      "label": "thermodynamics of prediction",
+      "posts": 2
+    },
+    {
+      "label": "thought experiment",
+      "posts": 1
+    },
+    {
+      "label": "time-capsule prompts",
+      "posts": 1
+    },
+    {
+      "label": "tokens",
+      "posts": 2
+    },
+    {
+      "label": "tone and dialogue",
+      "posts": 1
+    },
+    {
+      "label": "trans identity",
+      "posts": 1
+    },
+    {
+      "label": "truth",
+      "posts": 1
+    },
+    {
+      "label": "truth-seeking",
+      "posts": 1
+    },
+    {
+      "label": "truth-tracking",
+      "posts": 1
+    },
+    {
+      "label": "Ukraine",
+      "posts": 1
+    },
+    {
+      "label": "uncertainty",
+      "posts": 3
+    },
+    {
+      "label": "Unintentional Semantic Distortion",
+      "posts": 1
+    },
+    {
+      "label": "United States",
+      "posts": 1
+    },
+    {
+      "label": "universal basic services",
+      "posts": 1
+    },
+    {
+      "label": "universal scaling laws",
+      "posts": 1
+    },
+    {
+      "label": "utilitarian evaluation",
+      "posts": 1
+    },
+    {
+      "label": "utilitarian leximin",
+      "posts": 1
+    },
+    {
+      "label": "utilitarian mindset",
+      "posts": 1
+    },
+    {
+      "label": "value",
+      "posts": 2
+    },
+    {
+      "label": "value theory",
+      "posts": 1
+    },
+    {
+      "label": "verification",
+      "posts": 1
+    },
+    {
+      "label": "viability",
+      "posts": 2
+    },
+    {
+      "label": "wellbeing",
+      "posts": 1
+    },
+    {
+      "label": "wellbeing ethics",
+      "posts": 1
+    },
+    {
+      "label": "window management",
+      "posts": 1
+    },
+    {
+      "label": "wonder",
+      "posts": 1
+    },
+    {
+      "label": "workspace optimization",
+      "posts": 1
+    },
+    {
+      "label": "world-models",
+      "posts": 1
+    },
+    {
+      "label": "worlds",
+      "posts": 1
+    },
+    {
+      "label": "writing",
+      "posts": 2
+    },
+    {
+      "label": "Zenodo DOI",
+      "posts": 1
+    },
+    {
+      "label": "zero",
+      "posts": 1
+    }
+  ]
+}

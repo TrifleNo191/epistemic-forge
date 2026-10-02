@@ -1,0 +1,481 @@
+{
+  "issues": [
+    {
+      "id": "I01",
+      "priority": "high",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471"
+      ],
+      "issue": "Two same-title pages contain different explicit versions: 2 and 4. The June page has no link to the July edition in the snapshot.",
+      "recommendation": "Retain both URLs and add the dated earlier-edition notice; store work ID and edition ID separately."
+    },
+    {
+      "id": "I02",
+      "priority": "high",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713"
+      ],
+      "issue": "The later apex explicitly supersedes the earlier one, whose opening still calls itself current as of June 12.",
+      "recommendation": "Add an archive notice. Keep Thermodynamic Realism as a historical label; do not replace it globally with Epistemic Forge."
+    },
+    {
+      "id": "I03",
+      "priority": "high",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731"
+      ],
+      "issue": "The self-audit says a correction notice still needs to be added at The Undivided Mind. No reference to The Two Ways to Be Wrong appears in that older post.",
+      "recommendation": "Add a partial-correction notice, preserving the distinction between withdrawn and retained claims."
+    },
+    {
+      "id": "I04",
+      "priority": "high",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ],
+      "issue": "The label says Unconscious Semantic Distortion; the article explicitly chooses Unintentional instead.",
+      "recommendation": "Use the article's term in the label, recording the old spelling as an alias."
+    },
+    {
+      "id": "I05",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9051147106067862955"
+      ],
+      "issue": "The unnumbered deductive presentation says Draft, June 2026; both export publication and update dates are in May 2026. This is not explained by the timezone.",
+      "recommendation": "Record the discrepancy and ask the author which field is wrong during the metadata edit. Do not invent a corrected date."
+    },
+    {
+      "id": "I06",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4780915581593276582",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425"
+      ],
+      "issue": "The May 7 work says Draft v5; the differently titled May 29 consolidation says Revision 5.",
+      "recommendation": "Maintain separate work/series identities; numbers alone cannot establish a single revision chain."
+    },
+    {
+      "id": "I07",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ],
+      "issue": "Reality Alignment is Version 2; Reality Alignment as a Persistence Strategy is Version 3 of a different work.",
+      "recommendation": "Keep their titles, scopes and version histories separate."
+    },
+    {
+      "id": "I08",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ],
+      "issue": "What the Audit Leaves Open cites What You Actually Are as Version 2 although a Version 4 page also exists.",
+      "recommendation": "Determine whether the citation intentionally depends on Version 2 before updating it. Preserve historical version-specific citations."
+    },
+    {
+      "id": "I09",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ],
+      "issue": "The article explicitly states Public domain / CC0, while the repository README states CC BY 4.0.",
+      "recommendation": "Keep article-specific license text visible and audit license metadata separately. This review makes no legal determination and changes no licenses."
+    },
+    {
+      "id": "I10",
+      "priority": "low",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262"
+      ],
+      "issue": "The two older firewall pieces already have explicit consolidation notices.",
+      "recommendation": "Preserve them as an example for the missing notices; do not add duplicate banners."
+    },
+    {
+      "id": "I11",
+      "priority": "medium",
+      "posts": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-810748017506005917",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8134907661321222096",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5664622966769951447",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7616771104842877972",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3323209410984041554",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6641030961746390127",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6134095611289372602",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5413912427900491187",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3565164595737249898",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7858732256892809087",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7014526883614118246",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4046721204893898119",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7359616966708245767",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7735864680428236055",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1337697316344307245",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6234161756245651380",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1035192491730174071",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6484780204734705149",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4758223873913013069",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2683410676421517449",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5851789107002342178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5852335117272094772",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2541402211196355476",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3518690488756523914",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8277054640295418494",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1555368451701621325",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3215638528273779559",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6689774584094247509",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6284417389107385579",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5044259792075853041",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4231856568941214136",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8140547870222690098",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5417940771152542827",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5652161138502200746",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6945576194012580342",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4780915581593276582",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-112990991507530445"
+      ],
+      "issue": "37 published posts have no labels. The empty draft is a separate record.",
+      "recommendation": "Review the proposed additions separately from existing-label normalization; do not label or delete the empty draft as part of this pass."
+    }
+  ],
+  "notice_drafts": [
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "ordinal": 97,
+        "title": "Thermodynamic Realism: The Apex Synthesis",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/06/thermodynamic-realism-apex-synthesis.html",
+        "published_utc": "2026-06-12T02:32:41.343Z",
+        "published_local": "2026-06-12T04:32:41.343000+02:00",
+        "updated_utc": "2026-06-12T02:32:41.344Z",
+        "updated_local": "2026-06-12T04:32:41.344000+02:00",
+        "content_sha256": "05756684aa6bf1863cc8a06b402258cc85b39fceb5b5d341d84a3120145a6d15"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+        "ordinal": 111,
+        "title": "Epistemic Forge: The Apex Synthesis",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/06/epistemic-forge-apex-synthesis.html",
+        "published_utc": "2026-06-21T13:30:19.774Z",
+        "published_local": "2026-06-21T15:30:19.774000+02:00",
+        "updated_utc": "2026-06-21T13:30:19.774Z",
+        "updated_local": "2026-06-21T15:30:19.774000+02:00",
+        "content_sha256": "a9b580cb6cc5ce1d46f872640e5cceef215b2ac53cd7b6268be7741d922d6a48"
+      },
+      "status": "recommended",
+      "draft": "Historical apex statement. The author explicitly superseded this June 12, 2026 statement with Epistemic Forge: The Apex Synthesis on June 21, 2026, retiring the earlier project name. The original text remains below.",
+      "evidence_id": "E040",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "ordinal": 105,
+        "title": "What You Actually Are",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/06/what-you-actually-are.html",
+        "published_utc": "2026-06-17T09:42:02.566Z",
+        "published_local": "2026-06-17T11:42:02.566000+02:00",
+        "updated_utc": "2026-07-10T13:41:07.949Z",
+        "updated_local": "2026-07-10T15:41:07.949000+02:00",
+        "content_sha256": "bcb5678621a4eba7bb7f728ef047920332e46400f9fede5577e628d3e2941b3a"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+        "ordinal": 121,
+        "title": "What You Actually Are",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/07/what-you-actually-are.html",
+        "published_utc": "2026-07-10T23:27:24.542Z",
+        "published_local": "2026-07-11T01:27:24.542000+02:00",
+        "updated_utc": "2026-07-10T23:53:14.531Z",
+        "updated_local": "2026-07-11T01:53:14.531000+02:00",
+        "content_sha256": "37b54c176f82fdeaa782de7740e5f311f91173faeaa052d18e4001d16ad5571c"
+      },
+      "status": "recommended",
+      "draft": "Earlier edition. This page preserves Version 2 of What You Actually Are. The July page contains Version 4 and its revision history. Both editions remain available; use the July page when you intend to cite the latest edition present in the October 2, 2026 snapshot.",
+      "evidence_id": "E041",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "ordinal": 76,
+        "title": "The Undivided Mind: Cognitive Architecture Under Thermodynamic Realism",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/the-undivided-mind-cognitive.html",
+        "published_utc": "2026-05-28T17:42:41.884Z",
+        "published_local": "2026-05-28T19:42:41.884000+02:00",
+        "updated_utc": "2026-05-28T18:00:43.464Z",
+        "updated_local": "2026-05-28T20:00:43.464000+02:00",
+        "content_sha256": "5afe7f4352d4bb00851efb7d64b901bf469efaf27cb37ef0eb78e8ffd95cff65"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+        "ordinal": 115,
+        "title": "The Two Ways to Be Wrong",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/06/the-two-ways-to-be-wrong.html",
+        "published_utc": "2026-06-25T15:18:23.458Z",
+        "published_local": "2026-06-25T17:18:23.458000+02:00",
+        "updated_utc": "2026-06-25T15:18:23.458Z",
+        "updated_local": "2026-06-25T17:18:23.458000+02:00",
+        "content_sha256": "d65a2f2077c2dcfaf1e2a61a9b7417b40246d218355584505e13b6c4a909fe99"
+      },
+      "status": "recommended",
+      "draft": "Later correction. Section 5 of The Two Ways to Be Wrong revisits this article, retracting several claims while retaining and narrowing others. Read that correction alongside the historical text preserved below.",
+      "evidence_id": "E056",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "ordinal": 80,
+        "title": "The Inter-Agent Normativity Gap Is a Ghost | On the Closure of Thermodynamic Realism’s Meta-Ethics",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/the-inter-agent-normativity-gap-is.html",
+        "published_utc": "2026-05-29T06:51:37.321Z",
+        "published_local": "2026-05-29T08:51:37.321000+02:00",
+        "updated_utc": "2026-05-29T06:51:37.322Z",
+        "updated_local": "2026-05-29T08:51:37.322000+02:00",
+        "content_sha256": "d200f7708e956cbd529118350cc1e7a5dce88962f235aeec7e7bcf2bc9ff0f48"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "ordinal": 82,
+        "title": "Thermodynamic Realism: What It Proves and What It Bets",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+        "published_utc": "2026-05-29T14:34:55.321Z",
+        "published_local": "2026-05-29T16:34:55.321000+02:00",
+        "updated_utc": "2026-05-29T14:34:55.321Z",
+        "updated_local": "2026-05-29T16:34:55.321000+02:00",
+        "content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa"
+      },
+      "status": "review_target_attribution",
+      "draft": "Later qualification. Thermodynamic Realism: What It Proves and What It Bets explicitly reopens the inter-agent normativity gap and retracts an earlier closure claim. Read that passage alongside this historical article.",
+      "evidence_id": "E057",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049",
+        "ordinal": 34,
+        "title": "Art as Compression of Reality",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality.html",
+        "published_utc": "2026-01-10T12:11:18.828Z",
+        "published_local": "2026-01-10T13:11:18.828000+01:00",
+        "updated_utc": "2026-01-10T12:11:20.275Z",
+        "updated_local": "2026-01-10T13:11:20.275000+01:00",
+        "content_sha256": "4970e0abd939caae5837cb098a9fd1e710ded3519131d9fb0e088f74714a8cbd"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4758223873913013069",
+        "ordinal": 41,
+        "title": "Art as Compression of Reality: Revised After Testing",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/01/art-as-compression-of-reality-revised.html",
+        "published_utc": "2026-01-15T00:05:00Z",
+        "published_local": "2026-01-15T01:05:00+01:00",
+        "updated_utc": "2026-01-15T00:05:06.370Z",
+        "updated_local": "2026-01-15T01:05:06.370000+01:00",
+        "content_sha256": "ccb1e24cece4c335c9f1a8e4a746d46f55bf0752bed58a6e2fcb478cb4528a0b"
+      },
+      "status": "recommended",
+      "draft": "Later revision. Art as Compression of Reality: Revised After Testing explicitly revises and refines this January 10, 2026 proposal. The original text remains below.",
+      "evidence_id": "E042",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "ordinal": 70,
+        "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 3",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive_01126775510.html",
+        "published_utc": "2026-05-25T20:09:37.782Z",
+        "published_local": "2026-05-25T22:09:37.782000+02:00",
+        "updated_utc": "2026-05-25T20:09:37.783Z",
+        "updated_local": "2026-05-25T22:09:37.783000+02:00",
+        "content_sha256": "f3ebc15a56ac0286f565d731bf2c1f30f28e9cbeb8db3535c2a087617e3cf151"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "ordinal": 77,
+        "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+        "published_utc": "2026-05-28T21:44:31.714Z",
+        "published_local": "2026-05-28T23:44:31.714000+02:00",
+        "updated_utc": "2026-05-28T21:44:31.715Z",
+        "updated_local": "2026-05-28T23:44:31.715000+02:00",
+        "content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4) explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E029",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "ordinal": 71,
+        "title": "Thermodynamic Realism: A Glossary",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-glossary.html",
+        "published_utc": "2026-05-25T20:10:26.904Z",
+        "published_local": "2026-05-25T22:10:26.904000+02:00",
+        "updated_utc": "2026-05-25T20:10:26.904Z",
+        "updated_local": "2026-05-25T22:10:26.904000+02:00",
+        "content_sha256": "84dea814c4f2489b8e69f55ee803f8a57078978091bf68c69cf98e863c747173"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "ordinal": 77,
+        "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+        "published_utc": "2026-05-28T21:44:31.714Z",
+        "published_local": "2026-05-28T23:44:31.714000+02:00",
+        "updated_utc": "2026-05-28T21:44:31.715Z",
+        "updated_local": "2026-05-28T23:44:31.715000+02:00",
+        "content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4) explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E030",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "ordinal": 72,
+        "title": "Thermodynamic Realism: The Deductive Web",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-deductive-web.html",
+        "published_utc": "2026-05-25T20:31:48.646Z",
+        "published_local": "2026-05-25T22:31:48.646000+02:00",
+        "updated_utc": "2026-05-26T21:13:02.492Z",
+        "updated_local": "2026-05-26T23:13:02.492000+02:00",
+        "content_sha256": "e9a0dd9e7dd70440097dc32f4d2d40a9b601da9932895d34044cc16445b6df5b"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "ordinal": 77,
+        "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+        "published_utc": "2026-05-28T21:44:31.714Z",
+        "published_local": "2026-05-28T23:44:31.714000+02:00",
+        "updated_utc": "2026-05-28T21:44:31.715Z",
+        "updated_local": "2026-05-28T23:44:31.715000+02:00",
+        "content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4) explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E031",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "ordinal": 73,
+        "title": "Thermodynamic Realism: Diagnosing Whether a Question Has a Domain",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-diagnosing.html",
+        "published_utc": "2026-05-27T05:21:23.647Z",
+        "published_local": "2026-05-27T07:21:23.647000+02:00",
+        "updated_utc": "2026-05-27T05:21:23.647Z",
+        "updated_local": "2026-05-27T07:21:23.647000+02:00",
+        "content_sha256": "82ad1863a54c3d56c990f620c6a9316b2bc5183e04fcd4081cdc2ee80bee0e05"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "ordinal": 82,
+        "title": "Thermodynamic Realism: What It Proves and What It Bets",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+        "published_utc": "2026-05-29T14:34:55.321Z",
+        "published_local": "2026-05-29T16:34:55.321000+02:00",
+        "updated_utc": "2026-05-29T14:34:55.321Z",
+        "updated_local": "2026-05-29T16:34:55.321000+02:00",
+        "content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: What It Proves and What It Bets explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E035",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "ordinal": 77,
+        "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-consolidated.html",
+        "published_utc": "2026-05-28T21:44:31.714Z",
+        "published_local": "2026-05-28T23:44:31.714000+02:00",
+        "updated_utc": "2026-05-28T21:44:31.715Z",
+        "updated_local": "2026-05-28T23:44:31.715000+02:00",
+        "content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "ordinal": 82,
+        "title": "Thermodynamic Realism: What It Proves and What It Bets",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+        "published_utc": "2026-05-29T14:34:55.321Z",
+        "published_local": "2026-05-29T16:34:55.321000+02:00",
+        "updated_utc": "2026-05-29T14:34:55.321Z",
+        "updated_local": "2026-05-29T16:34:55.321000+02:00",
+        "content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: What It Proves and What It Bets explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E034",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    },
+    {
+      "post": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "ordinal": 81,
+        "title": "The Metaphysical Audit: Dissolving Philosophy’s \"Hard Problems\" via the Ghost Filter",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/the-metaphysical-audit-dissolving.html",
+        "published_utc": "2026-05-29T13:25:24.226Z",
+        "published_local": "2026-05-29T15:25:24.226000+02:00",
+        "updated_utc": "2026-05-29T13:25:24.226Z",
+        "updated_local": "2026-05-29T15:25:24.226000+02:00",
+        "content_sha256": "f2a1923234d728bb4226037164f9096e153be8f1763ccab625dcfdd72aea7c17"
+      },
+      "target": {
+        "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "ordinal": 82,
+        "title": "Thermodynamic Realism: What It Proves and What It Bets",
+        "status": "LIVE",
+        "url": "https://epistemicforge.blogspot.com/2026/05/thermodynamic-realism-what-it-proves.html",
+        "published_utc": "2026-05-29T14:34:55.321Z",
+        "published_local": "2026-05-29T16:34:55.321000+02:00",
+        "updated_utc": "2026-05-29T14:34:55.321Z",
+        "updated_local": "2026-05-29T16:34:55.321000+02:00",
+        "content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa"
+      },
+      "status": "recommended",
+      "draft": "Historical source. Thermodynamic Realism: What It Proves and What It Bets explicitly identifies this work or its uniquely named role among the material it consolidates and supersedes. The original text remains below. This identifies a documented editorial relationship, not independent confirmation of the later arguments.",
+      "evidence_id": "E036",
+      "application": "Prepend a dated editorial notice outside the historical article text; do not change the URL, original title or original prose."
+    }
+  ],
+  "application_status": "not_applied"
+}
