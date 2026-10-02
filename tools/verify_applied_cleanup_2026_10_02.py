@@ -6,6 +6,8 @@ import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
+from build_post_cleanup_2026_10_02 import SNAPSHOT, json_bytes, reconcile, summary
+
 ROOT = Path(__file__).resolve().parents[1]
 RECORD = ROOT / 'applied/2026-10-02'
 A = '{http://www.w3.org/2005/Atom}'
@@ -63,7 +65,18 @@ def main():
         assert digest(before.encode()) == patch['before_sha256']
         assert digest(after.encode()) == patch['after_sha256'] == checks[patch['id']]['content_sha256']
         assert after[:offset] + after[offset+len(patch['snippet']):] == before
-    print('Verified stored record: 150 posts; 114 label changes; 434 labels; 893 assignments; 10 reversible notices. Final Atom export remains pending.')
+    latest = (ROOT / SNAPSHOT / 'feed.atom').read_bytes()
+    assert (ROOT / 'feed.atom').read_bytes() == latest
+    final_manifest = load(ROOT / SNAPSHOT / 'manifest.json')
+    for key, value in summary(latest).items():
+        assert final_manifest['latest'][key] == value, key
+    comparison = (RECORD / 'export-verification.json').read_bytes()
+    assert comparison == json_bytes(reconcile(source, latest))
+    assert digest(comparison) == final_manifest['export_verification']['sha256']
+    assert manifest['post_cleanup_export_verified'] is True
+    assert manifest['latest_snapshot'] == SNAPSHOT + '/feed.atom'
+    assert verification['post_cleanup_export_verified'] is True
+    print('Verified final export and stored record: 150 posts; 114 label changes; 434 labels; 893 assignments; 10 exact reversible notices; 140 other bodies unchanged; no unexpected changes.')
 
 
 if __name__ == '__main__':

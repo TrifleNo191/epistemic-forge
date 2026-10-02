@@ -1,6 +1,6 @@
 # Epistemic Forge: taxonomy and version-lineage review
 
-Proposal against source commit `aa0555c5e1595571ac185bb9870cf493226eae1e` and Atom SHA-256 `2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d`. No source or live-site edits applied.
+Historical proposal against source commit `aa0555c5e1595571ac185bb9870cf493226eae1e` and Atom SHA-256 `2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d`. Its proposal-status fields describe the package when issued. The subsequent approved application and final export verification are recorded under [`applied/2026-10-02`](../../applied/2026-10-02/README.md).
 
 Open `review.html` for the readable report, complete searchable 448-label map, lineage table, proposed notices, missing-label suggestions and source excerpts.
 
@@ -45,7 +45,7 @@ Only context-supported aliases are merged. Related labels such as alignment vari
 - `issues-and-notices.json`: issue list and dated-notice drafts; ambiguous attributions remain marked.
 - `evidence.json`: exact excerpt offsets in deterministically extracted text, source IDs and hashes.
 - `coverage.json`: scope, limits and quantitative dry-run totals.
-- `build_review.py`: reproduces this proposal from the unchanged repository feed and legacy snapshots. It makes no network requests and never edits those feeds.
+- `build_review.py`: reproduces this proposal from the fixed pre-cleanup snapshot at `snapshots/2026-10-02/feed.atom` and the legacy snapshots. It makes no network requests and never edits those feeds.
 
 ## Applying later
 

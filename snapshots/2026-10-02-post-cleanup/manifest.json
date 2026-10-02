@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-02",
+  "status": "Final post-cleanup export verified against the approved application",
+  "repository_base_commit": "97c178090d034b8092d894a2b3c25e27a5a98c68",
+  "source_zip": {
+    "filename": "takeout-20261002T022607Z-1-001.zip",
+    "sha256": "6ba43d2768d938b95d6ac59b153140f84392f26b42ae09b14e271254386e02f6",
+    "bytes": 15753865,
+    "storage": "Original owner-supplied backup; excluded from this public repository"
+  },
+  "source_atom": {
+    "zip_member": "Takeout/Blogger/Blogs/Epistemic Forge/feed.atom",
+    "bytes": 4980327,
+    "sha256": "e606c633e86d29576876b626cd6dd6d379e5496bee6bd6b56e74be4a5d7ced29",
+    "entry_count": 167,
+    "types": {
+      "COMMENT": 17,
+      "POST": 150
+    },
+    "post_statuses": {
+      "DRAFT": 1,
+      "LIVE": 149
+    },
+    "live_post_published_range_utc": [
+      "2025-11-05T14:36:00Z",
+      "2026-09-30T14:51:25.859Z"
+    ],
+    "distinct_labels": 434,
+    "label_assignments": 893
+  },
+  "separate_comment_feed": {
+    "zip_member": "Takeout/Blogger/Comments/Epistemic Forge/feed.atom",
+    "sha256": "b1ef377e51835d90b95ed5df1bb873955d7a72334b4b91430aac060c497a2f37",
+    "entries": 15,
+    "all_also_in_main_feed": true,
+    "published_in_repository": false
+  },
+  "transformation": {
+    "operation": "Remove complete Atom entries whose blogger:type is COMMENT",
+    "comments_removed_from_main_feed": 17,
+    "retained_post_entries": 150,
+    "retained_entries_byte_identical_to_final_export": true,
+    "post_order_preserved": true,
+    "raw_zip_unchanged": true,
+    "git_history_rewritten": false,
+    "scope_note": "HTML/XML authoring comments within post bodies are preserved. No live changes are made by this builder."
+  },
+  "latest": {
+    "path": "feed.atom",
+    "snapshot_path": "snapshots/2026-10-02-post-cleanup/feed.atom",
+    "bytes": 4960334,
+    "sha256": "1447b3686f4c1e0b98023955fbe66b55618a0af5b5e62b120ca3062a82fdd728",
+    "entry_count": 150,
+    "types": {
+      "POST": 150
+    },
+    "post_statuses": {
+      "DRAFT": 1,
+      "LIVE": 149
+    },
+    "live_post_published_range_utc": [
+      "2025-11-05T14:36:00Z",
+      "2026-09-30T14:51:25.859Z"
+    ],
+    "distinct_labels": 434,
+    "label_assignments": 893
+  },
+  "pre_cleanup_snapshot": {
+    "path": "snapshots/2026-10-02/feed.atom",
+    "sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+    "unchanged": true
+  },
+  "application_record": "applied/2026-10-02/README.md",
+  "export_verification": {
+    "path": "applied/2026-10-02/export-verification.json",
+    "sha256": "ee0228e583742a92086cbd9ca400a03c49dca7a3b54cbf3df1d1eeced22ab538",
+    "all_approved_changes_match": true,
+    "unexpected_changes": 0
+  }
+}

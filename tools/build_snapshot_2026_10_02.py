@@ -318,8 +318,15 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source_zip", type=Path)
     parser.add_argument("--check", action="store_true", help="Verify outputs without writing")
+    parser.add_argument("--snapshot-only", action="store_true",
+                        help="Leave the current feed.atom alias alone when checking historical outputs")
     args = parser.parse_args()
     artifacts = build(args.source_zip)
+    if args.snapshot_only:
+        del artifacts["feed.atom"]
+    elif not args.check and (ROOT / "feed.atom").exists():
+        require((ROOT / "feed.atom").read_bytes() == artifacts["feed.atom"],
+                "Current feed differs; use --snapshot-only to preserve the newer export")
     for name, data in artifacts.items():
         path = ROOT / name
         if args.check:
@@ -330,7 +337,7 @@ def main():
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_bytes(data)
     print(json.dumps({"mode": "verified" if args.check else "written", "files": len(artifacts),
-                      "latest": summary(artifacts["feed.atom"])}))
+                      "snapshot": summary(artifacts[f"snapshots/{DATE}/feed.atom"])}))
 
 
 if __name__ == "__main__":

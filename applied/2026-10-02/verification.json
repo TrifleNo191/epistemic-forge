@@ -1,5 +1,5 @@
 {
-  "status": "live_changes_verified_in_blogger_ui; post_cleanup_export_pending",
+  "status": "live_changes_and_post_cleanup_export_verified",
   "observed_at": "2026-10-02T02:25:02.711Z",
   "pre_edit_reconciliation": {
     "records": 150,
@@ -193,14 +193,20 @@
       "at": "2026-10-02T02:22:55.185Z"
     }
   ],
-  "scope_limit": "The final Takeout download was blocked by the cloud browser URL security policy. No post-cleanup Atom export has been inspected. Unchanged articles were not re-exported for a full byte-level comparison. Publication timestamps and URLs were not edited.",
-  "source_feed_status": "feed.atom and all snapshots remain the unchanged pre-cleanup exports",
+  "scope_limit": "All 150 final exported posts were reconciled with the fixed pre-cleanup source and the approved application. This verifies recorded changes and preservation; it does not validate philosophical claims, external references or later public-surface/era work.",
+  "source_feed_status": "feed.atom matches snapshots/2026-10-02-post-cleanup/feed.atom; earlier fixed snapshots are unchanged",
   "final_export_request": {
     "requested_at": "2026-10-02T02:26:07.352Z",
     "scope": "Blogger only",
     "type": "ZIP",
     "frequency": "one-time",
     "after_final_ui_verification": true,
-    "download_status": "pending_user_download_due_to_browser_url_security_block"
-  }
+    "download_status": "owner_supplied_final_zip_verified",
+    "source_zip": "takeout-20261002T022607Z-1-001.zip",
+    "zip_sha256": "6ba43d2768d938b95d6ac59b153140f84392f26b42ae09b14e271254386e02f6",
+    "raw_atom_sha256": "e606c633e86d29576876b626cd6dd6d379e5496bee6bd6b56e74be4a5d7ced29"
+  },
+  "post_cleanup_export_verified": true,
+  "export_verification": "export-verification.json",
+  "final_snapshot_manifest": "snapshots/2026-10-02-post-cleanup/manifest.json"
 }

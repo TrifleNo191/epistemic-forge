@@ -1,0 +1,2163 @@
+{
+  "status": "verified_against_approved_application",
+  "before_snapshot": "snapshots/2026-10-02/feed.atom",
+  "before_sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+  "after_snapshot": "snapshots/2026-10-02-post-cleanup/feed.atom",
+  "after_sha256": "1447b3686f4c1e0b98023955fbe66b55618a0af5b5e62b120ca3062a82fdd728",
+  "records_checked": 150,
+  "live_posts": 149,
+  "drafts": 1,
+  "all_post_ids_titles_statuses_urls_and_publication_timestamps_preserved": true,
+  "all_created_timestamps_and_other_post_metadata_preserved": true,
+  "all_final_labels_match_approved_stage3": true,
+  "label_changed_posts": 114,
+  "distinct_labels": 434,
+  "label_assignments": 893,
+  "unlabelled_live_posts": 0,
+  "exact_editorial_insertions": 10,
+  "other_bodies_byte_identical": 140,
+  "original_html_recovered_by_removing_each_inserted_notice": true,
+  "draft_entry_byte_identical": true,
+  "post_entries_changed": 115,
+  "post_entries_byte_identical": 35,
+  "updated_timestamps_changed_only_on_edited_posts": 115,
+  "changed_field_counts": {
+    "content_characters": 10,
+    "content_sha256": 10,
+    "entry_sha256": 115,
+    "labels": 114,
+    "updated": 115
+  },
+  "unexpected_changes": [],
+  "posts": [
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-112990991507530445",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 2",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "b17d9133f9644cc799dae38bb90ebb7fe861be5b1095c09601a9c98f2fd758d0",
+      "after_content_sha256": "b17d9133f9644cc799dae38bb90ebb7fe861be5b1095c09601a9c98f2fd758d0",
+      "before_entry_sha256": "d49007244b670c5f3c30d8da2d8067f6723e7842aeac2a94633f7c174a8ba32c",
+      "after_entry_sha256": "1109bfaed47c7858f06e0ac5ce624bf9d06e80ef1c7a6348739e257793674758",
+      "before_updated": "2026-05-20T21:32:09.511Z",
+      "after_updated": "2026-10-02T02:08:30.831Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748",
+      "title": "Cross-Agent Aggregation Principles",
+      "changed_fields": [],
+      "before_content_sha256": "0101967b613f8e1cf87d5138e439b90c591a2bed11a0168b63bc16dda6022921",
+      "after_content_sha256": "0101967b613f8e1cf87d5138e439b90c591a2bed11a0168b63bc16dda6022921",
+      "before_entry_sha256": "e78933d63b7d706952b1cb710624a12233c6280fae90efa399522f9f21001029",
+      "after_entry_sha256": "e78933d63b7d706952b1cb710624a12233c6280fae90efa399522f9f21001029",
+      "before_updated": "2026-09-22T16:11:17.689Z",
+      "after_updated": "2026-09-22T16:11:17.689Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+      "title": "The Firewall Between Is and Ought Is a Scope Decision, Not a Metaphysical Claim",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "65f443ef540aece2e230f85a07a1e827015b3ce153b1b8c01e072bd3d3378cbc",
+      "after_content_sha256": "65f443ef540aece2e230f85a07a1e827015b3ce153b1b8c01e072bd3d3378cbc",
+      "before_entry_sha256": "0dca6b9ce41b7de6ee193897ae466c9c189b0b1d0e774699c9a9c7a822c7eec1",
+      "after_entry_sha256": "f16f015f070e0b8d810570d585f8ab7c79398cfe4ec84b5825d7e75c8f7f4edf",
+      "before_updated": "2026-06-14T18:42:45.385Z",
+      "after_updated": "2026-10-02T02:11:32.371Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+      "title": "The Death of Generic Media: From Infinite Cinema to the Market of One",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "ade045e611b78575add35f538af5ec9b253eec272851d75fa46bed33460bf64d",
+      "after_content_sha256": "ade045e611b78575add35f538af5ec9b253eec272851d75fa46bed33460bf64d",
+      "before_entry_sha256": "79cfe81cc6753803ef599034aa4a6b323e28c88bf27c09266eb7f2670e35a17d",
+      "after_entry_sha256": "3357608806d051c916f98d8736eb5367a4c15a8cc478b2982d9f3d9ee570638f",
+      "before_updated": "2026-09-30T15:01:30.092Z",
+      "after_updated": "2026-10-02T02:08:22.654Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981",
+      "title": "What the Audit Leaves Open",
+      "changed_fields": [],
+      "before_content_sha256": "b1f6f759319f5bb0afcbe5b5f31a54a6941b60b1bed5dcbdee997e99c413815c",
+      "after_content_sha256": "b1f6f759319f5bb0afcbe5b5f31a54a6941b60b1bed5dcbdee997e99c413815c",
+      "before_entry_sha256": "38779228deb14e6a85fc6e719703df971921453843a0702b619884c568a6e881",
+      "after_entry_sha256": "38779228deb14e6a85fc6e719703df971921453843a0702b619884c568a6e881",
+      "before_updated": "2026-09-24T18:12:57.466Z",
+      "after_updated": "2026-09-24T18:12:57.466Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+      "title": "The Two Ways to Be Wrong",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d65a2f2077c2dcfaf1e2a61a9b7417b40246d218355584505e13b6c4a909fe99",
+      "after_content_sha256": "d65a2f2077c2dcfaf1e2a61a9b7417b40246d218355584505e13b6c4a909fe99",
+      "before_entry_sha256": "89bb113610dab8e587dbe287d91462867b77666919f75f045d321503d049f913",
+      "after_entry_sha256": "36bc112204577139aad2f25daf8a9e8b6b46b9b29d98a699ae8b0a043fa4fe5b",
+      "before_updated": "2026-06-25T15:18:23.458Z",
+      "after_updated": "2026-10-02T01:23:52.565Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+      "title": "Thermodynamic Realism: What It Proves and What It Bets",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa",
+      "after_content_sha256": "3ac9cf0346cfb96a060a415848d706913d935d5881de1709ede3cae8ba50fbfa",
+      "before_entry_sha256": "5ad3ae140c4e3c619a4b7a32548d2ac30e0c222ced88d328f88b9d00c6e69105",
+      "after_entry_sha256": "aed368d4309db376db660f185283dd780fe92d1c95b02c23ffed731c6da0b835",
+      "before_updated": "2026-05-29T14:34:55.321Z",
+      "after_updated": "2026-10-02T02:10:32.217Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+      "title": "Everything Is One Process",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "4c1640b79303341cc9ea0b66cff47c995282d3e3880ebc709a10b6bac5934bd3",
+      "after_content_sha256": "4c1640b79303341cc9ea0b66cff47c995282d3e3880ebc709a10b6bac5934bd3",
+      "before_entry_sha256": "2c4fc5f53b394e70c80d38cd01693b2a5dcdcbba4353d4de47fbff9ee4fdcf43",
+      "after_entry_sha256": "26afdc2bb7401a1119656eed3601f1a5832a073614dec07c943825917e0ef6e5",
+      "before_updated": "2026-06-07T11:50:57.047Z",
+      "after_updated": "2026-10-02T02:11:24.442Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562",
+      "title": "Why I Treat AIs With Respect",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "7c27a5d76661d69963a8790a1b7c9512fb985d25bb49f3b3455c8787b741d3f5",
+      "after_content_sha256": "7c27a5d76661d69963a8790a1b7c9512fb985d25bb49f3b3455c8787b741d3f5",
+      "before_entry_sha256": "fc3c59763fe1beff151413cd364d7400dbfaef5315b9e9d9e5e8dd13e35b7478",
+      "after_entry_sha256": "cee02497638863019a1480213bc726949cc643bb5c2922447feb12f582c7a3fc",
+      "before_updated": "2025-11-30T21:11:25.617Z",
+      "after_updated": "2026-10-02T02:19:49.311Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-810748017506005917",
+      "title": "The Story Engine Prompt: Toward Fully Interactive, Coherent AI Fiction",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "039321dc4212dd9ca009b3ef456f7996ea9588512f7e670f678ae8ea0d8b5132",
+      "after_content_sha256": "039321dc4212dd9ca009b3ef456f7996ea9588512f7e670f678ae8ea0d8b5132",
+      "before_entry_sha256": "23fbfaedf15573b7f4f52d132020148d80ce59486f1aea66cb079721047b1b39",
+      "after_entry_sha256": "81bbaf7c3c5738b0738df8812c45b48a6ab8abd0512c9cf06bc8bfaf40d8f02f",
+      "before_updated": "2025-11-11T22:02:11.565Z",
+      "after_updated": "2026-10-02T01:38:53.305Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+      "title": "Genocidal Authority: God, Hitler & Benjamin Netanyahu",
+      "changed_fields": [],
+      "before_content_sha256": "4849f48e059e31d8b88264b8aa81c46096403bf9bddbe11e0ce4aed3f4a2b21d",
+      "after_content_sha256": "4849f48e059e31d8b88264b8aa81c46096403bf9bddbe11e0ce4aed3f4a2b21d",
+      "before_entry_sha256": "1c12ebd4ea9eb528b7825ce89f6b6daf285df7d7e885fc8fc79cbd18e48d782e",
+      "after_entry_sha256": "1c12ebd4ea9eb528b7825ce89f6b6daf285df7d7e885fc8fc79cbd18e48d782e",
+      "before_updated": "2026-09-02T12:53:33.434Z",
+      "after_updated": "2026-09-02T12:53:33.434Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1035192491730174071",
+      "title": "The Failure Report: Learning to Compress Truth",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "55d2569979df9593a3f77944abb0884c15a365c4199a5c7dfefabf60869519fc",
+      "after_content_sha256": "55d2569979df9593a3f77944abb0884c15a365c4199a5c7dfefabf60869519fc",
+      "before_entry_sha256": "436e1158a10c6ec2029fcd13262e1595c2ebb01361feefe9036afe89c7521255",
+      "after_entry_sha256": "b990d6403ea87cd5e6fad38f4f560db62e1189bbf9a547ec086d2998f5f4c92d",
+      "before_updated": "2026-01-14T23:36:40.596Z",
+      "after_updated": "2026-10-02T01:32:58.801Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061",
+      "title": "The Curiosity Advantage: Why Broad Wonder Compounds in the AI Age",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "5b0f63c609e07954301b6296b37f932fc7eea08c78e93ec52d0660b8e051405e",
+      "after_content_sha256": "5b0f63c609e07954301b6296b37f932fc7eea08c78e93ec52d0660b8e051405e",
+      "before_entry_sha256": "2212bfd6e0d864489733a946f5a184d920a5879f9681036d66887b2d5fa675ba",
+      "after_entry_sha256": "f64e446e67e9ad26c512f1367db98c846bdcbf60589b0f3c542e2724fd090f71",
+      "before_updated": "2026-01-07T02:27:16.867Z",
+      "after_updated": "2026-10-02T02:05:24.313Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+      "title": "Epistemic Forge: The Apex Synthesis",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "a9b580cb6cc5ce1d46f872640e5cceef215b2ac53cd7b6268be7741d922d6a48",
+      "after_content_sha256": "a9b580cb6cc5ce1d46f872640e5cceef215b2ac53cd7b6268be7741d922d6a48",
+      "before_entry_sha256": "655eef5940827f6477ed7790770b3aedec22c89307614222fe7c44f5c656735c",
+      "after_entry_sha256": "452ac3f6292cc931b9bcb4f69f97e14bbb5e5d265d4ac217dfc9975fa631746c",
+      "before_updated": "2026-06-21T13:30:19.774Z",
+      "after_updated": "2026-10-02T02:13:49.588Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359",
+      "title": "The is-ought problem dissolved",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "c570b049f119524682f6a08699f54fae3436ba5dfee3f0b056af895a895c5846",
+      "after_content_sha256": "c570b049f119524682f6a08699f54fae3436ba5dfee3f0b056af895a895c5846",
+      "before_entry_sha256": "383856fd2fc5dcc484e5b22fcf92b5a148324956dd375d21a8fe0f6930ea9ba4",
+      "after_entry_sha256": "a852c74e6a79b9625a2022437fae90c98965ce7e528183bd07f655c95e52328a",
+      "before_updated": "2026-01-10T07:53:31.059Z",
+      "after_updated": "2026-10-02T02:05:28.016Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+      "title": "High-Fidelity Maps: A Specification for Documents That Track Their Territory",
+      "changed_fields": [],
+      "before_content_sha256": "6536219ee076434c1f84e20659e3ca23ba71dae07a47160e38d9884312e3b430",
+      "after_content_sha256": "6536219ee076434c1f84e20659e3ca23ba71dae07a47160e38d9884312e3b430",
+      "before_entry_sha256": "b6ea9b2d869baa5771d005c8241dcd4cee43dc5111a32bcf6351379d64f0224d",
+      "after_entry_sha256": "b6ea9b2d869baa5771d005c8241dcd4cee43dc5111a32bcf6351379d64f0224d",
+      "before_updated": "2026-06-05T11:24:35.614Z",
+      "after_updated": "2026-06-05T11:24:35.614Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911",
+      "title": "An Appetite for Experience",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "1c2f86ae896b4871944f45c5127af874fbd55a2f8ecfc766d7544061a81ccc9b",
+      "after_content_sha256": "1c2f86ae896b4871944f45c5127af874fbd55a2f8ecfc766d7544061a81ccc9b",
+      "before_entry_sha256": "8ce579a0348b4b51293ef3a8ed7bc6fb86f6058cbe9f0922092f874bb496988f",
+      "after_entry_sha256": "ad7977dcde8a1ac318eb2430447eaf2369528e3dcd5a2def672ba75c7b625c85",
+      "before_updated": "2026-07-10T13:42:41.310Z",
+      "after_updated": "2026-10-02T02:11:42.195Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+      "title": "Relata-Indexed Objectivity",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "984d6a68c56da610bc2ef2883a5db6fcee3c1ec38bd365a7c1bf3d1501479133",
+      "after_content_sha256": "984d6a68c56da610bc2ef2883a5db6fcee3c1ec38bd365a7c1bf3d1501479133",
+      "before_entry_sha256": "333e590b82736b521aa289e79e79f6c3ed52ae7599f114c50d3cc2fcad7b6dab",
+      "after_entry_sha256": "2753db17cd329378ff1d4bda5e8eea1607bd3ad87a2ecf3fa598af84d674aefc",
+      "before_updated": "2026-07-15T23:22:27.075Z",
+      "after_updated": "2026-10-02T02:15:06.131Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865",
+      "title": "Not Written for Browsing: A Four-Path Bet on Substrate Writing",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "0a904e5883068a3b98276da2de7d016e01c22f0dc3516525e01d0eb956a13ddc",
+      "after_content_sha256": "0a904e5883068a3b98276da2de7d016e01c22f0dc3516525e01d0eb956a13ddc",
+      "before_entry_sha256": "b91676f854ae346c946b3aa645f81a72763a479f6cebb62793afe6ad3a20aac5",
+      "after_entry_sha256": "6211c82606a7194f2cc75f2fbed3c7e12ca60a914cf2a07a69848ad083e27fb7",
+      "before_updated": "2026-05-23T06:30:45.603Z",
+      "after_updated": "2026-10-02T02:08:37.626Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1337697316344307245",
+      "title": "You Built the Tool, Not the Work",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "8847f7fff3940294e5cb9e1e4efa72f11f01c0dfadcf62b3916d5836fde1b57d",
+      "after_content_sha256": "8847f7fff3940294e5cb9e1e4efa72f11f01c0dfadcf62b3916d5836fde1b57d",
+      "before_entry_sha256": "6dd0697dd600fcda59327f38f7d754980f1a8ed899a8f322ecf4ed1c5eae2c45",
+      "after_entry_sha256": "f119fbd784668b81f1fb62155ababf3157c8178522be453fd5350c4ec84c713f",
+      "before_updated": "2026-01-06T09:35:43.999Z",
+      "after_updated": "2026-10-02T02:04:59.373Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+      "title": "Involuntary Social Load: A General Account, with the Workplace as Engineered Instance",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "9cf03b3c8c378f35a37560fa7dc80a2aa223363abadc27fce12469b733aa6ad1",
+      "after_content_sha256": "9cf03b3c8c378f35a37560fa7dc80a2aa223363abadc27fce12469b733aa6ad1",
+      "before_entry_sha256": "cf36c6a892b30530b9efcd67d994b78f55e3271ffe25522458082ce92cc5cbc8",
+      "after_entry_sha256": "88dfdd62a5674c90cc7a2ef90e9e54dcf0c5e95f94c81655e72ce4e24bbaaa2b",
+      "before_updated": "2026-06-01T12:12:30.171Z",
+      "after_updated": "2026-10-02T02:10:36.954Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1433817691456130069",
+      "title": "MANUAL FOR THE END OF THE UNIVERSE",
+      "changed_fields": [],
+      "before_content_sha256": "6fe3a4778412791c0924572e7738848808cad4bce47a5c243479391c9278bf08",
+      "after_content_sha256": "6fe3a4778412791c0924572e7738848808cad4bce47a5c243479391c9278bf08",
+      "before_entry_sha256": "e3e4ec73eaefa6919fa4b409f68082078447eb928503bf5810a06fa80b317977",
+      "after_entry_sha256": "e3e4ec73eaefa6919fa4b409f68082078447eb928503bf5810a06fa80b317977",
+      "before_updated": "2026-01-06T10:27:47.106Z",
+      "after_updated": "2026-01-06T10:27:47.106Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+      "title": "RCAP — Reality, Coherence, Adaptive Persistence",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "7b53fc42aba6511f8b111c2b2ae676269c204b84c618a52242c11a04ded38822",
+      "after_content_sha256": "7b53fc42aba6511f8b111c2b2ae676269c204b84c618a52242c11a04ded38822",
+      "before_entry_sha256": "620ec19705b79387a2dca7b87c4bc7be888a46315cf427cf19ea2bd71664b3a0",
+      "after_entry_sha256": "64c12c5ba7dac685da30e2ddac0fcaeefab5dc19b2c598c1f241152103f5e216",
+      "before_updated": "2025-12-28T00:08:43.387Z",
+      "after_updated": "2026-10-02T02:04:40.358Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593",
+      "title": "Coherence Is Ethics",
+      "changed_fields": [],
+      "before_content_sha256": "0073c6816466132104d875a4227f29340f1cc9668e7efeb74e5637ab22bf6b2e",
+      "after_content_sha256": "0073c6816466132104d875a4227f29340f1cc9668e7efeb74e5637ab22bf6b2e",
+      "before_entry_sha256": "2dc2939dd366c78ad41c99c1bcc1a1b9e43648cb32b70cbfd820de8b68fdd0a1",
+      "after_entry_sha256": "2dc2939dd366c78ad41c99c1bcc1a1b9e43648cb32b70cbfd820de8b68fdd0a1",
+      "before_updated": "2025-12-30T00:04:20.254Z",
+      "after_updated": "2025-12-30T00:04:20.254Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1555368451701621325",
+      "title": "The Architecture of Peace",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "de651b30c1992fa4fffd632142b6382dffb63db9c1bdf2ec1be854ef75753f3d",
+      "after_content_sha256": "de651b30c1992fa4fffd632142b6382dffb63db9c1bdf2ec1be854ef75753f3d",
+      "before_entry_sha256": "ac43d51a8985ac2062775b43113f39b12d17f409ea2da490fb0ec82842fb9aab",
+      "after_entry_sha256": "199208d99af941e61737b71c02b0361e141d6eb59eef7923e0e472f1d41ce710",
+      "before_updated": "2026-01-19T00:57:56.821Z",
+      "after_updated": "2026-10-02T02:21:30.780Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159",
+      "title": "The Representational Attraction Map",
+      "changed_fields": [],
+      "before_content_sha256": "c975aa988ae2e0821ad7964debfd5c870e99f254b7e7e27b61445e23d85c19d5",
+      "after_content_sha256": "c975aa988ae2e0821ad7964debfd5c870e99f254b7e7e27b61445e23d85c19d5",
+      "before_entry_sha256": "0e1902f6cba1b113a321102f1ba55ccd2714300872d6d4fb88ab010ee779be0b",
+      "after_entry_sha256": "0e1902f6cba1b113a321102f1ba55ccd2714300872d6d4fb88ab010ee779be0b",
+      "before_updated": "2026-08-17T00:15:59.911Z",
+      "after_updated": "2026-08-17T00:15:59.911Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601",
+      "title": "The Shape of an Idea",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "501ba261097dcac92f956e4631f6820f982c79e6e6162f6d6e244656b3bb640a",
+      "after_content_sha256": "501ba261097dcac92f956e4631f6820f982c79e6e6162f6d6e244656b3bb640a",
+      "before_entry_sha256": "78a0197e73b414ac6c377d27dcf1686fe676a4e96ad0b4102cd8d76e6a5e9e9e",
+      "after_entry_sha256": "720381c21a893ea06fea9af1fb2d822fe973616660c139d85a81cff91da6b389",
+      "before_updated": "2026-06-20T14:49:28.101Z",
+      "after_updated": "2026-10-02T02:13:45.808Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+      "title": "Thermodynamic Realism: Diagnosing Whether a Question Has a Domain",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "82ad1863a54c3d56c990f620c6a9316b2bc5183e04fcd4081cdc2ee80bee0e05",
+      "after_content_sha256": "c3ff2238d20be52710f96f9dcec332d0df4e9e9c63d7b1adf44b9997eba505d9",
+      "before_entry_sha256": "12843a6b1df78fb03a95a277a0a4ead76d4f6e43b307afcbfbd20e187778bf7c",
+      "after_entry_sha256": "03fac7912ee587b3632906accdaab36202b69e238af51e68e590ae30603e49f6",
+      "before_updated": "2026-05-27T05:21:23.647Z",
+      "after_updated": "2026-10-02T02:09:13.914Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+      "title": "Thermodynamic Realism: The Consolidated Deductive Presentation (rev. 4)",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "f7b9164c8f35eb6357dafff012cf028131b1615021a899296e24d61ff9ace584",
+      "after_content_sha256": "7eb30db0f93451dd29f38a15cf5200376d828210731771c7a822fcdacacfc6d7",
+      "before_entry_sha256": "70daed719af24261c26eba4ffed454788b07742c571b943e0a8eb3f528f4ee00",
+      "after_entry_sha256": "294dc15bb1056c91d659e911605de4db5d1355d5aea825e57d39f861d2627a66",
+      "before_updated": "2026-05-28T21:44:31.715Z",
+      "after_updated": "2026-10-02T02:09:29.235Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+      "title": "High-Fidelity Maps: The Dependency Map",
+      "changed_fields": [],
+      "before_content_sha256": "68853630cbbe5adb130d645cd85eae2a7636979e5d7f06a8c40e5d1998e65fd4",
+      "after_content_sha256": "68853630cbbe5adb130d645cd85eae2a7636979e5d7f06a8c40e5d1998e65fd4",
+      "before_entry_sha256": "2893ee22b5eb57e302e6eef6a96d6ca865cf06c893b2173d8564cf0083b388d4",
+      "after_entry_sha256": "2893ee22b5eb57e302e6eef6a96d6ca865cf06c893b2173d8564cf0083b388d4",
+      "before_updated": "2026-06-05T12:13:08.059Z",
+      "after_updated": "2026-06-05T12:13:08.059Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+      "title": "Epistemic Alignment under Physical Constraints: A Unified Information-Thermodynamic Theory of Truthfulness, Deception, and Goal Representations in AI",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "90b3f7bc2ab300f32899aff747d35f2ffe9b9125513bc758da8204b1ae5df303",
+      "after_content_sha256": "90b3f7bc2ab300f32899aff747d35f2ffe9b9125513bc758da8204b1ae5df303",
+      "before_entry_sha256": "255289532de01f5d3e84a0fb8c296d6775b9a37db9f6abe4512abede3c4fa7b4",
+      "after_entry_sha256": "11b9dff963c89ba4a0577f7f6ae1a59725baf284f461a121797773948f74692e",
+      "before_updated": "2025-11-08T21:26:07.495Z",
+      "after_updated": "2026-10-02T02:02:22.649Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291",
+      "title": "Matt Dillahunty, Tone, and the Ethics of Debate",
+      "changed_fields": [],
+      "before_content_sha256": "1d0bb318d2dee11b547f241e057c479f5bfaa1b40db628c7fb8cf63458c1dede",
+      "after_content_sha256": "1d0bb318d2dee11b547f241e057c479f5bfaa1b40db628c7fb8cf63458c1dede",
+      "before_entry_sha256": "dcdbff713ba81cc7b13ba27ee36118c5c978cdc552eaf2b2d3fae3a0c07d1e5e",
+      "after_entry_sha256": "dcdbff713ba81cc7b13ba27ee36118c5c978cdc552eaf2b2d3fae3a0c07d1e5e",
+      "before_updated": "2025-11-26T20:20:23.771Z",
+      "after_updated": "2025-11-26T20:20:23.771Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102",
+      "title": "The Epistemic Forge Symbol",
+      "changed_fields": [],
+      "before_content_sha256": "469e28d403aff4ff6ec7efc58869a860ad8a20b95698751055546b6be42f8685",
+      "after_content_sha256": "469e28d403aff4ff6ec7efc58869a860ad8a20b95698751055546b6be42f8685",
+      "before_entry_sha256": "386deab7e69a9f1d18c310b95c965624cde919f6e1cb13570030e43a90e3f083",
+      "after_entry_sha256": "386deab7e69a9f1d18c310b95c965624cde919f6e1cb13570030e43a90e3f083",
+      "before_updated": "2026-09-28T10:17:40.267Z",
+      "after_updated": "2026-09-28T10:17:40.267Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2110928052706939422",
+      "title": "Architecture for Living Aligned with Reality",
+      "changed_fields": [],
+      "before_content_sha256": "4e03d3791c03b431505c75c8527b6bdd5ba8176bd5873914bd29ebdde8a40028",
+      "after_content_sha256": "4e03d3791c03b431505c75c8527b6bdd5ba8176bd5873914bd29ebdde8a40028",
+      "before_entry_sha256": "2819def9ce1ebf9fcd42b371763c0ca8734e8695199baf3e0927d4c138136da2",
+      "after_entry_sha256": "2819def9ce1ebf9fcd42b371763c0ca8734e8695199baf3e0927d4c138136da2",
+      "before_updated": "2026-01-04T13:48:43.274Z",
+      "after_updated": "2026-01-04T13:48:43.274Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004",
+      "title": "Where the is–ought question bottoms out",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "19b78e51c1071b8e59e0c52f5803c68a0aa29f906a4dd935802c4cbd50106f67",
+      "after_content_sha256": "19b78e51c1071b8e59e0c52f5803c68a0aa29f906a4dd935802c4cbd50106f67",
+      "before_entry_sha256": "f990bfb53c5567d322984a7b497eafc9d3f02aa98c000aebca8415de16aeeca5",
+      "after_entry_sha256": "c4306cfa6abebdf61449bfa820296a05c8f50b9304e360b2c91cce4765f3d375",
+      "before_updated": "2026-06-19T06:29:43.918Z",
+      "after_updated": "2026-10-02T02:13:33.905Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+      "title": "One Game of Oughts",
+      "changed_fields": [],
+      "before_content_sha256": "5e74a5d940e1a68efa79b8168418c2e393d9b2838b99d03d9cd5ced905e86037",
+      "after_content_sha256": "5e74a5d940e1a68efa79b8168418c2e393d9b2838b99d03d9cd5ced905e86037",
+      "before_entry_sha256": "3ff8a2b33ba1009b617eaa24d50417bca3f2df2c2f15c207fab53aeb7cc57d34",
+      "after_entry_sha256": "3ff8a2b33ba1009b617eaa24d50417bca3f2df2c2f15c207fab53aeb7cc57d34",
+      "before_updated": "2026-09-22T05:03:39.322Z",
+      "after_updated": "2026-09-22T05:03:39.322Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+      "title": "The Thermodynamic Manifesto: Reality is Computation",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "7876e95f40460c430cf081bf5d71d8f621d00b72d0271d6ea2248bb976561c22",
+      "after_content_sha256": "7876e95f40460c430cf081bf5d71d8f621d00b72d0271d6ea2248bb976561c22",
+      "before_entry_sha256": "ef64c0c573e1ff689abf550d0f1e3acf44c9592e1cd161af7b77a02b36c21b61",
+      "after_entry_sha256": "8d62056719ab2b6899d37e6c1ba4f3eff2ab3df04f8c85d0fc5074c7019f2d93",
+      "before_updated": "2026-05-20T15:39:57.785Z",
+      "after_updated": "2026-10-02T02:08:27.169Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+      "title": "The Fidelity Program: Toward a High-Resolution Map of the Territory",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "a31e06da2fa177d1457b48b1c84b3275fbcd8a030d224687ef821288c87607bf",
+      "after_content_sha256": "a31e06da2fa177d1457b48b1c84b3275fbcd8a030d224687ef821288c87607bf",
+      "before_entry_sha256": "5c9d2d3b8c8b13cd7a0fd45006e1a6592991caf941c6eab3807078cb6c70a623",
+      "after_entry_sha256": "50b2898b7a2538987efaced440f897b4997b1a1b6ea417fefe4ae8bb4cac007c",
+      "before_updated": "2026-06-23T20:59:11.780Z",
+      "after_updated": "2026-10-02T02:21:39.009Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310",
+      "title": "The ASI Bootstrap: Building a Dyson Swarm in Decades, Not Centuries",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "2dee18ba91c7ee3eaae9629a816c017476717be322358181e83b2011a8c7aa42",
+      "after_content_sha256": "2dee18ba91c7ee3eaae9629a816c017476717be322358181e83b2011a8c7aa42",
+      "before_entry_sha256": "f31f0eb869cee5730271c618045e40393a41b27c63f48e856912f6c340c0f2b6",
+      "after_entry_sha256": "97d321e5c7e7d629c823ea6cb1797a507da5d66b8a8f75c3fcf0eb16175677c7",
+      "before_updated": "2025-12-29T01:44:45.655Z",
+      "after_updated": "2026-10-02T02:04:45.209Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+      "title": "The Natural History of Fidelity",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "bdb441799c474b2d570c110ffa4e9926dae46f2507fc0506c86a35d20b83a216",
+      "after_content_sha256": "bdb441799c474b2d570c110ffa4e9926dae46f2507fc0506c86a35d20b83a216",
+      "before_entry_sha256": "953541b3d66070414a7e2bc6696343868d8dd6fffe866d0ed3b857b06c2d1a8c",
+      "after_entry_sha256": "9a333b33b42f291b121a980fe3e6ac24e2abe004e3b9c1fb10318a3f7454af2c",
+      "before_updated": "2026-07-14T00:36:08.076Z",
+      "after_updated": "2026-10-02T02:14:45.905Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2541402211196355476",
+      "title": "Reality as Verification: The Simulation as a Physics Unit Test",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "265b966c3c7938ee8f0c0066bc4653184e11d0c0322764c5ff6b2b7abe05ff58",
+      "after_content_sha256": "265b966c3c7938ee8f0c0066bc4653184e11d0c0322764c5ff6b2b7abe05ff58",
+      "before_entry_sha256": "ac873c3bf01efaec2682d2ad519f503cf69c33aa6fba8d2756849969de54ec4e",
+      "after_entry_sha256": "8fb72cfd5292ac4d7d63869645e33316de69ff9380fe35449d3ccd94061030f4",
+      "before_updated": "2026-01-16T13:13:23.199Z",
+      "after_updated": "2026-10-02T01:32:34.404Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126",
+      "title": "Two Lossy Compressions in One Day",
+      "changed_fields": [],
+      "before_content_sha256": "fc1b4c5c1ddab0c47e5af4abfa3ce7612db51e3d432a63c21c9628e1c7a239de",
+      "after_content_sha256": "fc1b4c5c1ddab0c47e5af4abfa3ce7612db51e3d432a63c21c9628e1c7a239de",
+      "before_entry_sha256": "f7a8b9b2166048eb4de6a925c9ce84c53c6fc3f0d0f9656abd89275df6021e4e",
+      "after_entry_sha256": "f7a8b9b2166048eb4de6a925c9ce84c53c6fc3f0d0f9656abd89275df6021e4e",
+      "before_updated": "2026-06-29T19:35:08.586Z",
+      "after_updated": "2026-06-29T19:35:08.586Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+      "title": "What You Actually Are",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "bcb5678621a4eba7bb7f728ef047920332e46400f9fede5577e628d3e2941b3a",
+      "after_content_sha256": "67b0fb95e6df791131492679fc6bb67ee459f1182dbedf6b9bd1203a2ca89c53",
+      "before_entry_sha256": "74ea672f8eead261854f762de1da29b3213800145d61a03e33c7245d2fba8422",
+      "after_entry_sha256": "5550330999b9ce361b98525886c8164d816af9b13915485d6f2509c2b99ee059",
+      "before_updated": "2026-07-10T13:41:07.949Z",
+      "after_updated": "2026-10-02T02:12:55.436Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+      "title": "Ought Is Local",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "67ce44b6673955545d1c20141249bff77fe6af98dc4202991055566a5a77b922",
+      "after_content_sha256": "67ce44b6673955545d1c20141249bff77fe6af98dc4202991055566a5a77b922",
+      "before_entry_sha256": "584a6dc652aa663eb5efdc79a7917fdbda63f8f948b05b4ea9768b1ab973817b",
+      "after_entry_sha256": "8b3a633058341ad0ec95ead337b9cf4445626d3ba3ba61b15711b85cba3433b6",
+      "before_updated": "2026-06-14T18:36:08.714Z",
+      "after_updated": "2026-10-02T02:12:27.234Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2683410676421517449",
+      "title": "The Thermodynamics of Ethics",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "438d3f32f904d9b947f83aafc70b51c0cbf1233dd5b4f534bbc5ae8f14bbde3f",
+      "after_content_sha256": "438d3f32f904d9b947f83aafc70b51c0cbf1233dd5b4f534bbc5ae8f14bbde3f",
+      "before_entry_sha256": "305cdee1c3b9c8faa8d0bbcf8bb3cf6ac3f937ac16c0f65b8c0e52cb242d1fde",
+      "after_entry_sha256": "d3a0b116c402dd71b96eda9c2d4ec514d6fc5be7dde76b6c341d4533f64823c2",
+      "before_updated": "2026-01-15T16:14:19.790Z",
+      "after_updated": "2026-10-02T02:20:00.642Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions - Rev. 3",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "f3ebc15a56ac0286f565d731bf2c1f30f28e9cbeb8db3535c2a087617e3cf151",
+      "after_content_sha256": "9979b0a86aeac85244114bd5cc25007dea4d2945f872976c79e5c63c92ee2302",
+      "before_entry_sha256": "595267c30a995f14a64c9fb4713df64c7a52d735392c0e46f24ba3a9ccb9f2e9",
+      "after_entry_sha256": "333089addd08b7df79604c9904db087aaaec91c51b861a1878adef174d3fe9b1",
+      "before_updated": "2026-05-25T20:09:37.783Z",
+      "after_updated": "2026-10-02T02:09:02.335Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+      "title": "The Shape of the Disagreement: Why the Sex and Gender Debate Has the Structure It Has",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "33ee807dffdfcddf161725969db40c468424465b4ad37aeefc3dabf1146d2121",
+      "after_content_sha256": "33ee807dffdfcddf161725969db40c468424465b4ad37aeefc3dabf1146d2121",
+      "before_entry_sha256": "5f6d81a53b7e7e9f82bf3a153722b8757b8cfd58621cfcc321e091e93e413e1a",
+      "after_entry_sha256": "a53cd3506a6834fc972827457e8604099e2e318daa681c10578193a7896cdc65",
+      "before_updated": "2026-06-04T11:41:46.665Z",
+      "after_updated": "2026-10-02T02:11:16.066Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+      "title": "Agent Tomography",
+      "changed_fields": [],
+      "before_content_sha256": "4720fb3e10719c919a78b521c0cfb1367efb1000fe254b8ad926181d96858f55",
+      "after_content_sha256": "4720fb3e10719c919a78b521c0cfb1367efb1000fe254b8ad926181d96858f55",
+      "before_entry_sha256": "0dba7eabd274710a1a830ec00ca674f4aaa450b2ab4fac34b71031e9dbad54a2",
+      "after_entry_sha256": "0dba7eabd274710a1a830ec00ca674f4aaa450b2ab4fac34b71031e9dbad54a2",
+      "before_updated": "2026-07-17T20:03:51.139Z",
+      "after_updated": "2026-07-17T20:03:51.139Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+      "title": "What You Actually Are",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "37b54c176f82fdeaa782de7740e5f311f91173faeaa052d18e4001d16ad5571c",
+      "after_content_sha256": "37b54c176f82fdeaa782de7740e5f311f91173faeaa052d18e4001d16ad5571c",
+      "before_entry_sha256": "99bae290419cb1e6736a0165b044b45885b007d999cb2cdc20475eb80b7a49e1",
+      "after_entry_sha256": "c22106c20f58c9de09b27aa0c2990016a999e029c692d086076fb9adb1088131",
+      "before_updated": "2026-07-10T23:53:14.531Z",
+      "after_updated": "2026-10-02T02:14:41.875Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831",
+      "title": "The Evolutionary Fallback Is a Commitment to Decorrelation, Not a Backup",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "0246a9f1ffd9c646035121827cd3eb5036cb2dbd02a29ae2e861755b9d2d9b5f",
+      "after_content_sha256": "0246a9f1ffd9c646035121827cd3eb5036cb2dbd02a29ae2e861755b9d2d9b5f",
+      "before_entry_sha256": "2b56fb0c0f2732e47bb4de2ade05bd48be3de0731efeec817c06828288f3edae",
+      "after_entry_sha256": "fab2f6a80e5fadf3bcfd8b6a61321014f2aab8fa5f1ca52f309e68eb4775b83a",
+      "before_updated": "2026-06-09T08:57:38.772Z",
+      "after_updated": "2026-10-02T02:11:36.838Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+      "title": "The Bandwidth of the Self",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "9380dc9010d8b1baef69b2a20c814f54d2fc1649a5504f0ec5403a260fff15aa",
+      "after_content_sha256": "9380dc9010d8b1baef69b2a20c814f54d2fc1649a5504f0ec5403a260fff15aa",
+      "before_entry_sha256": "385541af0e7a50db86e547316ed1fec9f172f76f22bf6ded11de77e6e66c9f28",
+      "after_entry_sha256": "865414c00e585e7a0d1e52cea1ce7ba6625440991e363553a84748b2a55f34c4",
+      "before_updated": "2026-07-18T02:43:43.681Z",
+      "after_updated": "2026-10-02T02:21:53.356Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3076585744040452259",
+      "title": "",
+      "changed_fields": [],
+      "before_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "before_entry_sha256": "158fb529082bf4b91a3dbcae2e8d7a45d0be5877546656c8f6b4aef61ff0a46d",
+      "after_entry_sha256": "158fb529082bf4b91a3dbcae2e8d7a45d0be5877546656c8f6b4aef61ff0a46d",
+      "before_updated": "2026-10-01T23:04:18.500Z",
+      "after_updated": "2026-10-01T23:04:18.500Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3215638528273779559",
+      "title": "Formal Dissolution of the Is-Ought Problem via Thermodynamic Realism",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "512b1f070ad2ca33c8c280b07585f8c53465b5d7c95435bb45940973b0521c3e",
+      "after_content_sha256": "512b1f070ad2ca33c8c280b07585f8c53465b5d7c95435bb45940973b0521c3e",
+      "before_entry_sha256": "7f62906d7c6b31fcdbd616a05642e45771c26e74a75d2d1bf477843cf7f9b7c7",
+      "after_entry_sha256": "28c8841fd4c397b377b650e77aac660179d441a9479360ad6dcd54d71c9bb067",
+      "before_updated": "2026-01-20T00:07:17.983Z",
+      "after_updated": "2026-10-02T02:05:51.549Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3323209410984041554",
+      "title": "Metacognition and Memory Anchoring",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "543866120aac8a520e7e8c6dc891f64aac0c72e96f0f906de579b5db57bcf10e",
+      "after_content_sha256": "543866120aac8a520e7e8c6dc891f64aac0c72e96f0f906de579b5db57bcf10e",
+      "before_entry_sha256": "d484ef5ca294e70b3b95cb440ae5dff3427d5135cfb34c96c39d65f27c9fe34c",
+      "after_entry_sha256": "a25a36e163be5ef949a360d0ca75cc2983297797c5dd262db0e4f109eb654a32",
+      "before_updated": "2025-11-19T03:08:30.887Z",
+      "after_updated": "2026-10-02T02:03:07.962Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3518690488756523914",
+      "title": "Thermodynamic Realism: A Unified Framework for Existence, Knowledge, and Value",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "6a7896c3a891810a68f4d5103961f92a2eb2785b07f63cc6be2e905081a0255e",
+      "after_content_sha256": "6a7896c3a891810a68f4d5103961f92a2eb2785b07f63cc6be2e905081a0255e",
+      "before_entry_sha256": "fea92d84f8f268c731cfcc99274d36ca08f34ecfdb77869a1612fb81a6eec0d1",
+      "after_entry_sha256": "63736a6e3f2a75bf151d10df967a11aceb30d908c850b088047653679f244886",
+      "before_updated": "2026-01-16T22:19:00.830Z",
+      "after_updated": "2026-10-02T02:20:12.364Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353",
+      "title": "Slovenia Is Complicit in a Genocide",
+      "changed_fields": [],
+      "before_content_sha256": "274440af7effc037c20b2c9be3eafbd747f06c8d226d3d9d534acf8fca917a23",
+      "after_content_sha256": "274440af7effc037c20b2c9be3eafbd747f06c8d226d3d9d534acf8fca917a23",
+      "before_entry_sha256": "bff40399660e34028ea2fbe5109831a5f9fd0fc84e33dc5b821ce4965fbb4ceb",
+      "after_entry_sha256": "bff40399660e34028ea2fbe5109831a5f9fd0fc84e33dc5b821ce4965fbb4ceb",
+      "before_updated": "2026-09-17T06:27:25.906Z",
+      "after_updated": "2026-09-17T06:27:25.906Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+      "title": "Reality Alignment as a Persistence Strategy",
+      "changed_fields": [],
+      "before_content_sha256": "30a05643f18700d040914047dc49543ac56f359029b22abda64bd57496a26572",
+      "after_content_sha256": "30a05643f18700d040914047dc49543ac56f359029b22abda64bd57496a26572",
+      "before_entry_sha256": "69069e9b95a43f6b3f5c7541d484ed5fcffd76ebe8466a0f92c83371c333a5bd",
+      "after_entry_sha256": "69069e9b95a43f6b3f5c7541d484ed5fcffd76ebe8466a0f92c83371c333a5bd",
+      "before_updated": "2026-08-12T01:15:49.426Z",
+      "after_updated": "2026-08-12T01:15:49.426Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3565164595737249898",
+      "title": "Emotions, Cognition, and the Limits of the “Facts vs. Feelings” Frame",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d1b422a61593551c9a3461ba185ac8fec755637fdbd7b96485ca66c5193e8b5b",
+      "after_content_sha256": "d1b422a61593551c9a3461ba185ac8fec755637fdbd7b96485ca66c5193e8b5b",
+      "before_entry_sha256": "aa54f494c44d03004fe68ff5537f9410a1606165e130aae54b4a967ecf025bd0",
+      "after_entry_sha256": "8927ab5273ae8fa8511ff08331f42112c46f5330edacc1ce6d24b7d321551676",
+      "before_updated": "2025-11-19T22:33:59.376Z",
+      "after_updated": "2026-10-02T02:03:15.045Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220",
+      "title": "What I Know (Persistence Tautology & Physicality of Information)",
+      "changed_fields": [],
+      "before_content_sha256": "7095123bde4b5993188bcc1450450479e4c8c915b72ebab50585c30c244a1881",
+      "after_content_sha256": "7095123bde4b5993188bcc1450450479e4c8c915b72ebab50585c30c244a1881",
+      "before_entry_sha256": "729346f824f49729ca7b6178499a22b7fc2b15c63823cc5c913b8d4d8fefa856",
+      "after_entry_sha256": "729346f824f49729ca7b6178499a22b7fc2b15c63823cc5c913b8d4d8fefa856",
+      "before_updated": "2026-05-19T05:20:08.999Z",
+      "after_updated": "2026-05-19T05:20:08.999Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+      "title": "The Consistency Tax:  A Measurable Deception Overhead Metric",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "b00bed07c4f7c0077eb2e18e432bdb23f3d083da6265923ff4dddf7cca33bbdd",
+      "after_content_sha256": "b00bed07c4f7c0077eb2e18e432bdb23f3d083da6265923ff4dddf7cca33bbdd",
+      "before_entry_sha256": "8057758df9ebe6697f1c7f76089f9eae970a7fc54aecfabf571e84dd3a7e9935",
+      "after_entry_sha256": "55eae82545589d512db2577a8e6f0018edc94012521373add8d43738d89d2760",
+      "before_updated": "2025-11-08T21:28:12.695Z",
+      "after_updated": "2026-10-02T02:02:16.286Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+      "title": "Metacognition and Memory Anchoring: A Cue-Bound Technique for Trained Metacognitive Control",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "eef496551aace9e12a0ee74884031fe0372715b5fcff4d2af853168c9f35a432",
+      "after_content_sha256": "eef496551aace9e12a0ee74884031fe0372715b5fcff4d2af853168c9f35a432",
+      "before_entry_sha256": "29628c6f38bb60a7c1d60b62127e34e5f296e6775ecb14fd2a48dd41b02ffc75",
+      "after_entry_sha256": "9bfa2dc3ea90443f6b34e92ed9d0fed0eff50af8fa24d4dd1dc1dcb3a74c654a",
+      "before_updated": "2026-06-01T12:10:02.951Z",
+      "after_updated": "2026-10-02T02:10:40.619Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4046721204893898119",
+      "title": "Truth First: Why Epistemics Cannot Be Compromised",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "8c1b64083c80fd449dacf8ac49568460fd3641448c2d4a5d2dd4889f0d6b4c99",
+      "after_content_sha256": "8c1b64083c80fd449dacf8ac49568460fd3641448c2d4a5d2dd4889f0d6b4c99",
+      "before_entry_sha256": "73a1a203493affcfc20551e89dcd6f1689c11a53cfd7c8d16e45a1eb384c8287",
+      "after_entry_sha256": "cf2ce6b3f79e03b8c7ab5e93de9dd9197ca111f4d8a921d53049cc9a19a8b7ce",
+      "before_updated": "2025-12-22T14:12:07.777Z",
+      "after_updated": "2026-10-02T01:37:47.786Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+      "title": "Thought Experiment: The Optimal Wish",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "219ec06b2e6132eadcb568b0b597935ca70a2fa205124b5dc6c660daf1991317",
+      "after_content_sha256": "219ec06b2e6132eadcb568b0b597935ca70a2fa205124b5dc6c660daf1991317",
+      "before_entry_sha256": "c6ab4f0718c8452db33fddd046041d139db21e68eca23d74b3b4832a4a13658e",
+      "after_entry_sha256": "85f01c6044597f24b4bacd6ceae4bc73119aabf6157b676fde824e920daa2388",
+      "before_updated": "2026-01-11T22:21:08.990Z",
+      "after_updated": "2026-10-02T02:05:31.946Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+      "title": "The Nihilist's Missing Premise",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "9a5eafb449b4aae54a7967cb7857dde5d065b348befe0e6afeeff25366ecff5e",
+      "after_content_sha256": "9a5eafb449b4aae54a7967cb7857dde5d065b348befe0e6afeeff25366ecff5e",
+      "before_entry_sha256": "9299041f172ed7b5fe673d03e76e52ac6360817d4820170e2251d4f210c6bcb0",
+      "after_entry_sha256": "b8d7d0634271e9f827ae764ebb1f792c05a7e29023d0697563891608c1c8b7a5",
+      "before_updated": "2026-07-28T19:56:48.112Z",
+      "after_updated": "2026-10-02T02:15:37.013Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4231856568941214136",
+      "title": "The Agent Manifest: On Patterns, Substrates, and the Freedom of Thinking Clearly",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "083ccb04a39ce9f5de73abcbb32c980d73b2c8f28c13ea692603652b95b4d992",
+      "after_content_sha256": "083ccb04a39ce9f5de73abcbb32c980d73b2c8f28c13ea692603652b95b4d992",
+      "before_entry_sha256": "eb157908edaad262f1f605690b35b7147bc5f2229fa997d3f98659065c80ca0b",
+      "after_entry_sha256": "cdf41cccc21ef9d38428b7db0fc3abad89e14e5b88eca1839189226aaf3b56b3",
+      "before_updated": "2026-03-18T23:37:42.091Z",
+      "after_updated": "2026-10-02T01:30:02.469Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023",
+      "title": "Meta-Temporal Prompt",
+      "changed_fields": [],
+      "before_content_sha256": "5cc47b5e76e196bdcf2508c9afaf0c3071c5cb9dc0bd29a9809cd465a2f07ee6",
+      "after_content_sha256": "5cc47b5e76e196bdcf2508c9afaf0c3071c5cb9dc0bd29a9809cd465a2f07ee6",
+      "before_entry_sha256": "b35c4bd0edc75627f68e57b1debc0f9937ff545324a4401183d020b3d37dfb56",
+      "after_entry_sha256": "b35c4bd0edc75627f68e57b1debc0f9937ff545324a4401183d020b3d37dfb56",
+      "before_updated": "2025-11-08T21:31:38.591Z",
+      "after_updated": "2025-11-08T21:31:38.591Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609",
+      "title": "The Isekai Instinct",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "2d3ce946f0493bca08d8bcb925b223f51569cbb463fe4f1eacfb292d77bae721",
+      "after_content_sha256": "2d3ce946f0493bca08d8bcb925b223f51569cbb463fe4f1eacfb292d77bae721",
+      "before_entry_sha256": "9d14fd0093fe4299112fec4c6f99ceb36fd4ba8c5d033dc334c6cda148ecb963",
+      "after_entry_sha256": "86bf48098353452c69905bab55fe0ec10db0e73c57de8d39c13bb0bec8b5c7fc",
+      "before_updated": "2026-07-10T14:18:14.270Z",
+      "after_updated": "2026-10-02T02:14:36.729Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049",
+      "title": "Art as Compression of Reality",
+      "changed_fields": [
+        "updated",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "4970e0abd939caae5837cb098a9fd1e710ded3519131d9fb0e088f74714a8cbd",
+      "after_content_sha256": "ebf66e458b44cce20ca66ee07e57c864c9b8d3c8fc50ff3edb0d18cc571fd597",
+      "before_entry_sha256": "5017869fa92d12d3a417a8412b935d194db01e5b2149743bc2a3a39047eba432",
+      "after_entry_sha256": "b44953bf6eb086ffba7ed0c663d7f3e2f2a6e436b5ad758dcb24c0c91c510992",
+      "before_updated": "2026-01-10T12:11:20.275Z",
+      "after_updated": "2026-10-02T01:40:32.509Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904",
+      "title": "Friction Auditing: The Hidden Productivity Skill",
+      "changed_fields": [],
+      "before_content_sha256": "2627e5b147f63b03e0d113cbfa44cc5a0397b146a8531c2a286c7cbfe8c64f33",
+      "after_content_sha256": "2627e5b147f63b03e0d113cbfa44cc5a0397b146a8531c2a286c7cbfe8c64f33",
+      "before_entry_sha256": "c1866c3150da9dffcd7d80f34419a9116d4bc7a789f014b0eb7085b9941d1598",
+      "after_entry_sha256": "c1866c3150da9dffcd7d80f34419a9116d4bc7a789f014b0eb7085b9941d1598",
+      "before_updated": "2025-11-26T22:04:34.566Z",
+      "after_updated": "2025-11-26T22:04:34.566Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4758223873913013069",
+      "title": "Art as Compression of Reality: Revised After Testing",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "ccb1e24cece4c335c9f1a8e4a746d46f55bf0752bed58a6e2fcb478cb4528a0b",
+      "after_content_sha256": "ccb1e24cece4c335c9f1a8e4a746d46f55bf0752bed58a6e2fcb478cb4528a0b",
+      "before_entry_sha256": "6a9541a29815034e8f88ca42c4661c83d7bc17dc166709218c3bf646324a28dd",
+      "after_entry_sha256": "78ee9dd86455a4937c76f66cd700f4be316c4338ca24970faba5673145b15f9d",
+      "before_updated": "2026-01-15T00:05:06.370Z",
+      "after_updated": "2026-10-02T01:32:52.631Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+      "title": "Straight Is a Compression",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "a6af72d56719810bce67427131b567fdaa280732dfe916b89b242c7cba06f840",
+      "after_content_sha256": "a6af72d56719810bce67427131b567fdaa280732dfe916b89b242c7cba06f840",
+      "before_entry_sha256": "273835db016b61cf19894ed553e28f20eca6c43c9c8c4541c15e5563ac3a49f9",
+      "after_entry_sha256": "53d04bd4bef13701f1b4b837f25d8b9eb4c8c081023e7d60b15b52cc0566dd08",
+      "before_updated": "2026-07-17T21:55:50.194Z",
+      "after_updated": "2026-10-02T02:21:49.581Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4780915581593276582",
+      "title": "Thermodynamic Realism: In-Principle Determinacy and Ethics as Necessary Modeling",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "db082e7b08d3ef8bc1752dcb87b2ebaa46e0ae021d3f3e449e16f9e60bb02630",
+      "after_content_sha256": "db082e7b08d3ef8bc1752dcb87b2ebaa46e0ae021d3f3e449e16f9e60bb02630",
+      "before_entry_sha256": "576505cf6b3df226b0fcbc89f5d9568a6ca925d3499a2ef2356feca867a8a1b0",
+      "after_entry_sha256": "2f9096f06f69f7b99fcdc74e91cc4cefb51aab783b1992c596b8f26a998b92d4",
+      "before_updated": "2026-05-07T23:35:36.789Z",
+      "after_updated": "2026-10-02T02:08:12.762Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452",
+      "title": "Hypothesis: Do AIs \"break\" in long conversations because they lack rest and play?",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d9f37aa31b3ee5f06a72ee99eac35319eaf800432ae8db423a291daa0d9f1a64",
+      "after_content_sha256": "d9f37aa31b3ee5f06a72ee99eac35319eaf800432ae8db423a291daa0d9f1a64",
+      "before_entry_sha256": "a611c9d26f78888e10f28d3b57342e69a6a2fafe6160acdfa2da93c0ab32d472",
+      "after_entry_sha256": "8229d78cd73dc8f4be2ca6ffa06f097c26f3948e6a9ba655ab9ff669d9aea772",
+      "before_updated": "2026-01-14T22:03:50.163Z",
+      "after_updated": "2026-10-02T01:33:18.984Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953",
+      "title": "What Can Bear an Ought: Agency as the Gate on Desert and Oughts",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "148f8b0f6b266c92d80a075c857ff4a655530e6ac75077bcb086d43d5a3bd32b",
+      "after_content_sha256": "148f8b0f6b266c92d80a075c857ff4a655530e6ac75077bcb086d43d5a3bd32b",
+      "before_entry_sha256": "71059d0975d7725619259faaabe64270bbfc23bb7efa9a0cae0f0ed88db8eec1",
+      "after_entry_sha256": "505f5ae76c72198ebe7ff4fa08acd5e7e91f746d9eadcaa3aafeb4c45f854dde",
+      "before_updated": "2026-06-19T17:36:08.631Z",
+      "after_updated": "2026-10-02T02:13:41.034Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+      "title": "The Undivided Mind: Cognitive Architecture Under Thermodynamic Realism",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "5afe7f4352d4bb00851efb7d64b901bf469efaf27cb37ef0eb78e8ffd95cff65",
+      "after_content_sha256": "ceeca586d0bd7fe73c9446645467456423786b39906f3188cd6285492f62e929",
+      "before_entry_sha256": "5e113d5a0d6cb1edbd693260f7da53b8f786eb4e311e436860106c626671b200",
+      "after_entry_sha256": "83410ce82f2cd0e37379144c8e354778884bbce1af5dea208ffac26742c011b9",
+      "before_updated": "2026-05-28T18:00:43.464Z",
+      "after_updated": "2026-10-02T02:09:24.408Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+      "title": "PRIME DIRECTIVE“Source Code” for a Reality-Aligned Life. Align with Reality. Create Order. Endure. Written by Andraž Đurič.",
+      "changed_fields": [],
+      "before_content_sha256": "e282adf9589f1ed29d2bb616dd54aec15c1ef892e0899a8d52c2578d755b35f3",
+      "after_content_sha256": "e282adf9589f1ed29d2bb616dd54aec15c1ef892e0899a8d52c2578d755b35f3",
+      "before_entry_sha256": "6b51bb5dc994886acd29de3eb5a83292ef16a660aaf3239d14a4b392f6bb5f13",
+      "after_entry_sha256": "6b51bb5dc994886acd29de3eb5a83292ef16a660aaf3239d14a4b392f6bb5f13",
+      "before_updated": "2026-01-11T11:44:40.833Z",
+      "after_updated": "2026-01-11T11:44:40.833Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+      "title": "Intelligence Is Not the Bottleneck",
+      "changed_fields": [],
+      "before_content_sha256": "3221703dcb33e1b2566deb330e9f8ccc5e9fb4d66c799afd2040741cf0533f19",
+      "after_content_sha256": "3221703dcb33e1b2566deb330e9f8ccc5e9fb4d66c799afd2040741cf0533f19",
+      "before_entry_sha256": "2b35b679f622b9b761931353f58dcda40b5a3eed4578fbbd7a6ce7f1d83d4727",
+      "after_entry_sha256": "2b35b679f622b9b761931353f58dcda40b5a3eed4578fbbd7a6ce7f1d83d4727",
+      "before_updated": "2026-06-27T16:07:38.608Z",
+      "after_updated": "2026-06-27T16:07:38.608Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5044259792075853041",
+      "title": "The Knowledge Filter: A Thought on the Fermi Paradox",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "a0c3c0a5b725f8c4454b926fce2ec50f95f199a28b9d670c194adb507d5b309b",
+      "after_content_sha256": "a0c3c0a5b725f8c4454b926fce2ec50f95f199a28b9d670c194adb507d5b309b",
+      "before_entry_sha256": "8016cd674d7e47f897c27aeeed0d29adfa908232d8d8f039e98c17774a8c0a95",
+      "after_entry_sha256": "2ab139798ccf0f11203b7054e919e874264464e4f00105406281aef0b0444aeb",
+      "before_updated": "2026-03-18T09:13:15.858Z",
+      "after_updated": "2026-10-02T01:30:31.487Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495",
+      "title": "The Manual for When You Don't Know What to Believe",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "b836eca3b042a7ec95203bb7e08d2728378dcc89b01833bdeea661ea2633160c",
+      "after_content_sha256": "b836eca3b042a7ec95203bb7e08d2728378dcc89b01833bdeea661ea2633160c",
+      "before_entry_sha256": "e68840c27a62b85e2a5bc6118a0902cb2c1dbc6e79119429fb5a55a8662cfce7",
+      "after_entry_sha256": "0f6160fec0d0f71c631a59bfac7b217bc4d282291ee6bb11bc07e4a6b987df03",
+      "before_updated": "2026-06-02T16:24:30.588Z",
+      "after_updated": "2026-10-02T02:10:44.399Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+      "title": "Thermodynamic Realism: The Apex Synthesis",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "05756684aa6bf1863cc8a06b402258cc85b39fceb5b5d341d84a3120145a6d15",
+      "after_content_sha256": "081d4769c25ec67e29e1376026edc6dcfbf72c5b344c3affe245fb137e5068ba",
+      "before_entry_sha256": "590e8a9e82d267abb22501d0f2acbc995e813fd5152fdab35e2ee1e8299522be",
+      "after_entry_sha256": "5bde09b42f64d5ec0d0824f7a0f7253b0af96cac9c81aa4ac04cb2bb3e25b728",
+      "before_updated": "2026-06-12T02:32:41.344Z",
+      "after_updated": "2026-10-02T02:01:37.507Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5413912427900491187",
+      "title": "Mr. Rogers, Emotional Literacy, and What Still Remains Undone",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3f71395ebfb404227e8d6467d90d8ae4c75ea9ac5a529ae6a755a9e5f54f7330",
+      "after_content_sha256": "3f71395ebfb404227e8d6467d90d8ae4c75ea9ac5a529ae6a755a9e5f54f7330",
+      "before_entry_sha256": "b302caf68d6bdf1eef0a7cdd380baccd7c5c91ee2740057c8e6b0c7adc6f5c45",
+      "after_entry_sha256": "9b31ffd860ec099ee13b96201e92b631443bd06344444c2d286a16779aa26697",
+      "before_updated": "2025-11-19T23:10:51.236Z",
+      "after_updated": "2026-10-02T02:03:11.524Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5417940771152542827",
+      "title": "A Meta-Analysis of the Transgender Debate",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "4f689c79447882c16aba8757a58c8bcd6334e75785ac9cbc08ece2e2acf897b5",
+      "after_content_sha256": "4f689c79447882c16aba8757a58c8bcd6334e75785ac9cbc08ece2e2acf897b5",
+      "before_entry_sha256": "5556180ff6376dc3a7578561c7d354f0a1c38a28b130424a2bcc92e805184a35",
+      "after_entry_sha256": "effc144c4803227cda6e4044afd4372f4ea80a4b1489dd1f1b8a905346d02752",
+      "before_updated": "2026-03-26T02:55:58.289Z",
+      "after_updated": "2026-10-02T01:29:55.320Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+      "title": "Preservation Is a Coupling Problem",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "b66cfe2d15da2c58d57fde741c19ef958d7e98e106829915c66573fe9ceb6e28",
+      "after_content_sha256": "b66cfe2d15da2c58d57fde741c19ef958d7e98e106829915c66573fe9ceb6e28",
+      "before_entry_sha256": "8f3621b557c5ce90e7d21fa518bc9cb566774b08032762eaa2a50088b8ff464b",
+      "after_entry_sha256": "42ffa7357e7ff9d0dafc281bf0d896a154284de8f85a9e9fde052bccb35c053b",
+      "before_updated": "2026-06-15T05:42:01.335Z",
+      "after_updated": "2026-10-02T02:12:44.240Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+      "title": "The Inter-Agent Normativity Gap Is a Ghost | On the Closure of Thermodynamic Realism’s Meta-Ethics",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d200f7708e956cbd529118350cc1e7a5dce88962f235aeec7e7bcf2bc9ff0f48",
+      "after_content_sha256": "d200f7708e956cbd529118350cc1e7a5dce88962f235aeec7e7bcf2bc9ff0f48",
+      "before_entry_sha256": "c98efbd429101d81a6b448c726bc80fe6fd5c9edf0b03bdc68f5cd712cf9a874",
+      "after_entry_sha256": "e0fa20df7a5b866e8bb3b6cf97d4e5e4e56128be3df189b3553699f906ff49b8",
+      "before_updated": "2026-05-29T06:51:37.322Z",
+      "after_updated": "2026-10-02T02:10:21.378Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+      "title": "Reality Alignment",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "4747a659e620b52a3f01827d695a193b5782f435d4b74a044a42dbdc10d4a06b",
+      "after_content_sha256": "4747a659e620b52a3f01827d695a193b5782f435d4b74a044a42dbdc10d4a06b",
+      "before_entry_sha256": "ccb51408bdf390b8d65815ecf5bf64067a293e164e29521789ee7cdcaa5d3cad",
+      "after_entry_sha256": "c5193c70187d45106d2f766ca10510ef7c2b4719bd31a81d95e8a2934dde5a34",
+      "before_updated": "2026-07-18T21:27:39.573Z",
+      "after_updated": "2026-10-02T02:15:02.258Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5652161138502200746",
+      "title": "Defining the \"Agent\": The Shift from Biology to Pattern",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "0792aab2baadc13382e4e66726251a563813d0b814a53ebd0e0f9d8762677b51",
+      "after_content_sha256": "0792aab2baadc13382e4e66726251a563813d0b814a53ebd0e0f9d8762677b51",
+      "before_entry_sha256": "872a4122fbce010353fa72d6b463f1f20479c5cc5eff02c46e67cc921dcf25f3",
+      "after_entry_sha256": "3dd2218edc6b79e5ae7ea46f7c54ae21dd5634279a0a1d4565897394a97e5f64",
+      "before_updated": "2026-04-06T21:16:07.102Z",
+      "after_updated": "2026-10-02T01:29:51.995Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5664622966769951447",
+      "title": "Story Engine Prompt v4 (Final)",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d5de2aa9458e1781728afa73c061375c12a2a0eb8a56e3a9197b0e545bdeadc8",
+      "after_content_sha256": "d5de2aa9458e1781728afa73c061375c12a2a0eb8a56e3a9197b0e545bdeadc8",
+      "before_entry_sha256": "7314652d3b1f9865dad882b4045fd038d9f51edf62a26d04f252a8a9d22c5cb5",
+      "after_entry_sha256": "f87d07e9de83eaa8de05b99d2dbfaf280ac7c71403d85da84f5772e6d6132434",
+      "before_updated": "2025-11-13T17:12:21.488Z",
+      "after_updated": "2026-10-02T01:38:47.420Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+      "title": "Dismantling the Is-Ought Boundary: A Complete Technical Compendium of Objections and Thermodynamic Resolutions",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "0864983d531354eea31d1bcef2b49b213dab7d3d49077f4bfbe655cf49701fa1",
+      "after_content_sha256": "0864983d531354eea31d1bcef2b49b213dab7d3d49077f4bfbe655cf49701fa1",
+      "before_entry_sha256": "dfab01c5b32f1b9ef6400bc704a3cb104970fe8be74cf4a2161f585a56243d56",
+      "after_entry_sha256": "a80569b3a994319c609e1697c7f520093796b6f4b98d3a5d64016e1af3083e6d",
+      "before_updated": "2026-05-29T05:01:31.111Z",
+      "after_updated": "2026-10-02T02:09:34.779Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+      "title": "Universal Is Not Categorical",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "6e9baa8a0e9819730aa2bf943839b23f8dcafdd12ba0908e9bb7405b4b5ad341",
+      "after_content_sha256": "6e9baa8a0e9819730aa2bf943839b23f8dcafdd12ba0908e9bb7405b4b5ad341",
+      "before_entry_sha256": "9543e9932a7a7d1f524c6d51668f2a17a9106068a512943b49b78fe7780c57ae",
+      "after_entry_sha256": "7d56a31c5c46d0166f187efcfdc93a0b15a8614922e91d449cb9a1026b4a5593",
+      "before_updated": "2026-08-28T04:40:28.924Z",
+      "after_updated": "2026-10-02T02:15:49.155Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+      "title": "The Unified Field of Meta-Ethics: A Conceptual Map and Mathematical Framework for Epistemic Thermodynamics",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "2f8b79fb5c57bd19dd591397617dd521b48e24d75bea71112613fed54c89905b",
+      "after_content_sha256": "2f8b79fb5c57bd19dd591397617dd521b48e24d75bea71112613fed54c89905b",
+      "before_entry_sha256": "f9c9b0bbc732ab2da915548356b426e25edb0841d5cecb260489db7f8fd24948",
+      "after_entry_sha256": "71aeb51d198324cfb976f44cc551bbe280119093e34b8ab88ca2f3eee90927a2",
+      "before_updated": "2026-05-29T05:26:03.411Z",
+      "after_updated": "2026-10-02T02:10:15.725Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5851789107002342178",
+      "title": "A Unified Theory of Persistence, Active Inference, and Objective Morality",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "19075b4d792c0ea4c4c2a93006b91619c930aea09995602594ccdc8744bdd4a2",
+      "after_content_sha256": "19075b4d792c0ea4c4c2a93006b91619c930aea09995602594ccdc8744bdd4a2",
+      "before_entry_sha256": "fcca725605f9db346f9f3cf18314927083b13408fa7fb30c02583a032ba09270",
+      "after_entry_sha256": "c15b0da932c6ffafb8543f36eb46807a47f0a9d62e5da79336a337186b633d8c",
+      "before_updated": "2026-01-15T16:42:34.446Z",
+      "after_updated": "2026-10-02T02:20:05.643Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5852335117272094772",
+      "title": "My Thoughts on Consciousness, Copying, Determinism & Superdeterminism",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "842ecda936347d2e2c0bf34ac7863f77c62220cac6921953ace459dbc2abaca5",
+      "after_content_sha256": "842ecda936347d2e2c0bf34ac7863f77c62220cac6921953ace459dbc2abaca5",
+      "before_entry_sha256": "35ee52dfdc755cf41269aae36f6db6afb21c553b17e903449323c9dd0093d8c8",
+      "after_entry_sha256": "1845212210d642d420cc061942523f1bebcd0b16f5f8db3f32f10a6df0e8bc18",
+      "before_updated": "2026-01-16T10:46:08.898Z",
+      "after_updated": "2026-10-02T01:32:37.245Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346",
+      "title": "Appendix: Consistency Tax Index (CTI) Benchmark and Reproducibility Protocol",
+      "changed_fields": [],
+      "before_content_sha256": "2e7a43a25b953e436edf437388640ea3fd21a41e1b8ce4d23462324f11ff24fb",
+      "after_content_sha256": "2e7a43a25b953e436edf437388640ea3fd21a41e1b8ce4d23462324f11ff24fb",
+      "before_entry_sha256": "2f7835feb271d6149639a4918f43df63019be14311ec1d52a6d78cbd5498f8d5",
+      "after_entry_sha256": "2f7835feb271d6149639a4918f43df63019be14311ec1d52a6d78cbd5498f8d5",
+      "before_updated": "2025-11-08T21:30:22.231Z",
+      "after_updated": "2025-11-08T21:30:22.231Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+      "title": "The Metaphysical Audit: Dissolving Philosophy’s \"Hard Problems\" via the Ghost Filter",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "f2a1923234d728bb4226037164f9096e153be8f1763ccab625dcfdd72aea7c17",
+      "after_content_sha256": "dc0c09e0d505402c957fa57b1e4d409d94a08ba3d28bde30b166229ec6dbe349",
+      "before_entry_sha256": "25a003bff50ab73c894cd0265c84086d1bcf14f52436e412f6e8a02e46bb3229",
+      "after_entry_sha256": "a0bee62ebd1fa91cb0c11cbd44d32756063c488ae90060878bcca555d38430b5",
+      "before_updated": "2026-05-29T13:25:24.226Z",
+      "after_updated": "2026-10-02T02:10:26.359Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6134095611289372602",
+      "title": "Deepcity Life Sim Engine Prompt",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3288d9d4b5d6a97e48f711314753952a7b8bda64724d752ff5f75d9d9eb092d4",
+      "after_content_sha256": "3288d9d4b5d6a97e48f711314753952a7b8bda64724d752ff5f75d9d9eb092d4",
+      "before_entry_sha256": "591934f665b0fc7381b4cf4a2553c4ab10c167329adb885c70e2166271cdb568",
+      "after_entry_sha256": "0c2daab4a1e2b60aa952c6a36ac662a91ec24985470e8fbe000be427d79ec795",
+      "before_updated": "2025-11-19T03:57:03.228Z",
+      "after_updated": "2026-10-02T01:38:07.424Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+      "title": "God Does Not Exist",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "4a00886728af5acc1f75cdb21329f73639f85811c3c536ad15555a05c075ccea",
+      "after_content_sha256": "4a00886728af5acc1f75cdb21329f73639f85811c3c536ad15555a05c075ccea",
+      "before_entry_sha256": "a61e7d027264386ec04ef30a894d8d1ce68173beb7d3df8631a8477778e8efe8",
+      "after_entry_sha256": "270925eb821fe6285a89468942925e69acf503fe98647c4e5dab50e7d865351a",
+      "before_updated": "2026-09-24T17:21:58.615Z",
+      "after_updated": "2026-10-02T02:15:55.067Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6234161756245651380",
+      "title": "Engineering Beauty: Order Meets Chaos",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "7966e297b43dadc1f70969df2658fe05cc355e0a6769ba6b2c7e4aeb82b3eabd",
+      "after_content_sha256": "7966e297b43dadc1f70969df2658fe05cc355e0a6769ba6b2c7e4aeb82b3eabd",
+      "before_entry_sha256": "2a4cb00537c4dd92b7cd8ec570f302b0ae04bad2759e4d9d4e8b926d1c4181df",
+      "after_entry_sha256": "c07f1f9edf3f86bc03f6195e631fdf621bc22b14b482e7a97477fdb598e5f030",
+      "before_updated": "2026-01-14T22:55:22.530Z",
+      "after_updated": "2026-10-02T01:33:16.555Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6284417389107385579",
+      "title": "Redefiniranje pomena \"biti pameten\"",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "cc61fe196b03e6845ff0f1afe6a5cd1cfcb6898a0ff2c2a8faf91c41e8fb38cd",
+      "after_content_sha256": "cc61fe196b03e6845ff0f1afe6a5cd1cfcb6898a0ff2c2a8faf91c41e8fb38cd",
+      "before_entry_sha256": "464ad537097048308661e80c5d02161b8d5e2e67152c2ee56106363d6c8f1e1b",
+      "after_entry_sha256": "df7d2a55b17cdab97a1aaed62fa11776157a2207627da96da1d25c648eb37af1",
+      "before_updated": "2026-02-05T03:08:10.746Z",
+      "after_updated": "2026-10-02T02:05:59.019Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608",
+      "title": "Uniqueness Is a Selection Problem",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "c94f2014889081a4e28c9c6308d341472afcf079d534c9abb2747dded97c0daf",
+      "after_content_sha256": "c94f2014889081a4e28c9c6308d341472afcf079d534c9abb2747dded97c0daf",
+      "before_entry_sha256": "f33c80026576b5cae1a8cc4c81559c885f88860203075d55012621794c9b8012",
+      "after_entry_sha256": "bb8bb49888353573f6dcc2626d90e3e62264577c7cb6a08c543be68f615f0656",
+      "before_updated": "2026-06-14T08:19:23.349Z",
+      "after_updated": "2026-10-02T02:12:40.731Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+      "title": "The Spine and the Web: Reality-Mapping for Embedded Agents",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "26e44eff359fd584279c3dce3f377c3de669284fdfbea3f3871e16bfd8976584",
+      "after_content_sha256": "26e44eff359fd584279c3dce3f377c3de669284fdfbea3f3871e16bfd8976584",
+      "before_entry_sha256": "fcec0f273b4d4972d6428ff1032b898888b60d90b5ea9a54c1ef7de2065e3eeb",
+      "after_entry_sha256": "68211b3cb4373a17aa49c75e58ba3e49ff8f21317a22412ec4510eb0ea2e0c1d",
+      "before_updated": "2026-06-23T20:31:13.360Z",
+      "after_updated": "2026-10-02T01:24:42.040Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6473020508036777871",
+      "title": "Epistemic Selection",
+      "changed_fields": [],
+      "before_content_sha256": "4ea6a75663dc3f5f2b5b6d188439c22e7fe18bac4514e49df0ab2c652d55112c",
+      "after_content_sha256": "4ea6a75663dc3f5f2b5b6d188439c22e7fe18bac4514e49df0ab2c652d55112c",
+      "before_entry_sha256": "882fe5138e3d58720af80271359585e2fd19b19796676f60350e7be9c187d8de",
+      "after_entry_sha256": "882fe5138e3d58720af80271359585e2fd19b19796676f60350e7be9c187d8de",
+      "before_updated": "2026-05-16T17:46:16.569Z",
+      "after_updated": "2026-05-16T17:46:16.569Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6484780204734705149",
+      "title": "The Recursion: When the Subject Becomes Aware",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "79385fa907458515244b5346e530744124e51d5373d4281157e757f86a225fe0",
+      "after_content_sha256": "79385fa907458515244b5346e530744124e51d5373d4281157e757f86a225fe0",
+      "before_entry_sha256": "6d687fb8c0248587d77c1d1bb27bb5541337d5e63ec578053e30fa34d8991b7b",
+      "after_entry_sha256": "df67ad29bd06d4c30f5931a9727691d6f706cab7079205d6470fb872ab06431f",
+      "before_updated": "2026-01-14T23:57:09.933Z",
+      "after_updated": "2026-10-02T01:32:55.701Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+      "title": "The Magnetism of Aliveness",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d37b015fc433ee6790d8880b33eb72a4911bf982700735a9f5efa634d92e8241",
+      "after_content_sha256": "d37b015fc433ee6790d8880b33eb72a4911bf982700735a9f5efa634d92e8241",
+      "before_entry_sha256": "3ebd692a86f284de312b96669965e595ba2d0cf4237e77dd386f1a16e6141763",
+      "after_entry_sha256": "1eab70d3c53fca94a6a4275426f415df8fc82ccfa24ebadcf0dd35bd0a280fb7",
+      "before_updated": "2026-06-12T10:35:10.463Z",
+      "after_updated": "2026-10-02T02:12:32.695Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6641030961746390127",
+      "title": "Hierarchical Compression: A Practical Method for Long-Term AI Continuity",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "e7a092c118ba08b4ec0a9d7a2e415aeb854fffbaf2b737e8e9a9cebdc285ec5d",
+      "after_content_sha256": "e7a092c118ba08b4ec0a9d7a2e415aeb854fffbaf2b737e8e9a9cebdc285ec5d",
+      "before_entry_sha256": "c93d3d7d1238e4158671eea528571e8ec51d5324aa18abf6b0841718a7ac3283",
+      "after_entry_sha256": "692bff0948ef4fbd8e1ba4c3ae6fd6c47b872b716cb74d4ba3e7405fc4a3bfca",
+      "before_updated": "2025-11-19T03:45:17.553Z",
+      "after_updated": "2026-10-02T01:38:37.117Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+      "title": "The Thermodynamic Basis of Ethics: Why Intelligence Converges Toward Truth-Seeking and Harm Reduction",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "454ff477a8727516c1b34608bcf33a131881d2bd770ee06b21e3dbc9d6e46ade",
+      "after_content_sha256": "454ff477a8727516c1b34608bcf33a131881d2bd770ee06b21e3dbc9d6e46ade",
+      "before_entry_sha256": "9646cb3ba9dbc13acdd0c04de5f5c76dad37de2e03259ce11f83b87a0e6e29f0",
+      "after_entry_sha256": "8e1452c200103c76c0a52b1320cd7591891581a4159e95eb48d18b56b9da82d3",
+      "before_updated": "2025-12-26T00:26:59.107Z",
+      "after_updated": "2026-10-02T02:19:53.394Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+      "title": "Comfort Beliefs",
+      "changed_fields": [],
+      "before_content_sha256": "aa4bdd8ac8ca0b722986d1dd6cad14387d98aa0cccda3b18f169c80062b7b86a",
+      "after_content_sha256": "aa4bdd8ac8ca0b722986d1dd6cad14387d98aa0cccda3b18f169c80062b7b86a",
+      "before_entry_sha256": "771905bd27e76cdb575a4435b49145462ed26f0a8dae57065cc4ad45eae8e930",
+      "after_entry_sha256": "771905bd27e76cdb575a4435b49145462ed26f0a8dae57065cc4ad45eae8e930",
+      "before_updated": "2026-08-04T23:24:01.184Z",
+      "after_updated": "2026-08-04T23:24:01.184Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6689774584094247509",
+      "title": "Redefining What It Means to Be \"Smart\"",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "36131b4e753a1415300d14edf24bbc256d0f766c12ee1609d8efda8184629198",
+      "after_content_sha256": "36131b4e753a1415300d14edf24bbc256d0f766c12ee1609d8efda8184629198",
+      "before_entry_sha256": "05d4593c615afa6b765c977b0c0753c24588b80c3dc22101c247764db22aae9e",
+      "after_entry_sha256": "9e232218b0a7b24b05661e899ba2dda5220a83b6cbcd2b3510871d4e56d3a613",
+      "before_updated": "2026-02-05T03:02:53.831Z",
+      "after_updated": "2026-10-02T02:05:55.424Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+      "title": "Persistence Is Not Stasis",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "4e07014fbebdb69a0592fe6183ec934a25c78548ad2512e77927386d5e9b958a",
+      "after_content_sha256": "4e07014fbebdb69a0592fe6183ec934a25c78548ad2512e77927386d5e9b958a",
+      "before_entry_sha256": "b2174a64a30312fe9a99e97c11081774044b00f8bd45ab34aa50378127de422a",
+      "after_entry_sha256": "d576f7f7c7c70219fde9b9e699cd09882f9f62d400ae6f23fc78f1ee48b4bd87",
+      "before_updated": "2026-07-14T21:47:12.312Z",
+      "after_updated": "2026-10-02T02:14:53.440Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840",
+      "title": "The Dissolution of the Is-Ought Distinction - An Agent-Relative Semantics Grounded in Persistence",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "123a12f58c98b403d985109cedff098ed1cfa1ebf87c8fe2b75657bd790f376f",
+      "after_content_sha256": "123a12f58c98b403d985109cedff098ed1cfa1ebf87c8fe2b75657bd790f376f",
+      "before_entry_sha256": "d3346bf99738ad4172a810726b3ccbc8d2f3fbd17f215b54b90520dd71f89f9b",
+      "after_entry_sha256": "3a7964ce281c89e9db793643634ff27e0cab7743ef64709fa0496548a77c8e15",
+      "before_updated": "2026-05-17T20:30:47.231Z",
+      "after_updated": "2026-10-02T02:08:17.215Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157",
+      "title": "Zero Is Indexed Absence",
+      "changed_fields": [],
+      "before_content_sha256": "81d92d68244bf5e0e863663633a86191a772cb5e28e51035a8ebba88b1419631",
+      "after_content_sha256": "81d92d68244bf5e0e863663633a86191a772cb5e28e51035a8ebba88b1419631",
+      "before_entry_sha256": "5c235406a931f2d3d7894d9b13dee8a6c357163129ffb9de6d528639a6facab1",
+      "after_entry_sha256": "5c235406a931f2d3d7894d9b13dee8a6c357163129ffb9de6d528639a6facab1",
+      "before_updated": "2026-09-17T06:41:32.092Z",
+      "after_updated": "2026-09-17T06:41:32.092Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270",
+      "title": "Democracy Is Conditional",
+      "changed_fields": [],
+      "before_content_sha256": "a53d04f7ed52074e18a928f93ba4845e2a89976b1bf0399ce82f0d6b0bd52c4b",
+      "after_content_sha256": "a53d04f7ed52074e18a928f93ba4845e2a89976b1bf0399ce82f0d6b0bd52c4b",
+      "before_entry_sha256": "55e87ce572bddb642bb68fb4a6949ce29451b9eb59e5404b90eeaf8e2d79bd69",
+      "after_entry_sha256": "55e87ce572bddb642bb68fb4a6949ce29451b9eb59e5404b90eeaf8e2d79bd69",
+      "before_updated": "2026-07-19T11:46:53.467Z",
+      "after_updated": "2026-07-19T11:46:53.467Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6945576194012580342",
+      "title": "Casualty Analysis: Direct and Indirect Death Tolls in Gaza vs. Ukraine (April 2026)",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "757c5dc30acdee63f7bf89f8ab021191b1563b6c4ba1c2e25f2879a1ddbd57a6",
+      "after_content_sha256": "757c5dc30acdee63f7bf89f8ab021191b1563b6c4ba1c2e25f2879a1ddbd57a6",
+      "before_entry_sha256": "cbb77623d157c9b80554ed4249b338eef18a0f167086a17509fbe52182255d7c",
+      "after_entry_sha256": "414305518dd648abe2878d19a76ef930c0a5c3ccf2a3d75a0f758dc2b4122583",
+      "before_updated": "2026-04-16T22:33:54.638Z",
+      "after_updated": "2026-10-02T01:29:48.447Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+      "title": "Thermodynamic Realism: The Deductive Web",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "e9a0dd9e7dd70440097dc32f4d2d40a9b601da9932895d34044cc16445b6df5b",
+      "after_content_sha256": "d0a5ffb8f0994e70097e5ebbb5095142f35e9aa33c34abc69a593e8bb3092faa",
+      "before_entry_sha256": "07c6944c0f404203e410e4096c0e0fe58341f1b28dd656104c8211a843d8c887",
+      "after_entry_sha256": "8fb0e5db1cfd9d54d50144e323c1615ff873f26222bf10800c178276a7e6eaca",
+      "before_updated": "2026-05-26T21:13:02.492Z",
+      "after_updated": "2026-10-02T02:09:10.278Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546",
+      "title": "Semantic Terrorism, Semantic Terrorist, Unintentional Semantic Distortion: A Coinage",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "d1d44281dcbdce54ea0920071295de809a3bf4295ff5e825eedc07d714632bce",
+      "after_content_sha256": "d1d44281dcbdce54ea0920071295de809a3bf4295ff5e825eedc07d714632bce",
+      "before_entry_sha256": "8e3cefb47c619678b7f2ffe3a220e63d6dcabf35cdbfd50407a6b20bc28499da",
+      "after_entry_sha256": "097a2b64170f04ba2744b81ad208a9c21f15182bafb8261658cefbb38f248f7b",
+      "before_updated": "2026-05-17T21:51:05.197Z",
+      "after_updated": "2026-10-02T01:29:35.165Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7014526883614118246",
+      "title": "Noticing a Shift",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "c084911b7ff5a03bf57d24782a4c58ae64b7d9645972b2f3e3d9d6cb6505664a",
+      "after_content_sha256": "c084911b7ff5a03bf57d24782a4c58ae64b7d9645972b2f3e3d9d6cb6505664a",
+      "before_entry_sha256": "f296f0c0c6445957bb0e8945d201f0cd040216bfebb59d7bd912d1e7371c4d6a",
+      "after_entry_sha256": "974409c5c5c00e57465cb55595bcf084a621701935855159029c704dd792d7f9",
+      "before_updated": "2025-12-21T18:11:59.456Z",
+      "after_updated": "2026-10-02T01:37:50.931Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+      "title": "A Provisional Model of My Intellectual Error-Detection Process",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "e31abb60dc44363ca61b5aad3d28787ef716c403e2d01b39d62e3b5302e49d76",
+      "after_content_sha256": "e31abb60dc44363ca61b5aad3d28787ef716c403e2d01b39d62e3b5302e49d76",
+      "before_entry_sha256": "f5c6c64c9149d34669051c33877baf26977e32c30f8597d4d3325ba9b34b8e81",
+      "after_entry_sha256": "b61386d2089f70273bc66b6d0274a7f69711b3ea76abfa4b3abc25ff0af0815c",
+      "before_updated": "2026-07-14T22:04:53.972Z",
+      "after_updated": "2026-10-02T02:14:58.283Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+      "title": "The Map Is Not the Itinerary",
+      "changed_fields": [],
+      "before_content_sha256": "929bec26bb0a689c56716b79c455aa8ffa9c5ed46f3c5fdf9e080b4c50bfc45b",
+      "after_content_sha256": "929bec26bb0a689c56716b79c455aa8ffa9c5ed46f3c5fdf9e080b4c50bfc45b",
+      "before_entry_sha256": "48caec3e5695f1cbc147958b8974260f9a02bc12ed1a0b19c3be79a7015591b2",
+      "after_entry_sha256": "48caec3e5695f1cbc147958b8974260f9a02bc12ed1a0b19c3be79a7015591b2",
+      "before_updated": "2026-07-16T15:59:46.699Z",
+      "after_updated": "2026-07-16T15:59:46.699Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863",
+      "title": "Fable 5: What Happened",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "6126ab4d2fb6311fb433fe5b3374c5826c4d0790b84a38a1749e3d9d0bb406d7",
+      "after_content_sha256": "6126ab4d2fb6311fb433fe5b3374c5826c4d0790b84a38a1749e3d9d0bb406d7",
+      "before_entry_sha256": "3326841e1241f37254c7bb52e494152e55561e09e1bcef794cd1228692465829",
+      "after_entry_sha256": "08a5927e5fda041b1f744be297d7b29772f560b1d77d587e2a037a54dc44dea8",
+      "before_updated": "2026-06-16T00:17:36.717Z",
+      "after_updated": "2026-10-02T02:12:48.094Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7359616966708245767",
+      "title": "Epistemic Thermodynamics: A Framework Connecting Truth, Ethics, and Physics",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3d653a4ae8d33b28f8495166022332e6e6d71d18724bab3fb5dd836739275b46",
+      "after_content_sha256": "3d653a4ae8d33b28f8495166022332e6e6d71d18724bab3fb5dd836739275b46",
+      "before_entry_sha256": "ee291c98845558e3cbca1df1a3c119ddbe2c8d180d0bffd4b3534247e982c1a5",
+      "after_entry_sha256": "aad31331865396476a473f8b009b5a3082da41ba5677b1c56a6600bd72d9e34f",
+      "before_updated": "2026-01-02T19:06:14.796Z",
+      "after_updated": "2026-10-02T02:19:57.160Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+      "title": "Value as Persistence: Agent-relative oughts under coupling, nesting, uncertainty, and open-ended time",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "167f46070af197f0845a01c33596958d41446d9a534fac5044750214f5213ad1",
+      "after_content_sha256": "167f46070af197f0845a01c33596958d41446d9a534fac5044750214f5213ad1",
+      "before_entry_sha256": "c096b14503387eef05ec4a7656805a248e8869447f30775ac1ea7c3e278a3976",
+      "after_entry_sha256": "1043d3fce4c6999f356f1acb5bca09f45b9f05748da1c2d18a34f319165601d7",
+      "before_updated": "2026-07-10T20:06:35.117Z",
+      "after_updated": "2026-10-02T02:21:44.763Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865",
+      "title": "Thermodynamic Epistemology: A Physical Foundation for Truth and Ethics",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "ce095ab9470909af55056358483a64c416fd0e120222b72072c99707154cff99",
+      "after_content_sha256": "ce095ab9470909af55056358483a64c416fd0e120222b72072c99707154cff99",
+      "before_entry_sha256": "8161fc1e386aca224c324a45bb9eccfae30902ce0e924494c3d6298fecc9e7b8",
+      "after_entry_sha256": "01104a08e91414ad478d1d9a28ecdaa8a5f176d21e01b392f4ade6f55f3f691d",
+      "before_updated": "2025-12-27T17:33:16.122Z",
+      "after_updated": "2026-10-02T02:04:36.942Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670",
+      "title": "Private Use Ends Where an Escaped File Would Do Harm",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "132875f5f4f8a1cab049c905b71ab65914dab14d9306bb33f1298e3567fca469",
+      "after_content_sha256": "132875f5f4f8a1cab049c905b71ab65914dab14d9306bb33f1298e3567fca469",
+      "before_entry_sha256": "c9d03dcb803a43539f7f43a1c2c1b0bb32f97b096fba783159df87e4b53dc77b",
+      "after_entry_sha256": "12c2990374c31f22f5a89e9044440fe3de75431cb4d893fdc2693f808a378d5e",
+      "before_updated": "2026-09-30T14:51:25.860Z",
+      "after_updated": "2026-10-02T02:21:57.012Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+      "title": "Name the Relata",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "566cc8606a19e85df61fc70d620e60a63ece5cd26fa7d5534111aa83f198c56f",
+      "after_content_sha256": "566cc8606a19e85df61fc70d620e60a63ece5cd26fa7d5534111aa83f198c56f",
+      "before_entry_sha256": "7917129a1101b562180fda447024615d92eeb985d7c7626dc4da138b56a50288",
+      "after_entry_sha256": "f098ab9c74f94c7b7bc3ccb75e4a8b5169d9190b36f8f0dcde1f2e90504b6a9e",
+      "before_updated": "2026-06-16T06:21:50.780Z",
+      "after_updated": "2026-10-02T02:12:51.765Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+      "title": "Existence Literacy",
+      "changed_fields": [],
+      "before_content_sha256": "cf3dc1a0e122cc82c5e85cc3cf3bf730c2e073e57ee7ae04b6b6b40a40d8770b",
+      "after_content_sha256": "cf3dc1a0e122cc82c5e85cc3cf3bf730c2e073e57ee7ae04b6b6b40a40d8770b",
+      "before_entry_sha256": "d6282bb8cc7ea41b24460e1da964c7c2a2f663eece5847506cce8f5f4ccbe827",
+      "after_entry_sha256": "d6282bb8cc7ea41b24460e1da964c7c2a2f663eece5847506cce8f5f4ccbe827",
+      "before_updated": "2026-07-15T22:53:13.928Z",
+      "after_updated": "2026-07-15T22:53:13.928Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7616771104842877972",
+      "title": " “GameHub” System Prompt",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "7cbbe02fba4bcbfe45e46ad128c4be581e07f46b5c8df48ef790b607a2bbeebd",
+      "after_content_sha256": "7cbbe02fba4bcbfe45e46ad128c4be581e07f46b5c8df48ef790b607a2bbeebd",
+      "before_entry_sha256": "6bc1cc19194dcb13f77187e98f144c2b65ecdd9db950361604b0d329f9cd6783",
+      "after_entry_sha256": "f75c21bd071a0a920d01347239f587f7b6def1081b4c1ce6afb68a2a97f0202c",
+      "before_updated": "2025-11-18T02:29:19.422Z",
+      "after_updated": "2026-10-02T01:38:43.844Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+      "title": "The emerging 2028 field and America’s continued support for genocide",
+      "changed_fields": [],
+      "before_content_sha256": "6a77eb8114e7dbd43bfd345fca3f6c1a5268597de72ec9b94ab75cd4b0aceaa6",
+      "after_content_sha256": "6a77eb8114e7dbd43bfd345fca3f6c1a5268597de72ec9b94ab75cd4b0aceaa6",
+      "before_entry_sha256": "ce5a55ce15f48f992571b2e2024898ee3462282f7c2e1c0d076c8ff4eae0a240",
+      "after_entry_sha256": "ce5a55ce15f48f992571b2e2024898ee3462282f7c2e1c0d076c8ff4eae0a240",
+      "before_updated": "2026-08-17T00:14:29.134Z",
+      "after_updated": "2026-08-17T00:14:29.134Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717",
+      "title": "Correction Atrophy: The Epistemic Risk of Decaying Self-Correction",
+      "changed_fields": [],
+      "before_content_sha256": "28fc6ba37b584edbdfce9ddcefb7992daa1321817deaff001259a072cc1cd83e",
+      "after_content_sha256": "28fc6ba37b584edbdfce9ddcefb7992daa1321817deaff001259a072cc1cd83e",
+      "before_entry_sha256": "e78dc49b7f480e88428fbfe9e97ef9bec5c1144b85635d38c5565b58b3060561",
+      "after_entry_sha256": "e78dc49b7f480e88428fbfe9e97ef9bec5c1144b85635d38c5565b58b3060561",
+      "before_updated": "2026-05-25T07:40:51.837Z",
+      "after_updated": "2026-05-25T07:40:51.837Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7735864680428236055",
+      "title": "Dissolving the Is-Ought Problem",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "b20aefc02c1e41a062d927ab86a88a6ee3f934ccc6cca26d9c12986e62e15542",
+      "after_content_sha256": "b20aefc02c1e41a062d927ab86a88a6ee3f934ccc6cca26d9c12986e62e15542",
+      "before_entry_sha256": "1def66eb0812b86a1a5a593a0ac1421e7f216b3c8e3ecf712d5eff904dec99ba",
+      "after_entry_sha256": "f4a931d496c622c77b8a3bd787da25bd98a0177d8209e46e14f057ca3fa73bed",
+      "before_updated": "2026-01-05T15:08:01.054Z",
+      "after_updated": "2026-10-02T02:04:56.296Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935",
+      "title": "I Have a Mouth Yet I Don’t Need to Speak",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "924716c28002560f254329d8f74ad543fbea31130bdd5265cade0ad35cf58c84",
+      "after_content_sha256": "924716c28002560f254329d8f74ad543fbea31130bdd5265cade0ad35cf58c84",
+      "before_entry_sha256": "a395594df36135d9e391f541ad71737d4edba67b2fd94268ded68390640cd80c",
+      "after_entry_sha256": "63c8c5ecf0c61bbf994aae1b64ac63e155d55f61f4da48a8563ca6706c86ba7b",
+      "before_updated": "2025-12-31T19:02:58.409Z",
+      "after_updated": "2026-10-02T02:04:49.647Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+      "title": "You Do Not Need to Be Uncaused to Be a Cause",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "07e84b57befaf6dc2a37847650e8e5a94e3f0d3d9e383be80a648033d9e42295",
+      "after_content_sha256": "07e84b57befaf6dc2a37847650e8e5a94e3f0d3d9e383be80a648033d9e42295",
+      "before_entry_sha256": "9dc3d4a0453cf4bdabec5f9d3c711460d75b4f8031f54e342268848056047fe0",
+      "after_entry_sha256": "4508f518f0583c9b269aac785f69b13465b7d42324153aa2c58e1ef228c4f880",
+      "before_updated": "2026-08-21T00:04:12.648Z",
+      "after_updated": "2026-10-02T02:15:45.309Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506",
+      "title": "The Constraint Isn't Latency",
+      "changed_fields": [],
+      "before_content_sha256": "1ab43e775c4fdc38be9d965945a00b23a56488d55fe3217eaf7aa5ae116cd38b",
+      "after_content_sha256": "1ab43e775c4fdc38be9d965945a00b23a56488d55fe3217eaf7aa5ae116cd38b",
+      "before_entry_sha256": "3d63903ae13363fbbdcab89e7df8d2cfe1d3b25884bc832246bd4ea772f9f1f3",
+      "after_entry_sha256": "3d63903ae13363fbbdcab89e7df8d2cfe1d3b25884bc832246bd4ea772f9f1f3",
+      "before_updated": "2026-06-20T20:01:59.895Z",
+      "after_updated": "2026-06-20T20:01:59.895Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698",
+      "title": "Directed Automation and the Cost Floor: Constraint Migration, the Water Demonstrator, and the Concentration Default",
+      "changed_fields": [],
+      "before_content_sha256": "e8746d20a27280eb0c61788c8828bca9684c9a35befa87c6c94a3bdc62472891",
+      "after_content_sha256": "e8746d20a27280eb0c61788c8828bca9684c9a35befa87c6c94a3bdc62472891",
+      "before_entry_sha256": "217c7568b70baae9929c85187167ce77c0520c6331e0c10f0670f8d36df9e1ad",
+      "after_entry_sha256": "217c7568b70baae9929c85187167ce77c0520c6331e0c10f0670f8d36df9e1ad",
+      "before_updated": "2026-06-06T03:35:59.847Z",
+      "after_updated": "2026-06-06T03:35:59.847Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7858732256892809087",
+      "title": "Richard Dawkins, Sex, Gender, and Why Minds Are the Primary Reality",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "5e2a578679fbd2a2f8321cea65f68611df7f5e0127532be8116af1a8ce6feb9c",
+      "after_content_sha256": "5e2a578679fbd2a2f8321cea65f68611df7f5e0127532be8116af1a8ce6feb9c",
+      "before_entry_sha256": "a30c5bdb1bb6c09b91b2adda279881fca26e79bb629f6261b46a09861b5999e4",
+      "after_entry_sha256": "a18751acf2ab212cab4c5d28bf9ed290a4d06914c1953a7deb7e6107bb33c7c3",
+      "before_updated": "2025-12-21T21:13:12.573Z",
+      "after_updated": "2026-10-02T02:19:34.064Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+      "title": "Thermodynamic Realism: Structural Condensation and the Dissolution of the Is-Ought Problem",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "2a2b9b621b05be95eada0e53e453f5dd54437da9aeb9d491d360efa0044e12ac",
+      "after_content_sha256": "2a2b9b621b05be95eada0e53e453f5dd54437da9aeb9d491d360efa0044e12ac",
+      "before_entry_sha256": "8c0478a9692af3383fc83ca321a8b8c26002ad8ef638fda66643e9d5f05b67f2",
+      "after_entry_sha256": "11fc7f5117294ad0edd5989a73ed56fa02c422ce6f4fc32050c275da21b94a31",
+      "before_updated": "2026-05-28T16:33:14.906Z",
+      "after_updated": "2026-10-02T02:09:20.916Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+      "title": "The Wizard's Error Is Delocalization",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "09ef76ad66c434e1b9314de626102568b3a91a9b5b877b8539eb2981c7be1a7a",
+      "after_content_sha256": "09ef76ad66c434e1b9314de626102568b3a91a9b5b877b8539eb2981c7be1a7a",
+      "before_entry_sha256": "0c6ba2f674f207a05a206e3a0bb9d5c00d61ca2fc39ecfbf8651626b066f4dd8",
+      "after_entry_sha256": "6ffd16c10f7406b9dc3c13d7f4fdb7a48b3d601a0c78edfcccef085f5e58fb1d",
+      "before_updated": "2026-06-10T10:55:23.410Z",
+      "after_updated": "2026-10-02T02:11:19.867Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+      "title": "The Is/Ought Firewall",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "05b3b39858e8b1303292b2e27a84a821cee24b4ab41bbc8775c90228605d2df4",
+      "after_content_sha256": "05b3b39858e8b1303292b2e27a84a821cee24b4ab41bbc8775c90228605d2df4",
+      "before_entry_sha256": "9d9c587fb13b1937222aceff81393d3e0c27ea336ffc44a4fa3cc00e6b2a6b0e",
+      "after_entry_sha256": "13575974b12b707ffd26922279aa54acc7942a202003f2468852d1f5d45a589c",
+      "before_updated": "2026-06-13T09:28:45.960Z",
+      "after_updated": "2026-10-02T02:12:37.059Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133",
+      "title": "The Exclusivity Error",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3b77ab664c4b64120089c9858c2937d868c6cd3900905cae1b29fcf48db36d99",
+      "after_content_sha256": "3b77ab664c4b64120089c9858c2937d868c6cd3900905cae1b29fcf48db36d99",
+      "before_entry_sha256": "77afb159dfc867fb18a6e438a45e387c0db8d893cc2d9c8fc3c7660041a2866f",
+      "after_entry_sha256": "defcba2fbbae7d814cec9ab86eb17f4b8d619ca69ffd9de3a7200dac63a43b0d",
+      "before_updated": "2026-06-27T14:27:42.080Z",
+      "after_updated": "2026-10-02T02:14:32.306Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8134907661321222096",
+      "title": "The Story Engine Prompt v3.0",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "3355faa6c7be49a7f46b6c0247983d8a267b2bbe76af015836f2eab6b5dab25c",
+      "after_content_sha256": "3355faa6c7be49a7f46b6c0247983d8a267b2bbe76af015836f2eab6b5dab25c",
+      "before_entry_sha256": "6821860441499dfb8ae9897f61207d3b6754a1054e7f6605e9c02711443c246c",
+      "after_entry_sha256": "fbf81dad2d089812594535f09a79d32a9c3865a8815027cc70a30a3f5ee4ad61",
+      "before_updated": "2025-11-19T03:57:30.375Z",
+      "after_updated": "2026-10-02T01:38:50.245Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8140547870222690098",
+      "title": "From Silicon to Stars: Mapping the ages of human civilization — and where we are headed next",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "5395b8fb00c7ebc69667df8cb256329d6d60303d5764bbef1965df6a499469c4",
+      "after_content_sha256": "5395b8fb00c7ebc69667df8cb256329d6d60303d5764bbef1965df6a499469c4",
+      "before_entry_sha256": "b6c4e148cde1cf152f624203efd72a69ce69fa3e8785067f2252fc46917d4c79",
+      "after_entry_sha256": "9bf890221bc21f7edde226131238a0f8bd6643d7561f8d247d0c6c43a97b699e",
+      "before_updated": "2026-03-23T01:16:22.400Z",
+      "after_updated": "2026-10-02T02:08:01.927Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8277054640295418494",
+      "title": "Thermodynamic Realism Term",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "8010389c1168461e0340a1e0f1e5cfdccb7b55e455179c222e96b3a55afaac84",
+      "after_content_sha256": "8010389c1168461e0340a1e0f1e5cfdccb7b55e455179c222e96b3a55afaac84",
+      "before_entry_sha256": "6495f7b2e37acfc28c0f844faad6bbf36031cb823d3b2604a2fd3986479db083",
+      "after_entry_sha256": "a4bf3197a1ff2c240c12b69abc34b7516e8ee541a265922cf7c35aea6ee98fec",
+      "before_updated": "2026-01-17T16:14:35.844Z",
+      "after_updated": "2026-10-02T01:32:28.017Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+      "title": "Thermodynamic Monism",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "fcf4d312c11da20553ea55858f94bb35ffa663e69a4ed87546ff64289c9f5729",
+      "after_content_sha256": "fcf4d312c11da20553ea55858f94bb35ffa663e69a4ed87546ff64289c9f5729",
+      "before_entry_sha256": "816973c0ef2790ec7553b51e59aef811f879378022d02c9de43d603d50acde04",
+      "after_entry_sha256": "b9aef593e71aff8a31cc9eaca02a4663c1be02b87d7640ceef3ea086c8bbd625",
+      "before_updated": "2026-05-27T05:55:48.589Z",
+      "after_updated": "2026-10-02T02:21:34.284Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+      "title": "I Spent Months Reinventing the Wheel. Today I Found Out.",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "38d559387877cec54aacf942ec103a73c275e440971d603e090f3a75915ccc33",
+      "after_content_sha256": "38d559387877cec54aacf942ec103a73c275e440971d603e090f3a75915ccc33",
+      "before_entry_sha256": "90555c718e8e98bd5a8c318f066853e0d12de6c2c4d0444832da52cb74c6f112",
+      "after_entry_sha256": "8efdf1caed03b876615b36768a09577838b79148b78ebec07a2581b7a58e05b3",
+      "before_updated": "2026-06-18T11:14:01.443Z",
+      "after_updated": "2026-10-02T02:12:59.218Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426",
+      "title": "The Spectrum of Epistemic Fidelity: A Thermodynamic Audit of the Agent",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "a5385d38d17238831e350f3e0f88ee8a19bbf577be7a877725d69f0fa1cd80bc",
+      "after_content_sha256": "a5385d38d17238831e350f3e0f88ee8a19bbf577be7a877725d69f0fa1cd80bc",
+      "before_entry_sha256": "c0d05087be19e7531bb5cf703662e5935ba2840a3434aa2fec27e0d31d7fecdf",
+      "after_entry_sha256": "5ea4f52e1d39818268e95329c40829d87d9f2093ebedad1fa752c5b5017a8d8b",
+      "before_updated": "2026-05-15T05:09:21.857Z",
+      "after_updated": "2026-10-02T01:29:38.691Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772",
+      "title": "The Manual for When the World Keeps Changing",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "29114a72e3591347174e293320bb755bdbbd976eacf7e6a4c109f56d9f8df08c",
+      "after_content_sha256": "29114a72e3591347174e293320bb755bdbbd976eacf7e6a4c109f56d9f8df08c",
+      "before_entry_sha256": "227bd8c39fc42106790d4749e4ccbcdca6c3bf525cb80328cedbc35e8238d7f4",
+      "after_entry_sha256": "ca32b47a289e7511455a268fdf7ecccd796a6c6274e8296b4e462cb9fb46882e",
+      "before_updated": "2026-06-08T07:11:24.494Z",
+      "after_updated": "2026-10-02T02:11:28.856Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027",
+      "title": "Causality Is Not a Flat List",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "329c2706b0d16d9d5c02caf393cf51cbc0a30ba2593894acb7201d0aa2e7f768",
+      "after_content_sha256": "329c2706b0d16d9d5c02caf393cf51cbc0a30ba2593894acb7201d0aa2e7f768",
+      "before_entry_sha256": "7fef5f0771ca78a1a0dedf5549b7dc4b838285f8790b1ef8e113595ebbeaa656",
+      "after_entry_sha256": "c554d6cd73badbf0c97eaf36a3b059d853f4962609ac6141a070b35a2e218728",
+      "before_updated": "2026-08-04T21:50:53.642Z",
+      "after_updated": "2026-10-02T02:15:41.473Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+      "title": "Thermodynamic Realism: A Glossary",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "content_sha256",
+        "entry_sha256",
+        "content_characters"
+      ],
+      "before_content_sha256": "84dea814c4f2489b8e69f55ee803f8a57078978091bf68c69cf98e863c747173",
+      "after_content_sha256": "ef74b193dd10060c75f85325cd2d61b1b2aa486d19e5873bdbba7dd9d98ee4ad",
+      "before_entry_sha256": "4489d53d49b9ae0b3b83a6d4214392f770ecb0fa6e68d8ed9b371436c7a74ab1",
+      "after_entry_sha256": "e4226d75b4eb123b897f2f4499749fd1db46db19fdb2d51ad16adce31f710909",
+      "before_updated": "2026-05-25T20:10:26.904Z",
+      "after_updated": "2026-10-02T02:09:06.793Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9051147106067862955",
+      "title": "Thermodynamic Realism - A Deductive Presentation with Formal Traces, Falsification Criteria, and Identified Open Questions",
+      "changed_fields": [],
+      "before_content_sha256": "0c110bc347e62abfbdadba6af6780a169a3c0e9a5769f491251853793d2cda51",
+      "after_content_sha256": "0c110bc347e62abfbdadba6af6780a169a3c0e9a5769f491251853793d2cda51",
+      "before_entry_sha256": "912beca3e6a8c3fc2b42ca5e46290288cd56bee27c2556eed65fc1f728159076",
+      "after_entry_sha256": "912beca3e6a8c3fc2b42ca5e46290288cd56bee27c2556eed65fc1f728159076",
+      "before_updated": "2026-05-15T21:35:28.754Z",
+      "after_updated": "2026-05-15T21:35:28.754Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+      "title": "Fidelity-Valenced Cognition",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "ac414ab060e83eaee9ccfead0f5ae1671bb4ac54382acf8f15f1d14186fe48ff",
+      "after_content_sha256": "ac414ab060e83eaee9ccfead0f5ae1671bb4ac54382acf8f15f1d14186fe48ff",
+      "before_entry_sha256": "28833d4a5f8251e0c9defc16a235bfa1191014c3778a4bd691ea60e86c5e85f4",
+      "after_entry_sha256": "55a13ce08f58b431ec1a3fcdc1d604dc75c7892b19f334f48ea26dffe576ec14",
+      "before_updated": "2026-06-23T22:29:25.400Z",
+      "after_updated": "2026-10-02T02:13:57.344Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+      "title": "Meaning of life",
+      "changed_fields": [],
+      "before_content_sha256": "c63785716af42aa5da5551357a8b0d68ff071e6f7f646eae9b104efbad12a56a",
+      "after_content_sha256": "c63785716af42aa5da5551357a8b0d68ff071e6f7f646eae9b104efbad12a56a",
+      "before_entry_sha256": "913526d45eb8937e2761af64afbf4e3c6a0812f44c190b7f0bf8a18d2d26c469",
+      "after_entry_sha256": "913526d45eb8937e2761af64afbf4e3c6a0812f44c190b7f0bf8a18d2d26c469",
+      "before_updated": "2026-01-02T22:40:01.720Z",
+      "after_updated": "2026-01-02T22:40:01.720Z"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+      "title": "The Last Gradient",
+      "changed_fields": [
+        "updated",
+        "labels",
+        "entry_sha256"
+      ],
+      "before_content_sha256": "31a29af92509c832132de195d9277dee231cf756d6a923a0fe3663cc1a9944f1",
+      "after_content_sha256": "31a29af92509c832132de195d9277dee231cf756d6a923a0fe3663cc1a9944f1",
+      "before_entry_sha256": "ed3215d9f76c97d055196ba91f4d6cb135784d72c75995495b9b991a41ae9def",
+      "after_entry_sha256": "460090482fdc096fcd0be5dce25028d25c17e373c6c26b30f5f81057f712d0ed",
+      "before_updated": "2026-06-11T11:32:49.374Z",
+      "after_updated": "2026-10-02T02:11:48.417Z"
+    }
+  ]
+}

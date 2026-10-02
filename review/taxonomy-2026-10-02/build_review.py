@@ -74,7 +74,7 @@ def read_posts(data):
     return result
 
 
-raw = (ROOT / 'feed.atom').read_bytes()
+raw = (ROOT / 'snapshots/2026-10-02/feed.atom').read_bytes()
 assert digest(raw) == D['source_atom_sha256'], 'Source changed: reconcile before rebuilding'
 POSTS = read_posts(raw)
 P = {p['ordinal']: p for p in POSTS}
@@ -348,7 +348,7 @@ html += '</section><h2>Application sequence</h2><ol><li>Review the proposed batc
 
 report = f'''# Epistemic Forge: taxonomy and version-lineage review
 
-Proposal against source commit `{D['source_commit']}` and Atom SHA-256 `{D['source_atom_sha256']}`. No source or live-site edits applied.
+Historical proposal against source commit `{D['source_commit']}` and Atom SHA-256 `{D['source_atom_sha256']}`. Its proposal-status fields describe the package when issued. The subsequent approved application and final export verification are recorded under [`applied/2026-10-02`](../../applied/2026-10-02/README.md).
 
 Open `review.html` for the readable report, complete searchable 448-label map, lineage table, proposed notices, missing-label suggestions and source excerpts.
 
@@ -393,7 +393,7 @@ Only context-supported aliases are merged. Related labels such as alignment vari
 - `issues-and-notices.json`: issue list and dated-notice drafts; ambiguous attributions remain marked.
 - `evidence.json`: exact excerpt offsets in deterministically extracted text, source IDs and hashes.
 - `coverage.json`: scope, limits and quantitative dry-run totals.
-- `build_review.py`: reproduces this proposal from the unchanged repository feed and legacy snapshots. It makes no network requests and never edits those feeds.
+- `build_review.py`: reproduces this proposal from the fixed pre-cleanup snapshot at `snapshots/2026-10-02/feed.atom` and the legacy snapshots. It makes no network requests and never edits those feeds.
 
 ## Applying later
 
@@ -402,7 +402,7 @@ Review the batches separately. Before changing live labels, take a fresh backup 
 This package is ready for review, not evidence that the corpus's arguments or cited external sources have been validated.
 '''
 (HERE / 'README.md').write_text(report)
-assert digest((ROOT / 'feed.atom').read_bytes()) == D['source_atom_sha256']
+assert digest((ROOT / 'snapshots/2026-10-02/feed.atom').read_bytes()) == D['source_atom_sha256']
 files = {p.name: dict(bytes=p.stat().st_size, sha256=digest(p.read_bytes())) for p in HERE.iterdir() if p.is_file() and p.name != 'package-manifest.json'}
 (HERE / 'package-manifest.json').write_text(json.dumps(dict(source_commit=D['source_commit'], source_atom_sha256=D['source_atom_sha256'], files=files, source_unchanged=True, all_excerpts_verified=True, all_label_mappings_covered=True), indent=2) + '\n')
 print(json.dumps(coverage, ensure_ascii=False, indent=2))

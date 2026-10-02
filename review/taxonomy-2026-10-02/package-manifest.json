@@ -7,12 +7,12 @@
       "sha256": "ff1f4a79cc175e68c96feaf73ba625ccef7079555fa2b8081f4e17da633ad7e0"
     },
     "README.md": {
-      "bytes": 5135,
-      "sha256": "25e5c606378a4cf5685da4be654d136a5be3c69ea2c855e38b8bc0c52a31ab31"
+      "bytes": 5355,
+      "sha256": "3e7767851d6f58ce7cc0608ef4a4bac0dc26a362db280fd091f783b9d68e8797"
     },
     "build_review.py": {
-      "bytes": 35983,
-      "sha256": "39f534a1279c04bbac921f368ed0cd3ddfd5e58ad79fd458ac54ca9c7f81a978"
+      "bytes": 36245,
+      "sha256": "68d1fc9ee8c033d23a24b825fb3f6a6788a0dfac07d1a7d9c359a1e8b83cafb9"
     },
     "issues-and-notices.json": {
       "bytes": 28753,
