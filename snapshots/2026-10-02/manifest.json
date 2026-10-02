@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-02",
+  "timezone": "Europe/Ljubljana",
+  "status": "Pre-taxonomy-cleanup source snapshot; no era designation established",
+  "repository_base_commit": "db243e9ab8d427f07c8a74a4343862d3b87c2486",
+  "source_zip": {
+    "filename": "epistemic-forge-blogger-export-2026-10-02.xml.zip",
+    "sha256": "9fb8896b1787e09222dbe67fbb934726e7cc50a9e806425685f3be9cd9c1b42b",
+    "bytes": 15750246,
+    "storage": "Original owner-held uploaded backup; not committed to this public repository"
+  },
+  "source_atom": {
+    "zip_member": "Takeout/Blogger/Blogs/Epistemic Forge/feed.atom",
+    "bytes": 4965637,
+    "sha256": "45dc9ed7da68533b7facaceb6120e03111ab90bdf209595560db58d677619f02",
+    "entry_count": 167,
+    "types": {
+      "COMMENT": 17,
+      "POST": 150
+    },
+    "post_statuses": {
+      "DRAFT": 1,
+      "LIVE": 149
+    },
+    "live_post_published_range_utc": [
+      "2025-11-05T14:36:00Z",
+      "2026-09-30T14:51:25.859Z"
+    ],
+    "distinct_labels": 448,
+    "label_assignments": 811
+  },
+  "separate_comment_feed": {
+    "zip_member": "Takeout/Blogger/Comments/Epistemic Forge/feed.atom",
+    "sha256": "b1ef377e51835d90b95ed5df1bb873955d7a72334b4b91430aac060c497a2f37",
+    "entries": 15,
+    "all_also_in_main_feed": true,
+    "published_in_repository": false
+  },
+  "transformation": {
+    "operation": "Remove complete Atom entries whose blogger:type is COMMENT",
+    "comments_removed_from_main_feed": 17,
+    "retained_post_entries": 150,
+    "retained_entries_byte_identical": true,
+    "post_order_preserved": true,
+    "empty_draft_retained": true,
+    "post_text_labels_dates_ids_and_statuses_unchanged": true,
+    "raw_zip_unchanged": true,
+    "live_blogger_changed": false,
+    "git_history_rewritten": false,
+    "scope_note": "Blogger comment records removed; HTML/XML authoring comments inside post bodies are retained."
+  },
+  "latest": {
+    "path": "feed.atom",
+    "snapshot_path": "snapshots/2026-10-02/feed.atom",
+    "bytes": 4945644,
+    "sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+    "entry_count": 150,
+    "types": {
+      "POST": 150
+    },
+    "post_statuses": {
+      "DRAFT": 1,
+      "LIVE": 149
+    },
+    "live_post_published_range_utc": [
+      "2025-11-05T14:36:00Z",
+      "2026-09-30T14:51:25.859Z"
+    ],
+    "distinct_labels": 448,
+    "label_assignments": 811
+  },
+  "legacy_sources": [
+    {
+      "date_basis": "Git upload date; original export time is unknown",
+      "date": "2026-07-17",
+      "original_path": "feed.atom",
+      "original_commit": "f3ddc67dbba3c2d1649cd90fe4a09aa3a8feaf61",
+      "original": {
+        "bytes": 4116180,
+        "sha256": "e1791e1bdd16b4d8fa7d4bf6b76f59de7bba39a70cf40c34f59f1c0984202cd3",
+        "entry_count": 189,
+        "types": {
+          "COMMENT": 17,
+          "POST": 172
+        },
+        "post_statuses": {
+          "DRAFT": 41,
+          "LIVE": 129,
+          "SOFT_TRASHED": 2
+        },
+        "live_post_published_range_utc": [
+          "2025-11-05T14:36:00Z",
+          "2026-07-17T20:03:51.139Z"
+        ],
+        "distinct_labels": 436,
+        "label_assignments": 743
+      },
+      "derivative_path": "snapshots/legacy/2026-07-17/feed.atom",
+      "comments_removed": 17,
+      "derivative": {
+        "bytes": 4096187,
+        "sha256": "dc91e18bbb58852e9e6eb9df5008aeb7958c33ef1f8df976e18c7a7079076bbe",
+        "entry_count": 172,
+        "types": {
+          "POST": 172
+        },
+        "post_statuses": {
+          "DRAFT": 41,
+          "LIVE": 129,
+          "SOFT_TRASHED": 2
+        },
+        "live_post_published_range_utc": [
+          "2025-11-05T14:36:00Z",
+          "2026-07-17T20:03:51.139Z"
+        ],
+        "distinct_labels": 436,
+        "label_assignments": 743
+      }
+    },
+    {
+      "date_basis": "Git upload date; original export time is unknown",
+      "date": "2026-08-12",
+      "original_path": "feed2.atom",
+      "original_commit": "db243e9ab8d427f07c8a74a4343862d3b87c2486",
+      "original": {
+        "bytes": 4115829,
+        "sha256": "4e4b71eb4fcdc84674a2aeba074a6998da398fcaf159e22ea59f3427d8ab85c4",
+        "entry_count": 156,
+        "types": {
+          "COMMENT": 17,
+          "POST": 139
+        },
+        "post_statuses": {
+          "DRAFT": 3,
+          "LIVE": 136
+        },
+        "live_post_published_range_utc": [
+          "2025-11-05T14:36:00Z",
+          "2026-08-11T23:25:29.431Z"
+        ],
+        "distinct_labels": 401,
+        "label_assignments": 716
+      },
+      "derivative_path": "snapshots/legacy/2026-08-12/feed.atom",
+      "comments_removed": 17,
+      "derivative": {
+        "bytes": 4095836,
+        "sha256": "5b57a01046659829cb9da4ce885bb361fe665c1e03ba54fd32c2ab08e68e2d38",
+        "entry_count": 139,
+        "types": {
+          "POST": 139
+        },
+        "post_statuses": {
+          "DRAFT": 3,
+          "LIVE": 136
+        },
+        "live_post_published_range_utc": [
+          "2025-11-05T14:36:00Z",
+          "2026-08-11T23:25:29.431Z"
+        ],
+        "distinct_labels": 401,
+        "label_assignments": 716
+      }
+    }
+  ],
+  "atom_files": {
+    "feed.atom": {
+      "sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+      "bytes": 4945644
+    },
+    "feed2.atom": {
+      "sha256": "5b57a01046659829cb9da4ce885bb361fe665c1e03ba54fd32c2ab08e68e2d38",
+      "bytes": 4095836
+    },
+    "snapshots/2026-10-02/feed.atom": {
+      "sha256": "2d7fa0be88fd2781f0e68ef248de98a99e92cf3a8e0c6709617b9e1bbdc6ca6d",
+      "bytes": 4945644
+    },
+    "snapshots/legacy/2026-07-17/feed.atom": {
+      "sha256": "dc91e18bbb58852e9e6eb9df5008aeb7958c33ef1f8df976e18c7a7079076bbe",
+      "bytes": 4096187
+    },
+    "snapshots/legacy/2026-08-12/feed.atom": {
+      "sha256": "5b57a01046659829cb9da4ce885bb361fe665c1e03ba54fd32c2ab08e68e2d38",
+      "bytes": 4095836
+    }
+  }
+}

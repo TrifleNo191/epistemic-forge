@@ -1,0 +1,3506 @@
+{
+  "distinct_labels": 448,
+  "assignments": 811,
+  "labels_used_once": 352,
+  "labels": [
+    {
+      "label": "2028 election",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "absurdism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "activation divergence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "adaptability",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772"
+      ]
+    },
+    {
+      "label": "adaptive-persistence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "Adolf Hitler",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "agency",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "Agent-Relative Semantics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840"
+      ]
+    },
+    {
+      "label": "agent-relativity",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385"
+      ]
+    },
+    {
+      "label": "Agentic Curation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "Agentic Retrieval",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "aggregation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "AI",
+      "assignments": 6,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "AI alignment",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178"
+      ]
+    },
+    {
+      "label": "AI assistants",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506"
+      ]
+    },
+    {
+      "label": "AI collaboration",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601"
+      ]
+    },
+    {
+      "label": "AI deception",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "AI safety",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "AI Slop",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "AIConsciousness",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452"
+      ]
+    },
+    {
+      "label": "AIEthics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452"
+      ]
+    },
+    {
+      "label": "AIPAC",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "AIResearch",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452"
+      ]
+    },
+    {
+      "label": "alignment",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "alignment blueprint",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "anime",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609"
+      ]
+    },
+    {
+      "label": "Anthropic",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "apex synthesis",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713"
+      ]
+    },
+    {
+      "label": "applied fidelity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126"
+      ]
+    },
+    {
+      "label": "Architecture for Living Aligned with Reality",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2110928052706939422"
+      ]
+    },
+    {
+      "label": "archive logs",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "argumentation strategy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "arms embargo",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "Art as Compression of Reality",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4480997801251632049"
+      ]
+    },
+    {
+      "label": "Artificial Intelligence",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453"
+      ]
+    },
+    {
+      "label": "Artificial intelligence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061"
+      ]
+    },
+    {
+      "label": "artificial intelligence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "ArtificialIntelligence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452"
+      ]
+    },
+    {
+      "label": "atheism",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "Attention Economy",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "attraction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "authoritarianism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "authority",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953"
+      ]
+    },
+    {
+      "label": "Authorship",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "automation economics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "BCI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388"
+      ]
+    },
+    {
+      "label": "belief drift flags",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "Benjamin Netanyahu",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "Berserk",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "Bible",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "biological normativity",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "black holes",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "bounded rationality",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638"
+      ]
+    },
+    {
+      "label": "brain-computer interfaces",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385"
+      ]
+    },
+    {
+      "label": "brain-to-brain interfaces",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385"
+      ]
+    },
+    {
+      "label": "calibration",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "campaign finance",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "causal closure",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "causal emergence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592"
+      ]
+    },
+    {
+      "label": "causal inference",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "causality",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "causation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "Cinema",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "classical theism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "Cognition",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385"
+      ]
+    },
+    {
+      "label": "Cognitive Architecture",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781"
+      ]
+    },
+    {
+      "label": "cognitive friction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "cognitive load",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "cognitive rigidity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "cognitive science",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "cognitive thermodynamics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "coherence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "Coherence Is Ethics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593"
+      ]
+    },
+    {
+      "label": "collective responsibility",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953"
+      ]
+    },
+    {
+      "label": "Communities of Taste",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "compatibilism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "Complex Systems",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923"
+      ]
+    },
+    {
+      "label": "complicity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "conceptual analysis",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453"
+      ]
+    },
+    {
+      "label": "conceptual role semantics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973"
+      ]
+    },
+    {
+      "label": "confabulation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601"
+      ]
+    },
+    {
+      "label": "Consciousness",
+      "assignments": 6,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "consistency checks",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "Consistency Tax",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "constitutivism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "control theory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ]
+    },
+    {
+      "label": "control-theory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "copyright",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "correction atrophy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "correction-cost",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "corrigibility",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "cosmic significance",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "cosmology",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ]
+    },
+    {
+      "label": "cost floor",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "coupled cognition",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453"
+      ]
+    },
+    {
+      "label": "coupling",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "coupling density",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999"
+      ]
+    },
+    {
+      "label": "Critical Thinking",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658"
+      ]
+    },
+    {
+      "label": "CT benchmark",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "CTI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "Curiosity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061"
+      ]
+    },
+    {
+      "label": "Current events",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "cybernetics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ]
+    },
+    {
+      "label": "Cybersecurity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "dark energy",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713"
+      ]
+    },
+    {
+      "label": "data visualization",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061"
+      ]
+    },
+    {
+      "label": "debate methodology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "deception overhead",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "DecisionTheory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903"
+      ]
+    },
+    {
+      "label": "decorrelation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831"
+      ]
+    },
+    {
+      "label": "Deductive Structure",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498"
+      ]
+    },
+    {
+      "label": "deepfakes",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "deflationism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004"
+      ]
+    },
+    {
+      "label": "democracy",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "dependencies",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "design",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102"
+      ]
+    },
+    {
+      "label": "design system",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061"
+      ]
+    },
+    {
+      "label": "desktop layout",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "determinism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "Diagram",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498"
+      ]
+    },
+    {
+      "label": "digital communication",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "digital minimalism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "directed automation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "discourse analysis",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "Discovery",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "dissipative structures",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471"
+      ]
+    },
+    {
+      "label": "Dissolution",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840"
+      ]
+    },
+    {
+      "label": "dissolved",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359"
+      ]
+    },
+    {
+      "label": "Distortion.",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "distribution",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "divine command",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "divine hiddenness",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "Domain-Bound Semantics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658"
+      ]
+    },
+    {
+      "label": "Donald Trump",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "Doubt",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495"
+      ]
+    },
+    {
+      "label": "downloads management",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "Dyson Swarm",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310"
+      ]
+    },
+    {
+      "label": "embedded-agency",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "Emotion Regulation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260"
+      ]
+    },
+    {
+      "label": "emotional self-regulation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "energy usage",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "energy-CTI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "entropy",
+      "assignments": 6,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240"
+      ]
+    },
+    {
+      "label": "entropy cost of deception",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "epistemic",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426"
+      ]
+    },
+    {
+      "label": "Epistemic alignment",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "epistemic amplification",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "epistemic emotions",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109"
+      ]
+    },
+    {
+      "label": "Epistemic Forge",
+      "assignments": 36,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "epistemic hygiene",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772"
+      ]
+    },
+    {
+      "label": "epistemic maintenance",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "epistemic responsibility",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "Epistemic Selection",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6473020508036777871"
+      ]
+    },
+    {
+      "label": "Epistemic Status",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463"
+      ]
+    },
+    {
+      "label": "epistemic thermodynamics",
+      "assignments": 5,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425"
+      ]
+    },
+    {
+      "label": "Epistemics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "epistemology",
+      "assignments": 22,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "epistocracy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "error detection",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453"
+      ]
+    },
+    {
+      "label": "essay",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609"
+      ]
+    },
+    {
+      "label": "Ethics",
+      "assignments": 7,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "ethics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "ethics as physics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "EuroSpike",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "evolution",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ]
+    },
+    {
+      "label": "evolutionary biology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781"
+      ]
+    },
+    {
+      "label": "existence literacy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545"
+      ]
+    },
+    {
+      "label": "existentialism",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "Experiential Depth",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911"
+      ]
+    },
+    {
+      "label": "expertise",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "externalities",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "fact-value distinction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105"
+      ]
+    },
+    {
+      "label": "fancyzones",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "fatalism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "feedback",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "fidelity",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731"
+      ]
+    },
+    {
+      "label": "Fidelity Program",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471"
+      ]
+    },
+    {
+      "label": "file organization",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "finite agency",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772"
+      ]
+    },
+    {
+      "label": "finitude",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "firewall",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262"
+      ]
+    },
+    {
+      "label": "Foot",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "foreign policy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "formal methods",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "free energy principle",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592"
+      ]
+    },
+    {
+      "label": "Free Will",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "free will skepticism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "Future",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "future AI",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "Future of Communication",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935"
+      ]
+    },
+    {
+      "label": "Future of Media",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "Gaza",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "gender",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509"
+      ]
+    },
+    {
+      "label": "gender identity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105"
+      ]
+    },
+    {
+      "label": "Generative AI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "generative video",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "genocide",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "GH repo",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "Glossary",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436"
+      ]
+    },
+    {
+      "label": "goal compression",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "governance",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "Guts",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "habit formation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "harm reduction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "heat death",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319"
+      ]
+    },
+    {
+      "label": "HF dataset",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "HF Space",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "Hollywood",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "Holographic Principle",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829"
+      ]
+    },
+    {
+      "label": "homeopathy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126"
+      ]
+    },
+    {
+      "label": "human digital twins",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388"
+      ]
+    },
+    {
+      "label": "Human-AI Symbiosis",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178"
+      ]
+    },
+    {
+      "label": "human–AI interaction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "Human–Machine Interface",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935"
+      ]
+    },
+    {
+      "label": "Hume",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "Immersive Architecture",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911"
+      ]
+    },
+    {
+      "label": "industrial explosion",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234"
+      ]
+    },
+    {
+      "label": "Infinite Cinema",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "information",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220"
+      ]
+    },
+    {
+      "label": "information theory",
+      "assignments": 11,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425"
+      ]
+    },
+    {
+      "label": "information-theory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "inquiry",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638"
+      ]
+    },
+    {
+      "label": "institutional design",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "instrumental convergence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999"
+      ]
+    },
+    {
+      "label": "intellectual integrity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "intelligence",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385"
+      ]
+    },
+    {
+      "label": "intelligence explosion",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234"
+      ]
+    },
+    {
+      "label": "interaction design",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506"
+      ]
+    },
+    {
+      "label": "intersex",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105"
+      ]
+    },
+    {
+      "label": "is-ought",
+      "assignments": 8,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "Is-Ought Problem",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425"
+      ]
+    },
+    {
+      "label": "is-ought reduction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "is/ought firewall",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713"
+      ]
+    },
+    {
+      "label": "isekai",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609"
+      ]
+    },
+    {
+      "label": "Israel",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "is–ought",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004"
+      ]
+    },
+    {
+      "label": "ITRGR",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "Janez Janša",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "JSON/CSV",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "Karl Jaspers",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "kindness",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495"
+      ]
+    },
+    {
+      "label": "Knowledge",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061"
+      ]
+    },
+    {
+      "label": "Labor",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768"
+      ]
+    },
+    {
+      "label": "Landauer",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "Landauer principle",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "Landauer's Principle",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319"
+      ]
+    },
+    {
+      "label": "latency",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "law",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "leaderboard",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "Learning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061"
+      ]
+    },
+    {
+      "label": "levels",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "Lies Cost Energy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593"
+      ]
+    },
+    {
+      "label": "lifelogging",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388"
+      ]
+    },
+    {
+      "label": "LLM deception",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "LLM eval",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "logic",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "Long-form",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "lossy compression",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126"
+      ]
+    },
+    {
+      "label": "MachineLearning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4798377103310048452"
+      ]
+    },
+    {
+      "label": "Manifesto",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702"
+      ]
+    },
+    {
+      "label": "MANUAL FOR THE END OF THE UNIVERSE",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433817691456130069"
+      ]
+    },
+    {
+      "label": "Map-Territory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178"
+      ]
+    },
+    {
+      "label": "Markov blanket",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999"
+      ]
+    },
+    {
+      "label": "MDL",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "meaning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319"
+      ]
+    },
+    {
+      "label": "meaning of life",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "mech interpretability",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "Media literacy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "media ownership",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "Media Theory",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "mental causation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "meta",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592"
+      ]
+    },
+    {
+      "label": "Meta-ethics",
+      "assignments": 7,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831"
+      ]
+    },
+    {
+      "label": "Meta-Temporal Prompts",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "Metacognition",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "MetaEthics",
+      "assignments": 20,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284"
+      ]
+    },
+    {
+      "label": "metaethics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "Metaphysics",
+      "assignments": 8,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "Method",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1734687694622479601",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "method note",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608"
+      ]
+    },
+    {
+      "label": "methodology",
+      "assignments": 10,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509"
+      ]
+    },
+    {
+      "label": "moral disengagement",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858"
+      ]
+    },
+    {
+      "label": "moral responsibility",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "moral uncertainty",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "morphology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "mortality",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951"
+      ]
+    },
+    {
+      "label": "motivated reasoning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951"
+      ]
+    },
+    {
+      "label": "multilevel causation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813"
+      ]
+    },
+    {
+      "label": "Name the Relata",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "naturalism",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004"
+      ]
+    },
+    {
+      "label": "naturalized metaphysics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813"
+      ]
+    },
+    {
+      "label": "Neurodiversity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768"
+      ]
+    },
+    {
+      "label": "neuroplasticity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "neuroscience",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388"
+      ]
+    },
+    {
+      "label": "Neurotechnology",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7787765606742234935",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385"
+      ]
+    },
+    {
+      "label": "nihilism",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810"
+      ]
+    },
+    {
+      "label": "NLL",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "non-reductive physicalism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "normativity",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140"
+      ]
+    },
+    {
+      "label": "nothingness",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "objectivity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721"
+      ]
+    },
+    {
+      "label": "of",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426"
+      ]
+    },
+    {
+      "label": "oligarchy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "ontology",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "open-mindedness",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "opt-in privacy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "optimization",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "parallel workflows",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "Parfit",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471"
+      ]
+    },
+    {
+      "label": "persistence",
+      "assignments": 14,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6795026095426036840",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "personal",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592"
+      ]
+    },
+    {
+      "label": "Personal AI Agents",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "personal essay",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760"
+      ]
+    },
+    {
+      "label": "personal identity",
+      "assignments": 7,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2657449993414072568",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2887308005513333471",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "philosophical anarchism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953"
+      ]
+    },
+    {
+      "label": "philosophy",
+      "assignments": 31,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2163986268499910004",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7171029550237365638",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2962975118586051385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5825812983608919140",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-949745690848514858",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2107842814863774102"
+      ]
+    },
+    {
+      "label": "philosophy of classification",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105"
+      ]
+    },
+    {
+      "label": "philosophy of language",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973"
+      ]
+    },
+    {
+      "label": "philosophy of mathematics",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "philosophy of mind",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679"
+      ]
+    },
+    {
+      "label": "Philosophy of Physics",
+      "assignments": 4,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1124998182553795713"
+      ]
+    },
+    {
+      "label": "Philosophy of Play",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911"
+      ]
+    },
+    {
+      "label": "philosophy of religion",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "Philosophy of Science",
+      "assignments": 8,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731"
+      ]
+    },
+    {
+      "label": "philosophy of science",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680"
+      ]
+    },
+    {
+      "label": "physical basis of truth",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "Physicalism",
+      "assignments": 16,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7788037213087791810",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "physics",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570"
+      ]
+    },
+    {
+      "label": "placebo",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126"
+      ]
+    },
+    {
+      "label": "political economy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "Political Economy of AI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "political philosophy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "post-scarcity",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911"
+      ]
+    },
+    {
+      "label": "Practical Philosophy",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772"
+      ]
+    },
+    {
+      "label": "prereg",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "prior art",
+      "assignments": 5,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385"
+      ]
+    },
+    {
+      "label": "proactive agents",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506"
+      ]
+    },
+    {
+      "label": "problem",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1168648128002520359"
+      ]
+    },
+    {
+      "label": "problem of evil",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "processing fluency",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9088543382596308109"
+      ]
+    },
+    {
+      "label": "procurement",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "pseudoscience",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2595054807061980126"
+      ]
+    },
+    {
+      "label": "Psychology",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260"
+      ]
+    },
+    {
+      "label": "public reasoning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "Quantum Gravity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829"
+      ]
+    },
+    {
+      "label": "rcap",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "reality alignment",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456"
+      ]
+    },
+    {
+      "label": "Reality Mapping",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2279073318939112178",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5646688591934600251"
+      ]
+    },
+    {
+      "label": "reality-alignment optimization",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "reality-avoidance",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6669163268920250951"
+      ]
+    },
+    {
+      "label": "recover ideas",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "recursive refinement",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "reduction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "reductionism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7975171817769139758"
+      ]
+    },
+    {
+      "label": "Reference",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973"
+      ]
+    },
+    {
+      "label": "reference resolution",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7800103533343691506"
+      ]
+    },
+    {
+      "label": "Relata-Indexed Objectivity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "representation",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3528610734651832456",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "research proposal",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "respect for AI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "Retrieval Economy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "risk",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7497727602926008670"
+      ]
+    },
+    {
+      "label": "robustness",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831"
+      ]
+    },
+    {
+      "label": "scientific literacy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545"
+      ]
+    },
+    {
+      "label": "second-brain workflows",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "selection",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608"
+      ]
+    },
+    {
+      "label": "self-correction",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-507516394655172731"
+      ]
+    },
+    {
+      "label": "self-correction mechanism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7726416819703453717"
+      ]
+    },
+    {
+      "label": "self-defeat",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "self-modeling",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7112920038566553453"
+      ]
+    },
+    {
+      "label": "self-reference",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608"
+      ]
+    },
+    {
+      "label": "Self-Regulation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3864736591396500260"
+      ]
+    },
+    {
+      "label": "selfhood",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545"
+      ]
+    },
+    {
+      "label": "Semantic",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "semantic indexing",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728"
+      ]
+    },
+    {
+      "label": "Semantic Terrorism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "Semantic Terrorist",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "semantics",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1300779518070555721",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    },
+    {
+      "label": "sex",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509"
+      ]
+    },
+    {
+      "label": "sex and gender",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2773217516438248105"
+      ]
+    },
+    {
+      "label": "sexual orientation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509"
+      ]
+    },
+    {
+      "label": "sexuality",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1704652683339718159"
+      ]
+    },
+    {
+      "label": "Simulated Reality",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1236226361301616911",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609"
+      ]
+    },
+    {
+      "label": "singularity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234"
+      ]
+    },
+    {
+      "label": "Slovenia",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "source audit",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3523182660021652353"
+      ]
+    },
+    {
+      "label": "Space Technology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2344117699231201310"
+      ]
+    },
+    {
+      "label": "specification",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061"
+      ]
+    },
+    {
+      "label": "spectrum",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8758215390025519426"
+      ]
+    },
+    {
+      "label": "stoicism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751"
+      ]
+    },
+    {
+      "label": "Substrate Writing",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "suffering",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6693154679151769284"
+      ]
+    },
+    {
+      "label": "superintelligence",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831"
+      ]
+    },
+    {
+      "label": "supernaturalism",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6223414605006229728",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "system identification",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2806923633543883388"
+      ]
+    },
+    {
+      "label": "system tuning",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "Systemic Critique",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1433601473110374768"
+      ]
+    },
+    {
+      "label": "systems-theory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "takeoff speeds",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234"
+      ]
+    },
+    {
+      "label": "tautology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3602723236847804220"
+      ]
+    },
+    {
+      "label": "taxonomy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "technocracy",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "Technology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-416672099238974010"
+      ]
+    },
+    {
+      "label": "temporal nihilism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "terminology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8986223333475443027"
+      ]
+    },
+    {
+      "label": "Terrorism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "The Exclusivity Error",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8097357162712961133"
+      ]
+    },
+    {
+      "label": "The Ghost Filter",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754"
+      ]
+    },
+    {
+      "label": "The Thermodynamic Cost of Misalignment",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1487236972339453593"
+      ]
+    },
+    {
+      "label": "Theoretical Physics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463"
+      ]
+    },
+    {
+      "label": "thermodynamic alignment",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054"
+      ]
+    },
+    {
+      "label": "thermodynamic cost",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190"
+      ]
+    },
+    {
+      "label": "Thermodynamic epistemology",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "Thermodynamic Monism",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702"
+      ]
+    },
+    {
+      "label": "Thermodynamic Realism",
+      "assignments": 26,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9051147106067862955",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1751578797866657658",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5579124113530611570",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6013904935190817754",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-587260941651514425",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1869437238141394061",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-652861427468731679",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-253295569723518500",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2959662456794898831",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5391871492648397156",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2679296570005954563",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8027238046950156262",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6458502646084662608",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5467295548793823999",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7500707946749187973",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4838741726104773953"
+      ]
+    },
+    {
+      "label": "thermodynamics",
+      "assignments": 17,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1984869785307150054",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9211582682156323516",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2227266549798460829",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2750028891148248573",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8997777983549456436",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6955236149541028498",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8289109074917835702",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7872158136147060923",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4860605048582057781",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1764037037166913240",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5781516394992129233",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5846387203100244463",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-9217188563686431319",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5013398351937118234",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2376092161793892189"
+      ]
+    },
+    {
+      "label": "thermodynamics of prediction",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8291326030209953592",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6465528068805080813"
+      ]
+    },
+    {
+      "label": "ThoughtExperiment",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4087798164463907903"
+      ]
+    },
+    {
+      "label": "time-capsule prompts",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4239512239417480023"
+      ]
+    },
+    {
+      "label": "tokens",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-3743807947149678190",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "tone and dialogue",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "trans identity",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4769422303009669509"
+      ]
+    },
+    {
+      "label": "truth",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4967003489072455751"
+      ]
+    },
+    {
+      "label": "truth-seeking",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6651359657616493165"
+      ]
+    },
+    {
+      "label": "truth-tracking",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1482316574364013267"
+      ]
+    },
+    {
+      "label": "uncertainty",
+      "assignments": 3,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-8982258478010198772",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-476514547755071981"
+      ]
+    },
+    {
+      "label": "Unconscious Semantic Distortion",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7009640284256511546"
+      ]
+    },
+    {
+      "label": "United States",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7707346650060072072"
+      ]
+    },
+    {
+      "label": "universal basic services",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7831936543091968698"
+      ]
+    },
+    {
+      "label": "universal scaling laws",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7471836271539705865"
+      ]
+    },
+    {
+      "label": "utilitarian evaluation",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "utilitarian leximin",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6917091782956921270"
+      ]
+    },
+    {
+      "label": "utilitarian mindset",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-748859650650045562"
+      ]
+    },
+    {
+      "label": "Value",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7458596335449156385",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4229309129226628931"
+      ]
+    },
+    {
+      "label": "value theory",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6531411948702187760"
+      ]
+    },
+    {
+      "label": "Verification",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7280432547125668863"
+      ]
+    },
+    {
+      "label": "viability",
+      "assignments": 2,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2192595508277207580",
+        "tag:blogger.com,1999:blog-1772110240684732490.post-143568004634881748"
+      ]
+    },
+    {
+      "label": "Wellbeing",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5193462961587788495"
+      ]
+    },
+    {
+      "label": "wellbeing ethics",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-2085614883099905291"
+      ]
+    },
+    {
+      "label": "window management",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "Wonder",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1101231525244736061"
+      ]
+    },
+    {
+      "label": "workspace optimization",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4534796465914744904"
+      ]
+    },
+    {
+      "label": "world-models",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-7535322573377426545"
+      ]
+    },
+    {
+      "label": "worlds",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-4386869272346153609"
+      ]
+    },
+    {
+      "label": "Writing",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1328500969266957865"
+      ]
+    },
+    {
+      "label": "writing",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-1197940519547012680"
+      ]
+    },
+    {
+      "label": "Zenodo DOI",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-5951517653562810346"
+      ]
+    },
+    {
+      "label": "zero",
+      "assignments": 1,
+      "post_ids": [
+        "tag:blogger.com,1999:blog-1772110240684732490.post-6847296965724372157"
+      ]
+    }
+  ]
+}

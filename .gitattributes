@@ -1,0 +1,5 @@
+# Preserve exported Atom bytes, including on Windows checkouts.
+*.atom -text
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf

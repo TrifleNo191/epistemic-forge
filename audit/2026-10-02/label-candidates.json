@@ -1,0 +1,93 @@
+{
+  "status": "Review candidates only. No labels changed; string similarity does not establish semantic identity.",
+  "mechanical_rule": "Unicode NFKC, case-fold, retain alphanumeric characters",
+  "mechanical_groups": [
+    {
+      "comparison_key": "artificialintelligence",
+      "labels": [
+        "Artificial Intelligence",
+        "Artificial intelligence",
+        "ArtificialIntelligence",
+        "artificial intelligence"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "controltheory",
+      "labels": [
+        "control theory",
+        "control-theory"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "ethics",
+      "labels": [
+        "Ethics",
+        "ethics"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "informationtheory",
+      "labels": [
+        "information theory",
+        "information-theory"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "isought",
+      "labels": [
+        "is-ought",
+        "is–ought"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "metaethics",
+      "labels": [
+        "Meta-ethics",
+        "MetaEthics",
+        "metaethics"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "philosophyofscience",
+      "labels": [
+        "Philosophy of Science",
+        "philosophy of science"
+      ],
+      "status": "needs_context_review"
+    },
+    {
+      "comparison_key": "writing",
+      "labels": [
+        "Writing",
+        "writing"
+      ],
+      "status": "needs_context_review"
+    }
+  ],
+  "additional_semantic_candidates": [
+    {
+      "labels": [
+        "is-ought",
+        "is–ought",
+        "Is-Ought Problem"
+      ],
+      "question": "Do all occurrences denote the same topic or distinct uses of the relation/problem?"
+    },
+    {
+      "labels": [
+        "AI",
+        "Artificial intelligence",
+        "Artificial Intelligence",
+        "ArtificialIntelligence",
+        "artificial intelligence"
+      ],
+      "question": "Are abbreviation and expanded labels coextensive across these posts? Keep narrower AI topics separate."
+    }
+  ]
+}
